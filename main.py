@@ -22,9 +22,14 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["whole slide image", "whole slide images", "pathology", "Multiple Instance Learning", "pathology reports", "Pathology Report Generation"] # TODO add more keywords
+keywords = [
+    "AND:diffusion classification",  # 多词匹配，逻辑与
+    "AND:medical diffusion classification",
+    "visual prompt",             # 精确短语匹配
+    "MLLM"
+]
 
-max_result = 200 # maximum query results from arXiv API for each keyword
+max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 20 # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
@@ -48,24 +53,35 @@ f_is.write("---\n")
 f_is.write("**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**\n\n")
 
 for keyword in keywords:
-    f_rm.write("## {0}\n".format(keyword))
-    f_is.write("## {0}\n".format(keyword))
-    if len(keyword.split()) == 1: link = "AND" # for keyword with only one word, We search for papers containing this keyword in both the title and abstract.
-    else: link = "OR"
-    papers = get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result, link)
-    if papers is None: # failed to get papers
+    f_rm.write(f"## {keyword}\n")
+    f_is.write(f"## {keyword}\n")
+
+    if keyword.startswith("AND:") or keyword.startswith("OR:"):
+        logic_type = "AND" if keyword.startswith("AND:") else "OR"
+        real_keyword = keyword[len(logic_type) + 1:].strip()  # 去掉前缀
+        keywords_split = real_keyword.split()
+        sub_queries = [f'(ti:"{k}" OR abs:"{k}")' for k in keywords_split]
+        raw_query = f" {logic_type} ".join(sub_queries)
+        papers = get_daily_papers_by_keyword_with_retries(real_keyword, column_names, max_result, raw_query=raw_query)
+    else:
+        # 默认作为完整短语查询
+        raw_query = f'(ti:"{keyword}" OR abs:"{keyword}")'
+        papers = get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result, raw_query=raw_query)
+
+    if papers is None:
         print("Failed to get papers!")
         f_rm.close()
         f_is.close()
         restore_files()
         sys.exit("Failed to get papers!")
+
     rm_table = generate_table(papers)
     is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
     f_rm.write(rm_table)
     f_rm.write("\n\n")
     f_is.write(is_table)
     f_is.write("\n\n")
-    time.sleep(5) # avoid being blocked by arXiv API
+    time.sleep(5)
 
 f_rm.close()
 f_is.close()
