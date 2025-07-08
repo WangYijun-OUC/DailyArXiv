@@ -5,10 +5,8 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '13 8 * * 0-6' # 00:30 Beijing time every Monday to Friday
-  
-  workflow_dispatch:
-  
+      - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
+
 permissions:
   contents: write
   issues: write 
@@ -19,6 +17,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # 拉取所有历史，避免 push 被拒绝
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -33,19 +33,17 @@ jobs:
         python main.py
 
     - name: Commit and push changes
-      uses: github-actions-x/commit@v2.9
-      with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'master'
-        commit-message: '✏️ Update papers automatically.'
-        force-add: 'true'
-        files: README.md .github/ISSUE_TEMPLATE.md
-        name: JunjianLi
-        email: 1062248402@qq.com
+      run: |
+        git config user.name "WangYijun-OUC"
+        git config user.email "wangyijun010522@126.com"
+
+        git add README.md .github/ISSUE_TEMPLATE.md
+        git commit -m "✏️ Update papers automatically." || echo "No changes to commit"
+
+        git pull --rebase origin master
+        git push origin master
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
