@@ -7,6 +7,10 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models](http://arxiv.org/abs/2507.06078v1)** | 2025-07-08 |  |
+| **[Knowledge-guided Complex Diffusion Model for PolSAR Image Classification in Contourlet Domain](http://arxiv.org/abs/2507.05666v1)** | 2025-07-08 |  |
+| **[FreqCross: A Multi-Modal Frequency-Spatial Fusion Network for Robust Detection of Stable Diffusion 3.5 Generated Images](http://arxiv.org/abs/2507.02995v2)** | 2025-07-08 |  |
+| **[Model-free Optical Processors using In Situ Reinforcement Learning with Proximal Policy Optimization](http://arxiv.org/abs/2507.05583v1)** | 2025-07-08 | 19 Pages, 7 Figures |
 | **[VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems](http://arxiv.org/abs/2507.05146v1)** | 2025-07-07 |  |
 | **[AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics](http://arxiv.org/abs/2507.05063v1)** | 2025-07-07 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 2 tables. Final Degree Project (TFG) submitted at ESCI-UPF and conducted at Helmholtz Munich</p></details> |
 | **[Parameterized Diffusion Optimization enabled Autoregressive Ordinal Regression for Diabetic Retinopathy Grading](http://arxiv.org/abs/2507.04978v1)** | 2025-07-07 | MICCAI 2025 |
@@ -15,7 +19,6 @@ labels: documentation
 | **[PosDiffAE: Position-aware Diffusion Auto-encoder For High-Resolution Brain Tissue Classification Incorporating Artifact Restoration](http://arxiv.org/abs/2507.02405v1)** | 2025-07-03 | <details><summary>Publi...</summary><p>Published in IEEE Journal of Biomedical and Health Informatics (Early Access Available) https://ieeexplore.ieee.org/document/10989734</p></details> |
 | **[On the Trade-off between Flatness and Optimization in Distributed Learning](http://arxiv.org/abs/2406.20006v2)** | 2025-07-02 |  |
 | **[Embedding-Space Diffusion for Zero-Shot Environmental Sound Classification](http://arxiv.org/abs/2412.03771v2)** | 2025-07-01 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[FreqCross: A Multi-Modal Frequency-Spatial Fusion Network for Robust Detection of Stable Diffusion 3.5 Generated Images](http://arxiv.org/abs/2507.02995v1)** | 2025-07-01 |  |
 | **[Prompt-Guided Latent Diffusion with Predictive Class Conditioning for 3D Prostate MRI Generation](http://arxiv.org/abs/2506.10230v2)** | 2025-07-01 | <details><summary>MAH a...</summary><p>MAH and BT are co-senior authors on the work. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Generative AI-based data augmentation for improved bioacoustic classification in noisy environments](http://arxiv.org/abs/2412.01530v2)** | 2025-07-01 | <details><summary>20 pa...</summary><p>20 pages, 3 tables, 6 figures</p></details> |
 | **[Unleashing Diffusion and State Space Models for Medical Image Segmentation](http://arxiv.org/abs/2506.12747v2)** | 2025-07-01 |  |
@@ -24,9 +27,6 @@ labels: documentation
 | **[Toward Simple and Robust Contrastive Explanations for Image Classification by Leveraging Instance Similarity and Concept Relevance](http://arxiv.org/abs/2506.23975v1)** | 2025-06-30 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, KI2025 - 48th German Conference on Artificial Intelligence</p></details> |
 | **[Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors](http://arxiv.org/abs/2506.23801v1)** | 2025-06-30 |  |
 | **[A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement](http://arxiv.org/abs/2506.23676v1)** | 2025-06-30 |  |
-| **[Uncertainty-aware Diffusion and Reinforcement Learning for Joint Plane Localization and Anomaly Diagnosis in 3D Ultrasound](http://arxiv.org/abs/2506.23538v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025;10 pages, 3 figures</p></details> |
-| **[Contrastive Learning with Diffusion Features for Weakly Supervised Medical Image Segmentation](http://arxiv.org/abs/2506.23460v1)** | 2025-06-30 |  |
-| **[PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions](http://arxiv.org/abs/2506.23440v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,7 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Visual Adaptive Prompting for Compositional Zero-Shot Learning](http://arxiv.org/abs/2502.20292v5)** | 2025-07-08 |  |
 | **[Stepwise Decomposition and Dual-stream Focus: A Novel Approach for Training-free Camouflaged Object Segmentation](http://arxiv.org/abs/2506.06818v2)** | 2025-07-07 | <details><summary>accep...</summary><p>accepted by ACM MM2025</p></details> |
 | **[No time to train! Training-Free Reference-Based Instance Segmentation](http://arxiv.org/abs/2507.02798v2)** | 2025-07-05 | Preprint |
 | **[Prompt Disentanglement via Language Guidance and Representation Alignment for Domain Generalization](http://arxiv.org/abs/2507.02288v1)** | 2025-07-03 |  |
@@ -74,14 +75,19 @@ labels: documentation
 | **[Zero-Shot Temporal Interaction Localization for Egocentric Videos](http://arxiv.org/abs/2506.03662v3)** | 2025-06-16 |  |
 | **[AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions](http://arxiv.org/abs/2506.09557v1)** | 2025-06-11 |  |
 | **[FC-Attack: Jailbreaking Multimodal Large Language Models via Auto-Generated Flowcharts](http://arxiv.org/abs/2502.21059v2)** | 2025-06-10 | 13 pages, 7 figures |
-| **[BakuFlow: A Streamlining Semi-Automatic Label Generation Tool](http://arxiv.org/abs/2506.09083v1)** | 2025-06-10 | <details><summary>4 pag...</summary><p>4 pages, 3 figures, 1 Table</p></details> |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Omni-Video: Democratizing Unified Video Understanding and Generation](http://arxiv.org/abs/2507.06119v1)** | 2025-07-08 | <details><summary>Techn...</summary><p>Technical report, project page: https://sais-fuxi.github.io/Omni-Video/</p></details> |
+| **[BlueLM-2.5-3B Technical Report](http://arxiv.org/abs/2507.05934v1)** | 2025-07-08 |  |
+| **[Fine-Grained Knowledge Structuring and Retrieval for Visual Question Answering](http://arxiv.org/abs/2502.20964v3)** | 2025-07-08 |  |
+| **[UniCode$^2$: Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation](http://arxiv.org/abs/2506.20214v2)** | 2025-07-08 | 19 pages, 5 figures |
+| **[MLlm-DR: Towards Explainable Depression Recognition with MultiModal Large Language Models](http://arxiv.org/abs/2507.05591v1)** | 2025-07-08 |  |
 | **[Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing](http://arxiv.org/abs/2507.05259v1)** | 2025-07-07 | <details><summary>Proje...</summary><p>Project page: https://danielchyeh.github.io/x-planner/</p></details> |
 | **[Spatio-Temporal LLM: Reasoning about Environments and Actions](http://arxiv.org/abs/2507.05258v1)** | 2025-07-07 | <details><summary>Code ...</summary><p>Code and data are available at https://zoezheng126.github.io/STLLM-website/</p></details> |
 | **[Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning](http://arxiv.org/abs/2507.05255v1)** | 2025-07-07 |  |
+| **[MindFlow: Revolutionizing E-commerce Customer Support with Multimodal LLM Agents](http://arxiv.org/abs/2507.05330v1)** | 2025-07-07 |  |
 | **[Transfer Attack for Bad and Good: Explain and Boost Adversarial Transferability across Multimodal Large Language Models](http://arxiv.org/abs/2405.20090v4)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 | **[FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](http://arxiv.org/abs/2505.20147v2)** | 2025-07-07 | 37 pages, 12 figures |
 | **[ArtifactsBench: Bridging the Visual-Interactive Gap in LLM Code Generation Evaluation](http://arxiv.org/abs/2507.04952v1)** | 2025-07-07 |  |
@@ -93,10 +99,4 @@ labels: documentation
 | **[Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs](http://arxiv.org/abs/2506.22139v2)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[Tempo-R0: A Video-MLLM for Temporal Video Grounding through Efficient Temporal Sensing Reinforcement Learning](http://arxiv.org/abs/2507.04702v1)** | 2025-07-07 |  |
 | **[Toward Robust Hyper-Detailed Image Captioning: A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage](http://arxiv.org/abs/2412.15484v4)** | 2025-07-07 | ICML 2025 |
-| **[VectorLLM: Human-like Extraction of Structured Building Contours vis Multimodal LLMs](http://arxiv.org/abs/2507.04664v1)** | 2025-07-07 |  |
-| **[AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding](http://arxiv.org/abs/2507.02591v2)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[MODA: MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding](http://arxiv.org/abs/2507.04635v1)** | 2025-07-07 | <details><summary>ICML ...</summary><p>ICML 2025 (Spotlight, Top 2.6%)</p></details> |
-| **[Multimodal LLM Integrated Semantic Communications for 6G Immersive Experiences](http://arxiv.org/abs/2507.04621v1)** | 2025-07-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[CoT-lized Diffusion: Let's Reinforce T2I Generation Step-by-step](http://arxiv.org/abs/2507.04451v1)** | 2025-07-06 |  |
-| **[Multimedia Verification Through Multi-Agent Deep Research Multimodal Large Language Models](http://arxiv.org/abs/2507.04410v1)** | 2025-07-06 | <details><summary>33rd ...</summary><p>33rd ACM International Conference on Multimedia (MM'25) Grand Challenge on Multimedia Verification</p></details> |
 
