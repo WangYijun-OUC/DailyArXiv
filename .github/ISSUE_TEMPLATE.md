@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 09, 2025
+title: Latest 20 Papers - July 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -65,16 +65,6 @@ labels: documentation
 | **[Attention to Burstiness: Low-Rank Bilinear Prompt Tuning](http://arxiv.org/abs/2506.22908v1)** | 2025-06-28 | ICCV 2025 |
 | **[Prompt Mechanisms in Medical Imaging: A Comprehensive Survey](http://arxiv.org/abs/2507.01055v1)** | 2025-06-28 |  |
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v3)** | 2025-06-27 | Accepted by ICME2025 |
-| **[Class-Agnostic Region-of-Interest Matching in Document Images](http://arxiv.org/abs/2506.21055v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ICDAR2025</p></details> |
-| **[Visual and Textual Prompts in VLLMs for Enhancing Emotion Recognition](http://arxiv.org/abs/2504.17224v2)** | 2025-06-25 | 14 pages, 14 figures |
-| **[Catastrophic Forgetting Mitigation via Discrepancy-Weighted Experience Replay](http://arxiv.org/abs/2507.00042v1)** | 2025-06-23 | ICANN 2025 |
-| **[Visual Prompt Engineering for Vision Language Models in Radiology](http://arxiv.org/abs/2408.15802v3)** | 2025-06-22 | <details><summary>Accep...</summary><p>Accepted at ECCV 2024 Workshop on Emergent Visual Abilities and Limits of Foundation Models & Medical Imaging with Deep Learning 2025</p></details> |
-| **[Programmable-Room: Interactive Textured 3D Room Meshes Generation Empowered by Large Language Models](http://arxiv.org/abs/2506.17707v1)** | 2025-06-21 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia</p></details> |
-| **[SafeTriage: Facial Video De-identification for Privacy-Preserving Stroke Triage](http://arxiv.org/abs/2506.16578v1)** | 2025-06-19 | IPMI 2025 |
-| **[AutoV: Learning to Retrieve Visual Prompt for Large Vision-Language Models](http://arxiv.org/abs/2506.16112v1)** | 2025-06-19 | 19 pages |
-| **[Zero-Shot Temporal Interaction Localization for Egocentric Videos](http://arxiv.org/abs/2506.03662v3)** | 2025-06-16 |  |
-| **[AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions](http://arxiv.org/abs/2506.09557v1)** | 2025-06-11 |  |
-| **[FC-Attack: Jailbreaking Multimodal Large Language Models via Auto-Generated Flowcharts](http://arxiv.org/abs/2502.21059v2)** | 2025-06-10 | 13 pages, 7 figures |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
