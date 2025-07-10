@@ -55,6 +55,7 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Correlative and Discriminative Label Grouping for Multi-Label Visual Prompt Tuning](http://arxiv.org/abs/2504.09990v2)** | 2025-07-09 | <details><summary>IEEE/...</summary><p>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</p></details> |
 | **[Visual Adaptive Prompting for Compositional Zero-Shot Learning](http://arxiv.org/abs/2502.20292v5)** | 2025-07-08 |  |
 | **[Stepwise Decomposition and Dual-stream Focus: A Novel Approach for Training-free Camouflaged Object Segmentation](http://arxiv.org/abs/2506.06818v2)** | 2025-07-07 | <details><summary>accep...</summary><p>accepted by ACM MM2025</p></details> |
 | **[No time to train! Training-Free Reference-Based Instance Segmentation](http://arxiv.org/abs/2507.02798v2)** | 2025-07-05 | Preprint |
@@ -65,11 +66,24 @@ labels: documentation
 | **[Attention to Burstiness: Low-Rank Bilinear Prompt Tuning](http://arxiv.org/abs/2506.22908v1)** | 2025-06-28 | ICCV 2025 |
 | **[Prompt Mechanisms in Medical Imaging: A Comprehensive Survey](http://arxiv.org/abs/2507.01055v1)** | 2025-06-28 |  |
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v3)** | 2025-06-27 | Accepted by ICME2025 |
+| **[Class-Agnostic Region-of-Interest Matching in Document Images](http://arxiv.org/abs/2506.21055v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ICDAR2025</p></details> |
+| **[Visual and Textual Prompts in VLLMs for Enhancing Emotion Recognition](http://arxiv.org/abs/2504.17224v2)** | 2025-06-25 | 14 pages, 14 figures |
+| **[Catastrophic Forgetting Mitigation via Discrepancy-Weighted Experience Replay](http://arxiv.org/abs/2507.00042v1)** | 2025-06-23 | ICANN 2025 |
+| **[Visual Prompt Engineering for Vision Language Models in Radiology](http://arxiv.org/abs/2408.15802v3)** | 2025-06-22 | <details><summary>Accep...</summary><p>Accepted at ECCV 2024 Workshop on Emergent Visual Abilities and Limits of Foundation Models & Medical Imaging with Deep Learning 2025</p></details> |
+| **[Programmable-Room: Interactive Textured 3D Room Meshes Generation Empowered by Large Language Models](http://arxiv.org/abs/2506.17707v1)** | 2025-06-21 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia</p></details> |
+| **[SafeTriage: Facial Video De-identification for Privacy-Preserving Stroke Triage](http://arxiv.org/abs/2506.16578v1)** | 2025-06-19 | IPMI 2025 |
+| **[AutoV: Learning to Retrieve Visual Prompt for Large Vision-Language Models](http://arxiv.org/abs/2506.16112v1)** | 2025-06-19 | 19 pages |
+| **[Zero-Shot Temporal Interaction Localization for Egocentric Videos](http://arxiv.org/abs/2506.03662v3)** | 2025-06-16 |  |
+| **[AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions](http://arxiv.org/abs/2506.09557v1)** | 2025-06-11 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Omni-Video: Democratizing Unified Video Understanding and Generation](http://arxiv.org/abs/2507.06119v1)** | 2025-07-08 | <details><summary>Techn...</summary><p>Technical report, project page: https://sais-fuxi.github.io/Omni-Video/</p></details> |
+| **[Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor](http://arxiv.org/abs/2507.07106v1)** | 2025-07-09 | <details><summary>Websi...</summary><p>Website: see https://vatsalag99.github.io/mustafar/</p></details> |
+| **[Learning Deliberately, Acting Intuitively: Unlocking Test-Time Reasoning in Multimodal LLMs](http://arxiv.org/abs/2507.06999v1)** | 2025-07-09 | Work in progress |
+| **[Omni-Video: Democratizing Unified Video Understanding and Generation](http://arxiv.org/abs/2507.06119v2)** | 2025-07-09 | <details><summary>Techn...</summary><p>Technical report, project page: https://howellyoung-s.github.io/OmniVideo_project/</p></details> |
+| **[Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs](http://arxiv.org/abs/2501.04670v3)** | 2025-07-09 | Accepted by ICCV2025 |
+| **[DeepTalk: Towards Seamless and Smart Speech Interaction with Adaptive Modality-Specific MoE](http://arxiv.org/abs/2506.21864v2)** | 2025-07-09 | Under Review |
 | **[BlueLM-2.5-3B Technical Report](http://arxiv.org/abs/2507.05934v1)** | 2025-07-08 |  |
 | **[Fine-Grained Knowledge Structuring and Retrieval for Visual Question Answering](http://arxiv.org/abs/2502.20964v3)** | 2025-07-08 |  |
 | **[UniCode$^2$: Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation](http://arxiv.org/abs/2506.20214v2)** | 2025-07-08 | 19 pages, 5 figures |
@@ -85,8 +99,4 @@ labels: documentation
 | **[HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding](http://arxiv.org/abs/2507.04909v1)** | 2025-07-07 | Under review |
 | **[From Imitation to Innovation: The Emergence of AI Unique Artistic Styles and the Challenge of Copyright Protection](http://arxiv.org/abs/2507.04769v1)** | 2025-07-07 |  |
 | **[AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models](http://arxiv.org/abs/2507.02664v2)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[An analysis of vision-language models for fabric retrieval](http://arxiv.org/abs/2507.04735v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at Ital-IA 2025</p></details> |
-| **[Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs](http://arxiv.org/abs/2506.22139v2)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
-| **[Tempo-R0: A Video-MLLM for Temporal Video Grounding through Efficient Temporal Sensing Reinforcement Learning](http://arxiv.org/abs/2507.04702v1)** | 2025-07-07 |  |
-| **[Toward Robust Hyper-Detailed Image Captioning: A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage](http://arxiv.org/abs/2412.15484v4)** | 2025-07-07 | ICML 2025 |
 
