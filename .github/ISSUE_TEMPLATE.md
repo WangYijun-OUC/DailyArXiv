@@ -7,6 +7,10 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI](http://arxiv.org/abs/2507.09996v1)** | 2025-07-14 |  |
+| **[Conditional Data Synthesis Augmentation](http://arxiv.org/abs/2504.07426v2)** | 2025-07-13 |  |
+| **[Generate Aligned Anomaly: Region-Guided Few-Shot Anomaly Image-Mask Pair Synthesis for Industrial Inspection](http://arxiv.org/abs/2507.09619v1)** | 2025-07-13 |  |
+| **[A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection](http://arxiv.org/abs/2503.02481v2)** | 2025-07-12 |  |
 | **[From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning](http://arxiv.org/abs/2507.08380v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models](http://arxiv.org/abs/2507.06078v1)** | 2025-07-08 |  |
 | **[Knowledge-guided Complex Diffusion Model for PolSAR Image Classification in Contourlet Domain](http://arxiv.org/abs/2507.05666v1)** | 2025-07-08 |  |
@@ -23,10 +27,6 @@ labels: documentation
 | **[Prompt-Guided Latent Diffusion with Predictive Class Conditioning for 3D Prostate MRI Generation](http://arxiv.org/abs/2506.10230v2)** | 2025-07-01 | <details><summary>MAH a...</summary><p>MAH and BT are co-senior authors on the work. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Generative AI-based data augmentation for improved bioacoustic classification in noisy environments](http://arxiv.org/abs/2412.01530v2)** | 2025-07-01 | <details><summary>20 pa...</summary><p>20 pages, 3 tables, 6 figures</p></details> |
 | **[Unleashing Diffusion and State Space Models for Medical Image Segmentation](http://arxiv.org/abs/2506.12747v2)** | 2025-07-01 |  |
-| **[Diffusion Disambiguation Models for Partial Label Learning](http://arxiv.org/abs/2507.00411v1)** | 2025-07-01 |  |
-| **[Robust Representation Consistency Model via Contrastive Denoising](http://arxiv.org/abs/2501.13094v2)** | 2025-06-30 |  |
-| **[Toward Simple and Robust Contrastive Explanations for Image Classification by Leveraging Instance Similarity and Concept Relevance](http://arxiv.org/abs/2506.23975v1)** | 2025-06-30 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, KI2025 - 48th German Conference on Artificial Intelligence</p></details> |
-| **[Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors](http://arxiv.org/abs/2506.23801v1)** | 2025-06-30 |  |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,8 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Show and Polish: Reference-Guided Identity Preservation in Face Video Restoration](http://arxiv.org/abs/2507.10293v1)** | 2025-07-14 | Accepted by MM 2025 |
+| **[Benchmarking Unified Face Attack Detection via Hierarchical Prompt Tuning](http://arxiv.org/abs/2505.13327v3)** | 2025-07-13 |  |
 | **[MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration](http://arxiv.org/abs/2503.09131v2)** | 2025-07-11 |  |
 | **[Visual and Textual Prompts in VLLMs for Enhancing Emotion Recognition](http://arxiv.org/abs/2504.17224v3)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by IEEE TCSVT</p></details> |
 | **[Visual Instance-aware Prompt Tuning](http://arxiv.org/abs/2507.07796v1)** | 2025-07-10 |  |
@@ -73,30 +75,28 @@ labels: documentation
 | **[Class-Agnostic Region-of-Interest Matching in Document Images](http://arxiv.org/abs/2506.21055v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ICDAR2025</p></details> |
 | **[Catastrophic Forgetting Mitigation via Discrepancy-Weighted Experience Replay](http://arxiv.org/abs/2507.00042v1)** | 2025-06-23 | ICANN 2025 |
 | **[Visual Prompt Engineering for Vision Language Models in Radiology](http://arxiv.org/abs/2408.15802v3)** | 2025-06-22 | <details><summary>Accep...</summary><p>Accepted at ECCV 2024 Workshop on Emergent Visual Abilities and Limits of Foundation Models & Medical Imaging with Deep Learning 2025</p></details> |
-| **[Programmable-Room: Interactive Textured 3D Room Meshes Generation Empowered by Large Language Models](http://arxiv.org/abs/2506.17707v1)** | 2025-06-21 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia</p></details> |
-| **[SafeTriage: Facial Video De-identification for Privacy-Preserving Stroke Triage](http://arxiv.org/abs/2506.16578v1)** | 2025-06-19 | IPMI 2025 |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way](http://arxiv.org/abs/2507.08679v1)** | 2025-07-11 |  |
-| **[Introspection of Thought Helps AI Agents](http://arxiv.org/abs/2507.08664v1)** | 2025-07-11 |  |
-| **[DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images](http://arxiv.org/abs/2507.08648v1)** | 2025-07-11 |  |
-| **[Token Communications: A Unified Framework for Cross-modal Context-aware Semantic Communications](http://arxiv.org/abs/2502.12096v3)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted at IEEE Wireless Communications Magazine</p></details> |
-| **[Visual Semantic Description Generation with MLLMs for Image-Text Matching](http://arxiv.org/abs/2507.08590v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by ICME2025 oral</p></details> |
-| **[Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation](http://arxiv.org/abs/2507.08513v1)** | 2025-07-11 |  |
-| **[StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley](http://arxiv.org/abs/2507.07445v2)** | 2025-07-11 | <details><summary>Proje...</summary><p>Project website: https://weihaotan.github.io/StarDojo</p></details> |
-| **[Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R](http://arxiv.org/abs/2507.08505v1)** | 2025-07-11 |  |
-| **[Multi-modal Mutual-Guidance Conditional Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2507.08410v1)** | 2025-07-11 | 21 pages, 8 figures |
-| **[Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency](http://arxiv.org/abs/2507.08309v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 Findings</p></details> |
-| **[M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning](http://arxiv.org/abs/2507.08306v1)** | 2025-07-11 | 31pages, 14 figures |
-| **[ClinKD: Cross-Modal Clinical Knowledge Distiller For Multi-Task Medical Images](http://arxiv.org/abs/2502.05928v4)** | 2025-07-11 |  |
-| **[Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025](http://arxiv.org/abs/2506.12430v2)** | 2025-07-11 | <details><summary>AdvML...</summary><p>AdvML@CVPR Challenge Report</p></details> |
-| **[PyVision: Agentic Vision with Dynamic Tooling](http://arxiv.org/abs/2507.07998v1)** | 2025-07-10 | <details><summary>26 Pa...</summary><p>26 Pages, 10 Figures, Technical report</p></details> |
-| **[OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding](http://arxiv.org/abs/2507.07984v1)** | 2025-07-10 | <details><summary>28 pa...</summary><p>28 pages, a benchmark designed to evaluate Online Spatio-Temporal understanding from the perspective of an agent actively exploring a scene. Project Page: https://rbler1234.github.io/OSTBench.github.io/</p></details> |
-| **[STAR-R1: Spatial TrAnsformation Reasoning by Reinforcing Multimodal LLMs](http://arxiv.org/abs/2505.15804v3)** | 2025-07-10 |  |
-| **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](http://arxiv.org/abs/2507.08064v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
-| **[MIRA: A Novel Framework for Fusing Modalities in Medical RAG](http://arxiv.org/abs/2507.07902v1)** | 2025-07-10 | ACM Multimedia 2025 |
-| **[SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs](http://arxiv.org/abs/2507.07610v1)** | 2025-07-10 |  |
-| **[Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation](http://arxiv.org/abs/2507.07572v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 Main</p></details> |
+| **[Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI](http://arxiv.org/abs/2507.10510v1)** | 2025-07-14 |  |
+| **[UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment](http://arxiv.org/abs/2406.01069v2)** | 2025-07-14 |  |
+| **[Text-Visual Semantic Constrained AI-Generated Image Quality Assessment](http://arxiv.org/abs/2507.10432v1)** | 2025-07-14 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Accepted at ACMMM 2025</p></details> |
+| **[OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](http://arxiv.org/abs/2503.16465v3)** | 2025-07-14 | <details><summary>25 pa...</summary><p>25 pages, 24 figures, 11 tables (ACL 2025, Findings)</p></details> |
+| **[DisCo: Towards Distinct and Coherent Visual Encapsulation in Video MLLMs](http://arxiv.org/abs/2507.10302v1)** | 2025-07-14 | ICCV 2025 |
+| **[FaceLLM: A Multimodal Large Language Model for Face Understanding](http://arxiv.org/abs/2507.10300v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted in ICCV 2025 workshops</p></details> |
+| **[Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection](http://arxiv.org/abs/2507.10225v1)** | 2025-07-14 |  |
+| **[A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images](http://arxiv.org/abs/2507.10202v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop on Emergent Visual Abilities and Limits of Foundation Models</p></details> |
+| **[FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text](http://arxiv.org/abs/2507.10095v1)** | 2025-07-14 |  |
+| **[ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism](http://arxiv.org/abs/2507.10069v1)** | 2025-07-14 |  |
+| **[Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R](http://arxiv.org/abs/2507.08505v2)** | 2025-07-14 |  |
+| **[Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning](http://arxiv.org/abs/2506.10521v4)** | 2025-07-14 | 82 pages |
+| **[The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents](http://arxiv.org/abs/2507.10016v1)** | 2025-07-14 | 22 pages, 4 figures |
+| **[Deep Hidden Cognition Facilitates Reliable Chain-of-Thought Reasoning](http://arxiv.org/abs/2507.10007v1)** | 2025-07-14 |  |
+| **[SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs](http://arxiv.org/abs/2507.07610v2)** | 2025-07-14 |  |
+| **[PyVision: Agentic Vision with Dynamic Tooling](http://arxiv.org/abs/2507.07998v2)** | 2025-07-14 | <details><summary>26 Pa...</summary><p>26 Pages, 10 Figures, Technical report</p></details> |
+| **[IGD: Instructional Graphic Design with Multimodal Layer Generation](http://arxiv.org/abs/2507.09910v1)** | 2025-07-14 | ICCV 2025 |
+| **[ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models](http://arxiv.org/abs/2507.09876v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
+| **[LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](http://arxiv.org/abs/2503.10200v3)** | 2025-07-14 | <details><summary>accep...</summary><p>accepted in ICCV 2025</p></details> |
+| **[A Survey on MLLM-based Visually Rich Document Understanding: Methods, Challenges, and Emerging Trends](http://arxiv.org/abs/2507.09861v1)** | 2025-07-14 | Work in progress |
 
