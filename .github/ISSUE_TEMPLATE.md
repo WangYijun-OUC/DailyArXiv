@@ -7,6 +7,7 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CATVis: Context-Aware Thought Visualization](http://arxiv.org/abs/2507.11522v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025. This is the submitted version prior to peer review. The final Version of Record will appear in the MICCAI 2025 proceedings (Springer LNCS)</p></details> |
 | **[Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI](http://arxiv.org/abs/2507.09996v1)** | 2025-07-14 |  |
 | **[Conditional Data Synthesis Augmentation](http://arxiv.org/abs/2504.07426v2)** | 2025-07-13 |  |
 | **[Generate Aligned Anomaly: Region-Guided Few-Shot Anomaly Image-Mask Pair Synthesis for Industrial Inspection](http://arxiv.org/abs/2507.09619v1)** | 2025-07-13 |  |
@@ -26,7 +27,6 @@ labels: documentation
 | **[Embedding-Space Diffusion for Zero-Shot Environmental Sound Classification](http://arxiv.org/abs/2412.03771v2)** | 2025-07-01 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Prompt-Guided Latent Diffusion with Predictive Class Conditioning for 3D Prostate MRI Generation](http://arxiv.org/abs/2506.10230v2)** | 2025-07-01 | <details><summary>MAH a...</summary><p>MAH and BT are co-senior authors on the work. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Generative AI-based data augmentation for improved bioacoustic classification in noisy environments](http://arxiv.org/abs/2412.01530v2)** | 2025-07-01 | <details><summary>20 pa...</summary><p>20 pages, 3 tables, 6 figures</p></details> |
-| **[Unleashing Diffusion and State Space Models for Medical Image Segmentation](http://arxiv.org/abs/2506.12747v2)** | 2025-07-01 |  |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,7 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CycleSAM: Few-Shot Surgical Scene Segmentation with Cycle- and Scene-Consistent Feature Matching](http://arxiv.org/abs/2407.06795v2)** | 2025-07-15 |  |
 | **[Show and Polish: Reference-Guided Identity Preservation in Face Video Restoration](http://arxiv.org/abs/2507.10293v1)** | 2025-07-14 | Accepted by MM 2025 |
 | **[Benchmarking Unified Face Attack Detection via Hierarchical Prompt Tuning](http://arxiv.org/abs/2505.13327v3)** | 2025-07-13 |  |
 | **[MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration](http://arxiv.org/abs/2503.09131v2)** | 2025-07-11 |  |
@@ -74,29 +75,18 @@ labels: documentation
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v3)** | 2025-06-27 | Accepted by ICME2025 |
 | **[Class-Agnostic Region-of-Interest Matching in Document Images](http://arxiv.org/abs/2506.21055v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ICDAR2025</p></details> |
 | **[Catastrophic Forgetting Mitigation via Discrepancy-Weighted Experience Replay](http://arxiv.org/abs/2507.00042v1)** | 2025-06-23 | ICANN 2025 |
-| **[Visual Prompt Engineering for Vision Language Models in Radiology](http://arxiv.org/abs/2408.15802v3)** | 2025-06-22 | <details><summary>Accep...</summary><p>Accepted at ECCV 2024 Workshop on Emergent Visual Abilities and Limits of Foundation Models & Medical Imaging with Deep Learning 2025</p></details> |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models](http://arxiv.org/abs/2507.11245v1)** | 2025-07-15 | <details><summary>Proje...</summary><p>Project Page: https://amap-ml.github.io/NarrLV-Website/</p></details> |
+| **[Evaluating Multimodal Large Language Models on Educational Textbook Question Answering](http://arxiv.org/abs/2506.21596v2)** | 2025-07-15 | 8 Pages |
+| **[Traveling Across Languages: Benchmarking Cross-Lingual Consistency in Multimodal LLMs](http://arxiv.org/abs/2505.15075v3)** | 2025-07-15 | <details><summary>https...</summary><p>https://github.com/nlp-waseda/traveling-across-languages</p></details> |
+| **[KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model](http://arxiv.org/abs/2507.11102v1)** | 2025-07-15 | <details><summary>Exten...</summary><p>Extended Version of KptLLM. arXiv admin note: text overlap with arXiv:2411.01846</p></details> |
+| **[Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization](http://arxiv.org/abs/2504.18397v2)** | 2025-07-15 |  |
+| **[Learning to Tune Like an Expert: Interpretable and Scene-Aware Navigation via MLLM Reasoning and CVAE-Based Adaptation](http://arxiv.org/abs/2507.11001v1)** | 2025-07-15 |  |
+| **[Text-Visual Semantic Constrained AI-Generated Image Quality Assessment](http://arxiv.org/abs/2507.10432v2)** | 2025-07-15 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Accepted at ACMMM 2025</p></details> |
+| **[Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models](http://arxiv.org/abs/2507.09279v2)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Workshop CVAMD</p></details> |
+| **[Warehouse Spatial Question Answering with LLM Agent](http://arxiv.org/abs/2507.10778v1)** | 2025-07-14 | <details><summary>1st P...</summary><p>1st Place Solution of the 9th AI City Challenge Track 3</p></details> |
 | **[Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI](http://arxiv.org/abs/2507.10510v1)** | 2025-07-14 |  |
-| **[UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment](http://arxiv.org/abs/2406.01069v2)** | 2025-07-14 |  |
-| **[Text-Visual Semantic Constrained AI-Generated Image Quality Assessment](http://arxiv.org/abs/2507.10432v1)** | 2025-07-14 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Accepted at ACMMM 2025</p></details> |
-| **[OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](http://arxiv.org/abs/2503.16465v3)** | 2025-07-14 | <details><summary>25 pa...</summary><p>25 pages, 24 figures, 11 tables (ACL 2025, Findings)</p></details> |
-| **[DisCo: Towards Distinct and Coherent Visual Encapsulation in Video MLLMs](http://arxiv.org/abs/2507.10302v1)** | 2025-07-14 | ICCV 2025 |
-| **[FaceLLM: A Multimodal Large Language Model for Face Understanding](http://arxiv.org/abs/2507.10300v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted in ICCV 2025 workshops</p></details> |
-| **[Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection](http://arxiv.org/abs/2507.10225v1)** | 2025-07-14 |  |
-| **[A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images](http://arxiv.org/abs/2507.10202v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop on Emergent Visual Abilities and Limits of Foundation Models</p></details> |
-| **[FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text](http://arxiv.org/abs/2507.10095v1)** | 2025-07-14 |  |
-| **[ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism](http://arxiv.org/abs/2507.10069v1)** | 2025-07-14 |  |
-| **[Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R](http://arxiv.org/abs/2507.08505v2)** | 2025-07-14 |  |
-| **[Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning](http://arxiv.org/abs/2506.10521v4)** | 2025-07-14 | 82 pages |
-| **[The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents](http://arxiv.org/abs/2507.10016v1)** | 2025-07-14 | 22 pages, 4 figures |
-| **[Deep Hidden Cognition Facilitates Reliable Chain-of-Thought Reasoning](http://arxiv.org/abs/2507.10007v1)** | 2025-07-14 |  |
-| **[SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs](http://arxiv.org/abs/2507.07610v2)** | 2025-07-14 |  |
-| **[PyVision: Agentic Vision with Dynamic Tooling](http://arxiv.org/abs/2507.07998v2)** | 2025-07-14 | <details><summary>26 Pa...</summary><p>26 Pages, 10 Figures, Technical report</p></details> |
-| **[IGD: Instructional Graphic Design with Multimodal Layer Generation](http://arxiv.org/abs/2507.09910v1)** | 2025-07-14 | ICCV 2025 |
-| **[ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models](http://arxiv.org/abs/2507.09876v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
-| **[LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](http://arxiv.org/abs/2503.10200v3)** | 2025-07-14 | <details><summary>accep...</summary><p>accepted in ICCV 2025</p></details> |
-| **[A Survey on MLLM-based Visually Rich Document Understanding: Methods, Challenges, and Emerging Trends](http://arxiv.org/abs/2507.09861v1)** | 2025-07-14 | Work in progress |
 
