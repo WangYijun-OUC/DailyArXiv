@@ -79,6 +79,10 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Moodifier: MLLM-Enhanced Emotion-Driven Image Editing](http://arxiv.org/abs/2507.14024v1)** | 2025-07-18 |  |
+| **[VFaith: Do Large Multimodal Models Really Reason on Seen Images Rather than Previous Memories?](http://arxiv.org/abs/2506.11571v2)** | 2025-07-18 |  |
+| **[On Pre-training of Multimodal Language Models Customized for Chart Understanding](http://arxiv.org/abs/2407.14506v3)** | 2025-07-17 | <details><summary>NeurI...</summary><p>NeurIPS 2024 Workshop on Adaptive Foundation Models</p></details> |
+| **["PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models](http://arxiv.org/abs/2507.13428v1)** | 2025-07-17 | 31 pages, 21 figures |
 | **[Revisiting Reliability in the Reasoning-based Pose Estimation Benchmark](http://arxiv.org/abs/2507.13314v1)** | 2025-07-17 | <details><summary>To be...</summary><p>To be presented as a poster at MMFM 2025</p></details> |
 | **[Automating Steering for Safe Multimodal Large Language Models](http://arxiv.org/abs/2507.13255v1)** | 2025-07-17 | <details><summary>Worki...</summary><p>Working in progress. 22 pages (8+ for main); 25 figures; 1 table</p></details> |
 | **[Benchmarking Sub-Genre Classification For Mainstage Dance Music](http://arxiv.org/abs/2409.06690v2)** | 2025-07-17 | WASPAA 2025 |
@@ -95,8 +99,4 @@ labels: documentation
 | **[Text-Visual Semantic Constrained AI-Generated Image Quality Assessment](http://arxiv.org/abs/2507.10432v3)** | 2025-07-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Accepted at ACMMM 2025</p></details> |
 | **[Token Communications: A Large Model-Driven Framework for Cross-modal Context-aware Semantic Communications](http://arxiv.org/abs/2502.12096v4)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted at IEEE Wireless Communications Magazine</p></details> |
 | **[Visual Position Prompt for MLLM based Visual Grounding](http://arxiv.org/abs/2503.15426v4)** | 2025-07-16 |  |
-| **[Watch, Listen, Understand, Mislead: Tri-modal Adversarial Attacks on Short Videos for Content Appropriateness Evaluation](http://arxiv.org/abs/2507.11968v1)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted as long paper, SVU Workshop at ICCV 2025</p></details> |
-| **[Hyperphantasia: A Benchmark for Evaluating the Mental Visualization Capabilities of Multimodal LLMs](http://arxiv.org/abs/2507.11932v1)** | 2025-07-16 |  |
-| **[HueManity: Probing Fine-Grained Visual Perception in MLLMs](http://arxiv.org/abs/2506.03194v2)** | 2025-07-16 |  |
-| **[GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning](http://arxiv.org/abs/2506.00785v2)** | 2025-07-16 |  |
 
