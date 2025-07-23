@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 23, 2025
+title: Latest 20 Papers - July 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -32,6 +32,25 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics](http://arxiv.org/abs/2507.05063v1)** | 2025-07-07 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 2 tables. Final Degree Project (TFG) submitted at ESCI-UPF and conducted at Helmholtz Munich</p></details> |
+| **[Enhancing Fetal Plane Classification Accuracy with Data Augmentation Using Diffusion Models](http://arxiv.org/abs/2501.15248v2)** | 2025-07-03 |  |
+| **[Prompt-Guided Latent Diffusion with Predictive Class Conditioning for 3D Prostate MRI Generation](http://arxiv.org/abs/2506.10230v2)** | 2025-07-01 | <details><summary>MAH a...</summary><p>MAH and BT are co-senior authors on the work. This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Unleashing Diffusion and State Space Models for Medical Image Segmentation](http://arxiv.org/abs/2506.12747v2)** | 2025-07-01 |  |
+| **[Contrastive Learning with Diffusion Features for Weakly Supervised Medical Image Segmentation](http://arxiv.org/abs/2506.23460v1)** | 2025-06-30 |  |
+| **[Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles](http://arxiv.org/abs/2310.15952v5)** | 2025-06-29 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Medical Imaging, 2025</p></details> |
+| **[Med-Art: Diffusion Transformer for 2D Medical Text-to-Image Generation](http://arxiv.org/abs/2506.20449v1)** | 2025-06-25 | <details><summary>The p...</summary><p>The project is available at \url{https://medart-ai.github.io}</p></details> |
+| **[NeuroMoE: A Transformer-Based Mixture-of-Experts Framework for Multi-Modal Neurological Disorder Classification](http://arxiv.org/abs/2506.14970v1)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted at the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society</p></details> |
+| **[MultiViT2: A Data-augmented Multimodal Neuroimaging Prediction Framework via Latent Diffusion Model](http://arxiv.org/abs/2506.13667v1)** | 2025-06-16 |  |
+| **[Doctor Approved: Generating Medically Accurate Skin Disease Images through AI-Expert Feedback](http://arxiv.org/abs/2506.12323v1)** | 2025-06-14 |  |
+| **[Aiding Medical Diagnosis through Image Synthesis and Classification](http://arxiv.org/abs/2506.00786v1)** | 2025-06-01 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Under review</p></details> |
+| **[MRI Image Generation Based on Text Prompts](http://arxiv.org/abs/2505.22682v1)** | 2025-05-23 |  |
+| **[Diffusion Bridge Models for 3D Medical Image Translation](http://arxiv.org/abs/2504.15267v1)** | 2025-04-21 |  |
+| **[Ctrl-GenAug: Controllable Generative Augmentation for Medical Sequence Classification](http://arxiv.org/abs/2409.17091v2)** | 2025-04-13 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, 8 tables</p></details> |
+| **[Federated Learning for Medical Image Classification: A Comprehensive Benchmark](http://arxiv.org/abs/2504.05238v1)** | 2025-04-07 |  |
+| **[Diffusion models applied to skin and oral cancer classification](http://arxiv.org/abs/2504.00026v1)** | 2025-03-28 |  |
+| **[DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels](http://arxiv.org/abs/2503.18536v1)** | 2025-03-24 |  |
+| **[Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images](http://arxiv.org/abs/2407.18125v3)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted at WACV 2025</p></details> |
+| **[FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models](http://arxiv.org/abs/2410.04810v2)** | 2025-03-02 | CVPR 2025 |
+| **[AI-Augmented Thyroid Scintigraphy for Robust Classification](http://arxiv.org/abs/2503.00366v1)** | 2025-03-01 |  |
 
 ## visual prompt
 | **Title** | **Date** | **Comment** |
