@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 26, 2025
+title: Latest 20 Papers - July 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -11,6 +11,7 @@ labels: documentation
 | **[X-ray2CTPA: Leveraging Diffusion Models to Enhance Pulmonary Embolism Classification](http://arxiv.org/abs/2406.16109v4)** | 2025-07-24 | <details><summary>prepr...</summary><p>preprint, project code: https://github.com/NoaCahan/X-ray2CTPA</p></details> |
 | **[ViGText: Deepfake Image Detection with Vision-Language Model Explanations and Graph Neural Networks](http://arxiv.org/abs/2507.18031v1)** | 2025-07-24 |  |
 | **[Leveraging Diffusion Models for Parameterized Quantum Circuit Generation](http://arxiv.org/abs/2505.20863v3)** | 2025-07-23 | <details><summary>This ...</summary><p>This work has been accepted for presentation at IEEE Quantum Week 2025: IEEE International Conference on Quantum Computing and Engineering (QCE)</p></details> |
+| **[ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks](http://arxiv.org/abs/2206.05437v4)** | 2025-07-23 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. NeurIPS 2022 Workshop on GLFrontiers (Oral). ICLR 2023 (Spotlight)</p></details> |
 | **[PointLAMA: Latent Attention meets Mamba for Efficient Point Cloud Pretraining](http://arxiv.org/abs/2507.17296v1)** | 2025-07-23 |  |
 | **[Diffusion-Based Electrocardiography Noise Quantification via Anomaly Detection](http://arxiv.org/abs/2506.11815v2)** | 2025-07-22 | <details><summary>This ...</summary><p>This manuscript contains 17 pages, 10 figures, and 3 tables</p></details> |
 | **[RoadFusion: Latent Diffusion Model for Pavement Defect Detection](http://arxiv.org/abs/2507.15346v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted to ICIAP 2025</p></details> |
@@ -26,7 +27,6 @@ labels: documentation
 | **[Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI](http://arxiv.org/abs/2507.09996v1)** | 2025-07-14 |  |
 | **[Conditional Data Synthesis Augmentation](http://arxiv.org/abs/2504.07426v2)** | 2025-07-13 |  |
 | **[Generate Aligned Anomaly: Region-Guided Few-Shot Anomaly Image-Mask Pair Synthesis for Industrial Inspection](http://arxiv.org/abs/2507.09619v1)** | 2025-07-13 |  |
-| **[A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection](http://arxiv.org/abs/2503.02481v2)** | 2025-07-12 |  |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
