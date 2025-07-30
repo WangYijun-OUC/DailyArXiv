@@ -7,11 +7,14 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing Glass Defect Detection with Diffusion Models: Addressing Imbalanced Datasets in Manufacturing Quality Control](http://arxiv.org/abs/2505.03134v3)** | 2025-07-29 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, published in Computer and Decision Making - An International Journal (COMDEM)</p></details> |
+| **[A Contrastive Diffusion-based Network (CDNet) for Time Series Classification](http://arxiv.org/abs/2507.21357v1)** | 2025-07-28 | 19 pages, conference |
 | **[Generative Pre-training for Subjective Tasks: A Diffusion Transformer-Based Framework for Facial Beauty Prediction](http://arxiv.org/abs/2507.20363v1)** | 2025-07-27 |  |
 | **[DDB: Diffusion Driven Balancing to Address Spurious Correlations](http://arxiv.org/abs/2503.17226v2)** | 2025-07-27 |  |
 | **[SkinDualGen: Prompt-Driven Diffusion for Simultaneous Image-Mask Generation in Skin Lesions](http://arxiv.org/abs/2507.19970v1)** | 2025-07-26 |  |
 | **[Causality-aligned Prompt Learning via Diffusion-based Counterfactual Generation](http://arxiv.org/abs/2507.19882v1)** | 2025-07-26 |  |
 | **[SeeDiff: Off-the-Shelf Seeded Mask Generation from Diffusion Models](http://arxiv.org/abs/2507.19808v1)** | 2025-07-26 | AAAI 2025 |
+| **[Generating Adversarial Point Clouds Using Diffusion Model](http://arxiv.org/abs/2507.21163v1)** | 2025-07-25 |  |
 | **[Variational inference for pile-up removal at hadron colliders with diffusion models](http://arxiv.org/abs/2410.22074v2)** | 2025-07-24 | 19 pages, 13 figures |
 | **[X-ray2CTPA: Leveraging Diffusion Models to Enhance Pulmonary Embolism Classification](http://arxiv.org/abs/2406.16109v4)** | 2025-07-24 | <details><summary>prepr...</summary><p>preprint, project code: https://github.com/NoaCahan/X-ray2CTPA</p></details> |
 | **[ViGText: Deepfake Image Detection with Vision-Language Model Explanations and Graph Neural Networks](http://arxiv.org/abs/2507.18031v1)** | 2025-07-24 |  |
@@ -24,9 +27,6 @@ labels: documentation
 | **[ReDiSC: A Reparameterized Masked Diffusion Model for Scalable Node Classification with Structured Predictions](http://arxiv.org/abs/2507.14484v1)** | 2025-07-19 |  |
 | **[Label-Consistent Dataset Distillation with Detector-Guided Refinement](http://arxiv.org/abs/2507.13074v1)** | 2025-07-17 |  |
 | **[Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](http://arxiv.org/abs/2507.13019v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[MAMBO: High-Resolution Generative Approach for Mammography Images](http://arxiv.org/abs/2506.08677v2)** | 2025-07-16 | <details><summary>21 pa...</summary><p>21 pages, 14 figures, 7 tables This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Contrastive Cascade Graph Learning for Classifying Real and Synthetic Information Diffusion Patterns](http://arxiv.org/abs/2507.12063v1)** | 2025-07-16 |  |
-| **[WaFusion: A Wavelet-Enhanced Diffusion Framework for Face Morph Generation](http://arxiv.org/abs/2507.12493v1)** | 2025-07-15 |  |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,8 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GSON: A Group-based Social Navigation Framework with Large Multimodal Model](http://arxiv.org/abs/2409.18084v3)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning](http://arxiv.org/abs/2507.21588v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[Grid-LOGAT: Grid Based Local and Global Area Transcription for Video Question Answering](http://arxiv.org/abs/2505.24371v3)** | 2025-07-28 | <details><summary>Copyr...</summary><p>Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[Object-centric Video Question Answering with Visual Grounding and Referring](http://arxiv.org/abs/2507.19599v1)** | 2025-07-25 |  |
 | **[Affordance-Guided Reinforcement Learning via Visual Prompting](http://arxiv.org/abs/2407.10341v6)** | 2025-07-25 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</p></details> |
@@ -73,30 +75,28 @@ labels: documentation
 | **[Visual and Textual Prompts in VLLMs for Enhancing Emotion Recognition](http://arxiv.org/abs/2504.17224v3)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by IEEE TCSVT</p></details> |
 | **[Visual Instance-aware Prompt Tuning](http://arxiv.org/abs/2507.07796v1)** | 2025-07-10 |  |
 | **[VP-SelDoA: Visual-prompted Selective DoA Estimation of Target Sound via Semantic-Spatial Matching](http://arxiv.org/abs/2507.07384v1)** | 2025-07-10 | Under Review |
-| **[Correlative and Discriminative Label Grouping for Multi-Label Visual Prompt Tuning](http://arxiv.org/abs/2504.09990v2)** | 2025-07-09 | <details><summary>IEEE/...</summary><p>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</p></details> |
-| **[Stepwise Decomposition and Dual-stream Focus: A Novel Approach for Training-free Camouflaged Object Segmentation](http://arxiv.org/abs/2506.06818v2)** | 2025-07-07 | <details><summary>accep...</summary><p>accepted by ACM MM2025</p></details> |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MetaCLIP 2: A Worldwide Scaling Recipe](http://arxiv.org/abs/2507.22062v1)** | 2025-07-29 | 10 pages |
+| **[Secure Tug-of-War (SecTOW): Iterative Defense-Attack Training with Reinforcement Learning for Multimodal Model Security](http://arxiv.org/abs/2507.22037v1)** | 2025-07-29 | 10 pages, 4 figures |
+| **[NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models](http://arxiv.org/abs/2507.11245v2)** | 2025-07-29 | <details><summary>Proje...</summary><p>Project Page: https://amap-ml.github.io/NarrLV-Website/</p></details> |
+| **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v1)** | 2025-07-29 |  |
+| **[From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Situation Recognition](http://arxiv.org/abs/2507.14686v2)** | 2025-07-29 |  |
+| **[The Effect of Compression Techniques on Large Multimodal Language Models in the Medical Domain](http://arxiv.org/abs/2507.21976v1)** | 2025-07-29 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. tcolorbox dependencies were removed for arXiv compatibility. All references are included via a precompiled .bbl file</p></details> |
+| **[When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios](http://arxiv.org/abs/2507.20198v2)** | 2025-07-29 | <details><summary>For o...</summary><p>For ongoing updates and to track the latest advances in this promising area, we maintain a public repository: https://github.com/cokeshao/Awesome-Multimodal-Token-Compression</p></details> |
+| **[The Evolution of Video Anomaly Detection: A Unified Framework from DNN to MLLM](http://arxiv.org/abs/2507.21649v1)** | 2025-07-29 |  |
+| **[EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware GRPO](http://arxiv.org/abs/2507.21619v1)** | 2025-07-29 |  |
+| **[TARS: MinMax Token-Adaptive Preference Strategy for Hallucination Reduction in MLLMs](http://arxiv.org/abs/2507.21584v1)** | 2025-07-29 |  |
+| **[C2-Evo: Co-Evolving Multimodal Data and Model for Self-Improving Reasoning](http://arxiv.org/abs/2507.16518v2)** | 2025-07-29 |  |
+| **[EEmo-Bench: A Benchmark for Multi-modal Large Language Models on Image Evoked Emotion Assessment](http://arxiv.org/abs/2504.16405v4)** | 2025-07-29 |  |
+| **[MoHoBench: Assessing Honesty of Multimodal Large Language Models via Unanswerable Visual Questions](http://arxiv.org/abs/2507.21503v1)** | 2025-07-29 |  |
+| **[Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval](http://arxiv.org/abs/2507.21489v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
+| **[A Multi-Agent System Enables Versatile Information Extraction from the Chemical Literature](http://arxiv.org/abs/2507.20230v2)** | 2025-07-29 |  |
+| **[FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text](http://arxiv.org/abs/2507.10095v2)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[ReGATE: Learning Faster and Better with Fewer Tokens in MLLMs](http://arxiv.org/abs/2507.21420v1)** | 2025-07-29 |  |
+| **[Multimodal LLMs as Customized Reward Models for Text-to-Image Generation](http://arxiv.org/abs/2507.21391v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Code available at https://github.com/sjz5202/LLaVA-Reward</p></details> |
 | **[METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models](http://arxiv.org/abs/2507.20842v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](http://arxiv.org/abs/2507.08064v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
-| **[Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback](http://arxiv.org/abs/2507.20766v1)** | 2025-07-28 |  |
-| **[Investigating Structural Pruning and Recovery Techniques for Compressing Multimodal Large Language Models: An Empirical Study](http://arxiv.org/abs/2507.20749v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted at GCPR 2025</p></details> |
-| **[Beyond Text: Probing K-12 Educators' Perspectives and Ideas for Learning Opportunities Leveraging Multimodal Large Language Models](http://arxiv.org/abs/2507.20720v1)** | 2025-07-28 |  |
-| **[KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities](http://arxiv.org/abs/2410.11824v2)** | 2025-07-28 | <details><summary>Proje...</summary><p>Project page: https://kitten-project.github.io/</p></details> |
-| **[From Answers to Rationales: Self-Aligning Multimodal Reasoning with Answer-Oriented Chain-of-Thought](http://arxiv.org/abs/2507.02984v2)** | 2025-07-28 |  |
-| **[EventVAD: Training-Free Event-Aware Video Anomaly Detection](http://arxiv.org/abs/2504.13092v3)** | 2025-07-28 | <details><summary>Paper...</summary><p>Paper was accepted by ACM MM 2025; Code: https://github.com/YihuaJerry/EventVAD</p></details> |
-| **[A Multi-Agent System for Information Extraction from the Chemical Literature](http://arxiv.org/abs/2507.20230v1)** | 2025-07-27 |  |
-| **[3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models](http://arxiv.org/abs/2503.21745v3)** | 2025-07-27 | <details><summary>Page:...</summary><p>Page: https://zyh482.github.io/3DGen-Bench/ ; Code: https://github.com/3DTopia/3DGen-Bench</p></details> |
-| **[When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios](http://arxiv.org/abs/2507.20198v1)** | 2025-07-27 | <details><summary>For o...</summary><p>For ongoing updates and to track the latest advances in this promising area, we maintain a public repository: <a href="https://github.com/cokeshao/Awesome-Multimodal-Token-Compression" rel="external noopener nofollow" class="link-external link-https">Awesome-Multimodal-Token-Compression</a></p></details> |
-| **[NeuroVoxel-LM: Language-Aligned 3D Perception via Dynamic Voxelization and Meta-Embedding](http://arxiv.org/abs/2507.20110v1)** | 2025-07-27 | <details><summary>**14 ...</summary><p>**14 pages, 3 figures, 2 tables</p></details> |
-| **[Mitigating Object Hallucinations via Sentence-Level Early Intervention](http://arxiv.org/abs/2507.12455v2)** | 2025-07-26 |  |
-| **[Region-based Cluster Discrimination for Visual Representation Learning](http://arxiv.org/abs/2507.20025v1)** | 2025-07-26 | <details><summary>Accep...</summary><p>Accepted as a highlight paper at ICCV 2025</p></details> |
-| **[Traveling Across Languages: Benchmarking Cross-Lingual Consistency in Multimodal LLMs](http://arxiv.org/abs/2505.15075v4)** | 2025-07-26 | <details><summary>https...</summary><p>https://github.com/nlp-waseda/traveling-across-languages</p></details> |
-| **[Zero-shot Performance of Generative AI in Brazilian Portuguese Medical Exam](http://arxiv.org/abs/2507.19885v1)** | 2025-07-26 |  |
-| **[Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting](http://arxiv.org/abs/2411.12789v3)** | 2025-07-26 | ICCV 2025 |
-| **[MCIF: Multimodal Crosslingual Instruction-Following Benchmark from Scientific Talks](http://arxiv.org/abs/2507.19634v1)** | 2025-07-25 | Work in progress |
-| **[ReSem3D: Refinable 3D Spatial Constraints via Fine-Grained Semantic Grounding for Generalizable Robotic Manipulation](http://arxiv.org/abs/2507.18262v2)** | 2025-07-25 | 12 pages,9 figures |
-| **[RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow](http://arxiv.org/abs/2507.19280v1)** | 2025-07-25 |  |
 
