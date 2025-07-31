@@ -7,6 +7,9 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoReUn: Data Itself Implicitly Provides Cues to Improve Machine Unlearning](http://arxiv.org/abs/2507.22499v1)** | 2025-07-30 | 23 pages |
+| **[Visual Language Models as Zero-Shot Deepfake Detectors](http://arxiv.org/abs/2507.22469v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to the ICML 2025 Workshop on Reliable and Responsible Foundation Models</p></details> |
+| **[Clustering via Self-Supervised Diffusion](http://arxiv.org/abs/2507.04283v2)** | 2025-07-29 |  |
 | **[Enhancing Glass Defect Detection with Diffusion Models: Addressing Imbalanced Datasets in Manufacturing Quality Control](http://arxiv.org/abs/2505.03134v3)** | 2025-07-29 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, published in Computer and Decision Making - An International Journal (COMDEM)</p></details> |
 | **[A Contrastive Diffusion-based Network (CDNet) for Time Series Classification](http://arxiv.org/abs/2507.21357v1)** | 2025-07-28 | 19 pages, conference |
 | **[Generative Pre-training for Subjective Tasks: A Diffusion Transformer-Based Framework for Facial Beauty Prediction](http://arxiv.org/abs/2507.20363v1)** | 2025-07-27 |  |
@@ -24,9 +27,6 @@ labels: documentation
 | **[Diffusion-Based Electrocardiography Noise Quantification via Anomaly Detection](http://arxiv.org/abs/2506.11815v2)** | 2025-07-22 | <details><summary>This ...</summary><p>This manuscript contains 17 pages, 10 figures, and 3 tables</p></details> |
 | **[RoadFusion: Latent Diffusion Model for Pavement Defect Detection](http://arxiv.org/abs/2507.15346v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted to ICIAP 2025</p></details> |
 | **[Improving Joint Embedding Predictive Architecture with Diffusion Noise](http://arxiv.org/abs/2507.15216v1)** | 2025-07-21 |  |
-| **[ReDiSC: A Reparameterized Masked Diffusion Model for Scalable Node Classification with Structured Predictions](http://arxiv.org/abs/2507.14484v1)** | 2025-07-19 |  |
-| **[Label-Consistent Dataset Distillation with Detector-Guided Refinement](http://arxiv.org/abs/2507.13074v1)** | 2025-07-17 |  |
-| **[Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](http://arxiv.org/abs/2507.13019v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
@@ -79,24 +79,24 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation](http://arxiv.org/abs/2507.22886v1)** | 2025-07-30 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project Page: https://henghuiding.com/OmniAVS/</p></details> |
+| **[SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs](http://arxiv.org/abs/2507.07610v3)** | 2025-07-30 |  |
+| **[HOLA: Enhancing Audio-visual Deepfake Detection via Hierarchical Contextual Aggregations and Efficient Pre-training](http://arxiv.org/abs/2507.22781v1)** | 2025-07-30 |  |
+| **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v2)** | 2025-07-30 |  |
+| **[Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback](http://arxiv.org/abs/2507.20766v2)** | 2025-07-30 |  |
+| **[ChartM$^3$: Benchmarking Chart Editing with Multimodal Instructions](http://arxiv.org/abs/2507.21167v2)** | 2025-07-30 |  |
+| **[Multimodal LLMs as Customized Reward Models for Text-to-Image Generation](http://arxiv.org/abs/2507.21391v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Code available at https://github.com/sjz5202/LLaVA-Reward</p></details> |
+| **[When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios](http://arxiv.org/abs/2507.20198v3)** | 2025-07-30 | <details><summary>For o...</summary><p>For ongoing updates and to track the latest advances in this promising area, we maintain a public repository: https://github.com/cokeshao/Awesome-Multimodal-Token-Compression</p></details> |
+| **[Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation Evaluation](http://arxiv.org/abs/2504.11829v3)** | 2025-07-29 |  |
 | **[MetaCLIP 2: A Worldwide Scaling Recipe](http://arxiv.org/abs/2507.22062v1)** | 2025-07-29 | 10 pages |
 | **[Secure Tug-of-War (SecTOW): Iterative Defense-Attack Training with Reinforcement Learning for Multimodal Model Security](http://arxiv.org/abs/2507.22037v1)** | 2025-07-29 | 10 pages, 4 figures |
 | **[NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models](http://arxiv.org/abs/2507.11245v2)** | 2025-07-29 | <details><summary>Proje...</summary><p>Project Page: https://amap-ml.github.io/NarrLV-Website/</p></details> |
-| **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v1)** | 2025-07-29 |  |
 | **[From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Situation Recognition](http://arxiv.org/abs/2507.14686v2)** | 2025-07-29 |  |
 | **[The Effect of Compression Techniques on Large Multimodal Language Models in the Medical Domain](http://arxiv.org/abs/2507.21976v1)** | 2025-07-29 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. tcolorbox dependencies were removed for arXiv compatibility. All references are included via a precompiled .bbl file</p></details> |
-| **[When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios](http://arxiv.org/abs/2507.20198v2)** | 2025-07-29 | <details><summary>For o...</summary><p>For ongoing updates and to track the latest advances in this promising area, we maintain a public repository: https://github.com/cokeshao/Awesome-Multimodal-Token-Compression</p></details> |
 | **[The Evolution of Video Anomaly Detection: A Unified Framework from DNN to MLLM](http://arxiv.org/abs/2507.21649v1)** | 2025-07-29 |  |
 | **[EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware GRPO](http://arxiv.org/abs/2507.21619v1)** | 2025-07-29 |  |
 | **[TARS: MinMax Token-Adaptive Preference Strategy for Hallucination Reduction in MLLMs](http://arxiv.org/abs/2507.21584v1)** | 2025-07-29 |  |
 | **[C2-Evo: Co-Evolving Multimodal Data and Model for Self-Improving Reasoning](http://arxiv.org/abs/2507.16518v2)** | 2025-07-29 |  |
 | **[EEmo-Bench: A Benchmark for Multi-modal Large Language Models on Image Evoked Emotion Assessment](http://arxiv.org/abs/2504.16405v4)** | 2025-07-29 |  |
 | **[MoHoBench: Assessing Honesty of Multimodal Large Language Models via Unanswerable Visual Questions](http://arxiv.org/abs/2507.21503v1)** | 2025-07-29 |  |
-| **[Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval](http://arxiv.org/abs/2507.21489v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[A Multi-Agent System Enables Versatile Information Extraction from the Chemical Literature](http://arxiv.org/abs/2507.20230v2)** | 2025-07-29 |  |
-| **[FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text](http://arxiv.org/abs/2507.10095v2)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[ReGATE: Learning Faster and Better with Fewer Tokens in MLLMs](http://arxiv.org/abs/2507.21420v1)** | 2025-07-29 |  |
-| **[Multimodal LLMs as Customized Reward Models for Text-to-Image Generation](http://arxiv.org/abs/2507.21391v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Code available at https://github.com/sjz5202/LLaVA-Reward</p></details> |
-| **[METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models](http://arxiv.org/abs/2507.20842v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](http://arxiv.org/abs/2507.08064v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
 
