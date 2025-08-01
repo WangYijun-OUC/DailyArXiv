@@ -7,6 +7,8 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IN45023 Neural Network Design Patterns in Computer Vision Seminar Report, Summer 2025](http://arxiv.org/abs/2507.23357v1)** | 2025-07-31 |  |
+| **[LesionGen: A Concept-Guided Diffusion Model for Dermatology Image Synthesis](http://arxiv.org/abs/2507.23001v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at the MICCAI 2025 ISIC Workshop</p></details> |
 | **[LoReUn: Data Itself Implicitly Provides Cues to Improve Machine Unlearning](http://arxiv.org/abs/2507.22499v1)** | 2025-07-30 | 23 pages |
 | **[Visual Language Models as Zero-Shot Deepfake Detectors](http://arxiv.org/abs/2507.22469v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to the ICML 2025 Workshop on Reliable and Responsible Foundation Models</p></details> |
 | **[Clustering via Self-Supervised Diffusion](http://arxiv.org/abs/2507.04283v2)** | 2025-07-29 |  |
@@ -25,12 +27,11 @@ labels: documentation
 | **[ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks](http://arxiv.org/abs/2206.05437v4)** | 2025-07-23 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. NeurIPS 2022 Workshop on GLFrontiers (Oral). ICLR 2023 (Spotlight)</p></details> |
 | **[PointLAMA: Latent Attention meets Mamba for Efficient Point Cloud Pretraining](http://arxiv.org/abs/2507.17296v1)** | 2025-07-23 |  |
 | **[Diffusion-Based Electrocardiography Noise Quantification via Anomaly Detection](http://arxiv.org/abs/2506.11815v2)** | 2025-07-22 | <details><summary>This ...</summary><p>This manuscript contains 17 pages, 10 figures, and 3 tables</p></details> |
-| **[RoadFusion: Latent Diffusion Model for Pavement Defect Detection](http://arxiv.org/abs/2507.15346v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted to ICIAP 2025</p></details> |
-| **[Improving Joint Embedding Predictive Architecture with Diffusion Noise](http://arxiv.org/abs/2507.15216v1)** | 2025-07-21 |  |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LesionGen: A Concept-Guided Diffusion Model for Dermatology Image Synthesis](http://arxiv.org/abs/2507.23001v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at the MICCAI 2025 ISIC Workshop</p></details> |
 | **[SkinDualGen: Prompt-Driven Diffusion for Simultaneous Image-Mask Generation in Skin Lesions](http://arxiv.org/abs/2507.19970v1)** | 2025-07-26 |  |
 | **[X-ray2CTPA: Leveraging Diffusion Models to Enhance Pulmonary Embolism Classification](http://arxiv.org/abs/2406.16109v4)** | 2025-07-24 | <details><summary>prepr...</summary><p>preprint, project code: https://github.com/NoaCahan/X-ray2CTPA</p></details> |
 | **[AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics](http://arxiv.org/abs/2507.05063v1)** | 2025-07-07 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 2 tables. Final Degree Project (TFG) submitted at ESCI-UPF and conducted at Helmholtz Munich</p></details> |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Federated Learning for Medical Image Classification: A Comprehensive Benchmark](http://arxiv.org/abs/2504.05238v1)** | 2025-04-07 |  |
 | **[Diffusion models applied to skin and oral cancer classification](http://arxiv.org/abs/2504.00026v1)** | 2025-03-28 |  |
 | **[DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels](http://arxiv.org/abs/2503.18536v1)** | 2025-03-24 |  |
-| **[Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images](http://arxiv.org/abs/2407.18125v3)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted at WACV 2025</p></details> |
 
 ## visual prompt
 | **Title** | **Date** | **Comment** |
@@ -79,7 +79,19 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation](http://arxiv.org/abs/2507.22886v1)** | 2025-07-30 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project Page: https://henghuiding.com/OmniAVS/</p></details> |
+| **[LLaVA-MORE: A Comparative Study of LLMs and Visual Backbones for Enhanced Visual Instruction Tuning](http://arxiv.org/abs/2503.15621v2)** | 2025-07-31 | <details><summary>ICCV ...</summary><p>ICCV 2025 Workshop on What is Next in Multimodal Foundation Models</p></details> |
+| **[BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM](http://arxiv.org/abs/2507.14632v2)** | 2025-07-31 |  |
+| **[BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation](http://arxiv.org/abs/2505.12620v4)** | 2025-07-31 |  |
+| **[Probabilistic Modeling of Jailbreak on Multimodal LLMs: From Quantification to Application](http://arxiv.org/abs/2503.06989v2)** | 2025-07-31 |  |
+| **[MPCC: A Novel Benchmark for Multimodal Planning with Complex Constraints in Multimodal Large Language Models](http://arxiv.org/abs/2507.23382v1)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted to ACM Multimedia 2025</p></details> |
+| **[VisNumBench: Evaluating Number Sense of Multimodal Large Language Models](http://arxiv.org/abs/2503.14939v2)** | 2025-07-31 | <details><summary>accep...</summary><p>accepted by ICCV 2025</p></details> |
+| **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v1)** | 2025-07-31 | ICCV 2025 Highlight |
+| **[UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing](http://arxiv.org/abs/2507.23278v1)** | 2025-07-31 |  |
+| **[TARS: MinMax Token-Adaptive Preference Strategy for Hallucination Reduction in MLLMs](http://arxiv.org/abs/2507.21584v2)** | 2025-07-31 |  |
+| **[Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation](http://arxiv.org/abs/2507.22886v2)** | 2025-07-31 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project Page: https://henghuiding.com/OmniAVS/</p></details> |
+| **[Adversarial-Guided Diffusion for Multimodal LLM Attacks](http://arxiv.org/abs/2507.23202v1)** | 2025-07-31 |  |
+| **[Meta CLIP 2: A Worldwide Scaling Recipe](http://arxiv.org/abs/2507.22062v2)** | 2025-07-30 | 10 pages |
+| **[FairReason: Balancing Reasoning and Social Bias in MLLMs](http://arxiv.org/abs/2507.23067v1)** | 2025-07-30 |  |
 | **[SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs](http://arxiv.org/abs/2507.07610v3)** | 2025-07-30 |  |
 | **[HOLA: Enhancing Audio-visual Deepfake Detection via Hierarchical Contextual Aggregations and Efficient Pre-training](http://arxiv.org/abs/2507.22781v1)** | 2025-07-30 |  |
 | **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v2)** | 2025-07-30 |  |
@@ -87,16 +99,4 @@ labels: documentation
 | **[ChartM$^3$: Benchmarking Chart Editing with Multimodal Instructions](http://arxiv.org/abs/2507.21167v2)** | 2025-07-30 |  |
 | **[Multimodal LLMs as Customized Reward Models for Text-to-Image Generation](http://arxiv.org/abs/2507.21391v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Code available at https://github.com/sjz5202/LLaVA-Reward</p></details> |
 | **[When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios](http://arxiv.org/abs/2507.20198v3)** | 2025-07-30 | <details><summary>For o...</summary><p>For ongoing updates and to track the latest advances in this promising area, we maintain a public repository: https://github.com/cokeshao/Awesome-Multimodal-Token-Compression</p></details> |
-| **[Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation Evaluation](http://arxiv.org/abs/2504.11829v3)** | 2025-07-29 |  |
-| **[MetaCLIP 2: A Worldwide Scaling Recipe](http://arxiv.org/abs/2507.22062v1)** | 2025-07-29 | 10 pages |
-| **[Secure Tug-of-War (SecTOW): Iterative Defense-Attack Training with Reinforcement Learning for Multimodal Model Security](http://arxiv.org/abs/2507.22037v1)** | 2025-07-29 | 10 pages, 4 figures |
-| **[NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models](http://arxiv.org/abs/2507.11245v2)** | 2025-07-29 | <details><summary>Proje...</summary><p>Project Page: https://amap-ml.github.io/NarrLV-Website/</p></details> |
-| **[From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Situation Recognition](http://arxiv.org/abs/2507.14686v2)** | 2025-07-29 |  |
-| **[The Effect of Compression Techniques on Large Multimodal Language Models in the Medical Domain](http://arxiv.org/abs/2507.21976v1)** | 2025-07-29 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. tcolorbox dependencies were removed for arXiv compatibility. All references are included via a precompiled .bbl file</p></details> |
-| **[The Evolution of Video Anomaly Detection: A Unified Framework from DNN to MLLM](http://arxiv.org/abs/2507.21649v1)** | 2025-07-29 |  |
-| **[EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware GRPO](http://arxiv.org/abs/2507.21619v1)** | 2025-07-29 |  |
-| **[TARS: MinMax Token-Adaptive Preference Strategy for Hallucination Reduction in MLLMs](http://arxiv.org/abs/2507.21584v1)** | 2025-07-29 |  |
-| **[C2-Evo: Co-Evolving Multimodal Data and Model for Self-Improving Reasoning](http://arxiv.org/abs/2507.16518v2)** | 2025-07-29 |  |
-| **[EEmo-Bench: A Benchmark for Multi-modal Large Language Models on Image Evoked Emotion Assessment](http://arxiv.org/abs/2504.16405v4)** | 2025-07-29 |  |
-| **[MoHoBench: Assessing Honesty of Multimodal Large Language Models via Unanswerable Visual Questions](http://arxiv.org/abs/2507.21503v1)** | 2025-07-29 |  |
 
