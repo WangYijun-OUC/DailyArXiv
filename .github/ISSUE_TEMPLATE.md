@@ -7,6 +7,8 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection](http://arxiv.org/abs/2506.11772v2)** | 2025-08-07 |  |
+| **[EarthSynth: Generating Informative Earth Observation with Diffusion Models](http://arxiv.org/abs/2505.12108v2)** | 2025-08-07 | 25 pages |
 | **[Unmasking Interstitial Lung Diseases: Leveraging Masked Autoencoders for Diagnosis](http://arxiv.org/abs/2508.04429v1)** | 2025-08-06 |  |
 | **[DocVCE: Diffusion-based Visual Counterfactual Explanations for Document Image Classification](http://arxiv.org/abs/2508.04233v1)** | 2025-08-06 |  |
 | **[DP-DocLDM: Differentially Private Document Image Generation using Latent Diffusion Models](http://arxiv.org/abs/2508.04208v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted in ICDAR 2025</p></details> |
@@ -25,8 +27,6 @@ labels: documentation
 | **[Clustering via Self-Supervised Diffusion](http://arxiv.org/abs/2507.04283v2)** | 2025-07-29 |  |
 | **[Enhancing Glass Defect Detection with Diffusion Models: Addressing Imbalanced Datasets in Manufacturing Quality Control](http://arxiv.org/abs/2505.03134v3)** | 2025-07-29 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, published in Computer and Decision Making - An International Journal (COMDEM)</p></details> |
 | **[A Contrastive Diffusion-based Network (CDNet) for Time Series Classification](http://arxiv.org/abs/2507.21357v1)** | 2025-07-28 | 19 pages, conference |
-| **[Generative Pre-training for Subjective Tasks: A Diffusion Transformer-Based Framework for Facial Beauty Prediction](http://arxiv.org/abs/2507.20363v1)** | 2025-07-27 |  |
-| **[DDB: Diffusion Driven Balancing to Address Spurious Correlations](http://arxiv.org/abs/2503.17226v2)** | 2025-07-27 |  |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
@@ -55,7 +55,7 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ANPrompt: Anti-noise Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2508.04677v1)** | 2025-08-06 |  |
+| **[ANPrompt: Anti-noise Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2508.04677v2)** | 2025-08-07 |  |
 | **[X-SAM: From Segment Anything to Any Segmentation](http://arxiv.org/abs/2508.04655v1)** | 2025-08-06 | Technical Report |
 | **[A Foundation Model for DAS Signal Recognition and Visual Prompt Tuning of the Pre-trained Model for Downstream Tasks](http://arxiv.org/abs/2508.04316v1)** | 2025-08-06 |  |
 | **[CCStereo: Audio-Visual Contextual and Contrastive Learning for Binaural Audio Generation](http://arxiv.org/abs/2501.02786v2)** | 2025-08-06 |  |
@@ -79,24 +79,24 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[X-SAM: From Segment Anything to Any Segmentation](http://arxiv.org/abs/2508.04655v1)** | 2025-08-06 | Technical Report |
-| **[p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay](http://arxiv.org/abs/2412.04449v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025; Code released at https://github.com/MCG-NJU/p-MoD</p></details> |
-| **[FinMMR: Make Financial Numerical Reasoning More Multimodal, Comprehensive, and Challenging](http://arxiv.org/abs/2508.04625v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. arXiv admin note: text overlap with arXiv:2311.06602 by other authors</p></details> |
-| **[ConfProBench: A Confidence Evaluation Benchmark for MLLM-Based Process Judges](http://arxiv.org/abs/2508.04576v1)** | 2025-08-06 |  |
-| **[OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](http://arxiv.org/abs/2508.04482v1)** | 2025-08-06 | ACL 2025 (Oral) |
-| **[ChartM$^3$: Benchmarking Chart Editing with Multimodal Instructions](http://arxiv.org/abs/2507.21167v3)** | 2025-08-06 |  |
-| **[Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](http://arxiv.org/abs/2508.04416v1)** | 2025-08-06 |  |
-| **[GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning](http://arxiv.org/abs/2508.04389v1)** | 2025-08-06 | 9 pages |
-| **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v2)** | 2025-08-06 | ICCV 2025 Highlight |
-| **[TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding](http://arxiv.org/abs/2508.04369v1)** | 2025-08-06 |  |
-| **[DOGR: Towards Versatile Visual Document Grounding and Referring](http://arxiv.org/abs/2411.17125v3)** | 2025-08-06 | 22 pages, 16 figures |
-| **[True Multimodal In-Context Learning Needs Attention to the Visual Context](http://arxiv.org/abs/2507.15807v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
-| **[From Learning to Unlearning: Biomedical Security Protection in Multimodal Large Language Models](http://arxiv.org/abs/2508.04192v1)** | 2025-08-06 |  |
-| **[Hacking Hallucinations of MLLMs with Causal Sufficiency and Necessity](http://arxiv.org/abs/2508.04182v1)** | 2025-08-06 |  |
-| **[AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization](http://arxiv.org/abs/2508.04175v1)** | 2025-08-06 |  |
-| **[Less is More: Token-Efficient Video-QA via Adaptive Frame-Pruning and Semantic Graph Integration](http://arxiv.org/abs/2508.03337v2)** | 2025-08-06 | <details><summary>Corre...</summary><p>Corresponding authors: Weiyu Guo, Hui Xiong</p></details> |
-| **[HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents](http://arxiv.org/abs/2508.02629v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Workshop on Multi-Modal Reasoning for Agentic Intelligence</p></details> |
-| **[Evaluating the Robustness of Multimodal Agents Against Active Environmental Injection Attacks](http://arxiv.org/abs/2502.13053v3)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025 Main Conference</p></details> |
-| **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](http://arxiv.org/abs/2508.04136v1)** | 2025-08-06 |  |
-| **[Learning to Inference Adaptively for Multimodal Large Language Models](http://arxiv.org/abs/2503.10905v3)** | 2025-08-06 | <details><summary>Publi...</summary><p>Published at ICCV 2025</p></details> |
+| **[Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle](http://arxiv.org/abs/2508.05612v1)** | 2025-08-07 |  |
+| **[LLaVA-RE: Binary Image-Text Relevancy Evaluation with Multimodal Large Language Model](http://arxiv.org/abs/2508.05602v1)** | 2025-08-07 | <details><summary>Publi...</summary><p>Published in the First Workshop of Evaluation of Multi-Modal Generation 2025</p></details> |
+| **[Follow-Your-Instruction: A Comprehensive MLLM Agent for World Data Synthesis](http://arxiv.org/abs/2508.05580v1)** | 2025-08-07 |  |
+| **[Do Political Opinions Transfer Between Western Languages? An Analysis of Unaligned and Aligned Multilingual LLMs](http://arxiv.org/abs/2508.05553v1)** | 2025-08-07 |  |
+| **[AI vs. Human Moderators: A Comparative Evaluation of Multimodal LLMs in Content Moderation for Brand Safety](http://arxiv.org/abs/2508.05527v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted to the Computer Vision in Advertising and Marketing (CVAM) workshop at ICCV 2025</p></details> |
+| **[Human Cognitive Benchmarks Reveal Foundational Visual Gaps in MLLMs](http://arxiv.org/abs/2502.16435v2)** | 2025-08-07 | <details><summary>Updat...</summary><p>Update: Evaluated 20 MLLMs; Added generated test cases</p></details> |
+| **[MELLA: Bridging Linguistic Capability and Cultural Groundedness for Low-Resource Language MLLMs](http://arxiv.org/abs/2508.05502v1)** | 2025-08-07 |  |
+| **[TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding](http://arxiv.org/abs/2508.04369v2)** | 2025-08-07 |  |
+| **[mKG-RAG: Multimodal Knowledge Graph-Enhanced RAG for Visual Question Answering](http://arxiv.org/abs/2508.05318v1)** | 2025-08-07 |  |
+| **[B4DL: A Benchmark for 4D LiDAR LLM in Spatio-Temporal Understanding](http://arxiv.org/abs/2508.05269v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
+| **[Resource-Limited Joint Multimodal Sentiment Reasoning and Classification via Chain-of-Thought Enhancement and Distillation](http://arxiv.org/abs/2508.05234v1)** | 2025-08-07 |  |
+| **[Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback](http://arxiv.org/abs/2507.20766v4)** | 2025-08-07 |  |
+| **[QA-Dragon: Query-Aware Dynamic RAG System for Knowledge-Intensive Visual Question Answering](http://arxiv.org/abs/2508.05197v1)** | 2025-08-07 | <details><summary>The s...</summary><p>The source code for our system is released in https://github.com/jzzzzh/QA-Dragon</p></details> |
+| **[PhysPatch: A Physically Realizable and Transferable Adversarial Patch Attack for Multimodal Large Language Models-based Autonomous Driving Systems](http://arxiv.org/abs/2508.05167v1)** | 2025-08-07 |  |
+| **[Diagnosing and Mitigating Modality Interference in Multimodal Large Language Models](http://arxiv.org/abs/2505.19616v2)** | 2025-08-07 |  |
+| **[Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts](http://arxiv.org/abs/2502.17297v2)** | 2025-08-07 |  |
+| **[JPS: Jailbreak Multimodal Large Language Models with Collaborative Visual Perturbation and Textual Steering](http://arxiv.org/abs/2508.05087v1)** | 2025-08-07 | <details><summary>10 pa...</summary><p>10 pages, 3 tables, 2 figures, to appear in the Proceedings of the 33rd ACM International Conference on Multimedia (MM '25)</p></details> |
+| **[MedMKEB: A Comprehensive Knowledge Editing Benchmark for Medical Multimodal Large Language Models](http://arxiv.org/abs/2508.05083v1)** | 2025-08-07 | 18 pages |
+| **[Finding Needles in Images: Can Multimodal LLMs Locate Fine Details?](http://arxiv.org/abs/2508.05053v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted at ACL 2025 in the main track</p></details> |
+| **[Unlocking the Potential of MLLMs in Referring Expression Segmentation via a Light-weight Mask Decoder](http://arxiv.org/abs/2508.04107v2)** | 2025-08-07 | 9 pages, 4 figures |
 
