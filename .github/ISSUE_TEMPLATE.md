@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 14, 2025
+title: Latest 20 Papers - August 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -16,17 +16,6 @@ labels: documentation
 | **[Towards Robust Red-Green Watermarking for Autoregressive Image Generators](http://arxiv.org/abs/2508.06656v1)** | 2025-08-08 |  |
 | **[Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free](http://arxiv.org/abs/2502.03687v2)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted for publication at MIDL 2025</p></details> |
 | **[Improving Diagnostic Accuracy for Oral Cancer with inpainting Synthesis Lesions Generated Using Diffusion Models](http://arxiv.org/abs/2508.06151v1)** | 2025-08-08 |  |
-| **[Improved Sub-Visible Particle Classification in Flow Imaging Microscopy via Generative AI-Based Image Synthesis](http://arxiv.org/abs/2508.06021v1)** | 2025-08-08 |  |
-| **[CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection](http://arxiv.org/abs/2506.11772v2)** | 2025-08-07 |  |
-| **[EarthSynth: Generating Informative Earth Observation with Diffusion Models](http://arxiv.org/abs/2505.12108v2)** | 2025-08-07 | 25 pages |
-| **[Unmasking Interstitial Lung Diseases: Leveraging Masked Autoencoders for Diagnosis](http://arxiv.org/abs/2508.04429v1)** | 2025-08-06 |  |
-| **[DocVCE: Diffusion-based Visual Counterfactual Explanations for Document Image Classification](http://arxiv.org/abs/2508.04233v1)** | 2025-08-06 |  |
-| **[DP-DocLDM: Differentially Private Document Image Generation using Latent Diffusion Models](http://arxiv.org/abs/2508.04208v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted in ICDAR 2025</p></details> |
-| **[Slice or the Whole Pie? Utility Control for AI Models](http://arxiv.org/abs/2508.06551v1)** | 2025-08-06 |  |
-| **[Disentangle Identity, Cooperate Emotion: Correlation-Aware Emotional Talking Portrait Generation](http://arxiv.org/abs/2504.18087v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by ACM MM'25. arXiv admin note: text overlap with arXiv:2409.03270</p></details> |
-| **[From Pixels to Pathology: Restoration Diffusion for Diagnostic-Consistent Virtual IHC](http://arxiv.org/abs/2508.02528v1)** | 2025-08-04 |  |
-| **[Enhancing OOD Detection Using Latent Diffusion](http://arxiv.org/abs/2406.16525v4)** | 2025-08-04 |  |
-| **[CoCoLIT: ControlNet-Conditioned Latent Image Translation for MRI to Amyloid PET Synthesis](http://arxiv.org/abs/2508.01292v1)** | 2025-08-02 |  |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
