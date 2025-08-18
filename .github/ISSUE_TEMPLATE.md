@@ -7,8 +7,14 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Noise Matters: Optimizing Matching Noise for Diffusion Classifiers](http://arxiv.org/abs/2508.11330v1)** | 2025-08-15 |  |
+| **[Graph Neural Diffusion via Generalized Opinion Dynamics](http://arxiv.org/abs/2508.11249v1)** | 2025-08-15 |  |
+| **[MUNBa: Machine Unlearning via Nash Bargaining](http://arxiv.org/abs/2411.15537v3)** | 2025-08-15 |  |
+| **[Recent Advances in Generative AI for Healthcare Applications](http://arxiv.org/abs/2310.00795v2)** | 2025-08-14 | <details><summary>51 pa...</summary><p>51 pages, 16 figures, 1table</p></details> |
+| **[Match & Choose: Model Selection Framework for Fine-tuning Text-to-Image Diffusion Models](http://arxiv.org/abs/2508.10993v1)** | 2025-08-14 |  |
 | **[Classification of small-ball modes and maximum a posteriori estimators in metric spaces](http://arxiv.org/abs/2306.16278v4)** | 2025-08-14 | 63 pages |
 | **[DiffAxE: Diffusion-driven Hardware Accelerator Generation and Design Space Exploration](http://arxiv.org/abs/2508.10303v1)** | 2025-08-14 | <details><summary>14 pa...</summary><p>14 pages, 24 figures, 8 tables, 54 references</p></details> |
+| **[Non-asymptotic convergence bound of conditional diffusion models](http://arxiv.org/abs/2508.10944v1)** | 2025-08-13 |  |
 | **[ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning](http://arxiv.org/abs/2504.08713v5)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted to PMLR 298, 10th Machine Learning for Healthcare Conference (MLHC)</p></details> |
 | **[Discrete Diffusion-Based Model-Level Explanation of Heterogeneous GNNs with Node Features](http://arxiv.org/abs/2508.08458v1)** | 2025-08-11 |  |
 | **[Diffusing the Blind Spot: Uterine MRI Synthesis with Diffusion Models](http://arxiv.org/abs/2508.07903v1)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted at MICCAI CAPI 2025</p></details> |
@@ -21,16 +27,11 @@ labels: documentation
 | **[Improving Diagnostic Accuracy for Oral Cancer with inpainting Synthesis Lesions Generated Using Diffusion Models](http://arxiv.org/abs/2508.06151v1)** | 2025-08-08 |  |
 | **[Improved Sub-Visible Particle Classification in Flow Imaging Microscopy via Generative AI-Based Image Synthesis](http://arxiv.org/abs/2508.06021v1)** | 2025-08-08 |  |
 | **[CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection](http://arxiv.org/abs/2506.11772v2)** | 2025-08-07 |  |
-| **[EarthSynth: Generating Informative Earth Observation with Diffusion Models](http://arxiv.org/abs/2505.12108v2)** | 2025-08-07 | 25 pages |
-| **[Unmasking Interstitial Lung Diseases: Leveraging Masked Autoencoders for Diagnosis](http://arxiv.org/abs/2508.04429v1)** | 2025-08-06 |  |
-| **[DocVCE: Diffusion-based Visual Counterfactual Explanations for Document Image Classification](http://arxiv.org/abs/2508.04233v1)** | 2025-08-06 |  |
-| **[DP-DocLDM: Differentially Private Document Image Generation using Latent Diffusion Models](http://arxiv.org/abs/2508.04208v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted in ICDAR 2025</p></details> |
-| **[Slice or the Whole Pie? Utility Control for AI Models](http://arxiv.org/abs/2508.06551v1)** | 2025-08-06 |  |
-| **[Disentangle Identity, Cooperate Emotion: Correlation-Aware Emotional Talking Portrait Generation](http://arxiv.org/abs/2504.18087v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by ACM MM'25. arXiv admin note: text overlap with arXiv:2409.03270</p></details> |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Recent Advances in Generative AI for Healthcare Applications](http://arxiv.org/abs/2310.00795v2)** | 2025-08-14 | <details><summary>51 pa...</summary><p>51 pages, 16 figures, 1table</p></details> |
 | **[Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free](http://arxiv.org/abs/2502.03687v2)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted for publication at MIDL 2025</p></details> |
 | **[Improving Diagnostic Accuracy for Oral Cancer with inpainting Synthesis Lesions Generated Using Diffusion Models](http://arxiv.org/abs/2508.06151v1)** | 2025-08-08 |  |
 | **[Minimum Data, Maximum Impact: 20 annotated samples for explainable lung nodule classification](http://arxiv.org/abs/2508.00639v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted at iMIMIC - Interpretability of Machine Intelligence in Medical Image Computing workshop MICCAI 2025 Medical Image Computing and Computer Assisted Intervention</p></details> |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Doctor Approved: Generating Medically Accurate Skin Disease Images through AI-Expert Feedback](http://arxiv.org/abs/2506.12323v1)** | 2025-06-14 |  |
 | **[Aiding Medical Diagnosis through Image Synthesis and Classification](http://arxiv.org/abs/2506.00786v1)** | 2025-06-01 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Under review</p></details> |
 | **[MRI Image Generation Based on Text Prompts](http://arxiv.org/abs/2505.22682v1)** | 2025-05-23 |  |
-| **[Diffusion Bridge Models for 3D Medical Image Translation](http://arxiv.org/abs/2504.15267v1)** | 2025-04-21 |  |
 
 ## visual prompt
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,16 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Thyme: Think Beyond Images](http://arxiv.org/abs/2508.11630v1)** | 2025-08-15 | <details><summary>Proje...</summary><p>Project page: https://thyme-vl.github.io/</p></details> |
+| **[Controlling Multimodal LLMs via Reward-guided Decoding](http://arxiv.org/abs/2508.11616v1)** | 2025-08-15 | <details><summary>Publi...</summary><p>Published at ICCV 2025</p></details> |
+| **[Inclusion Arena: An Open Platform for Evaluating Large Foundation Models with Real-World Apps](http://arxiv.org/abs/2508.11452v1)** | 2025-08-15 | <details><summary>Our p...</summary><p>Our platform is publicly accessible at https://doraemon.alipay.com/model-ranking</p></details> |
+| **[MM-R1: Unleashing the Power of Unified Multimodal Large Language Models for Personalized Image Generation](http://arxiv.org/abs/2508.11433v1)** | 2025-08-15 |  |
+| **[Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries](http://arxiv.org/abs/2502.16636v2)** | 2025-08-15 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 17 tables</p></details> |
+| **[HOID-R1: Reinforcement Learning for Open-World Human-Object Interaction Detection Reasoning with Multimodal Large Language Model](http://arxiv.org/abs/2508.11350v1)** | 2025-08-15 |  |
+| **[Training-Free Multimodal Large Language Model Orchestration](http://arxiv.org/abs/2508.10016v2)** | 2025-08-15 |  |
+| **[ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism](http://arxiv.org/abs/2507.10069v2)** | 2025-08-15 |  |
+| **[Marmot: Object-Level Self-Correction via Multi-Agent Reasoning](http://arxiv.org/abs/2504.20054v3)** | 2025-08-15 |  |
+| **[Towards Generalizable Forgery Detection and Reasoning](http://arxiv.org/abs/2503.21210v2)** | 2025-08-15 |  |
 | **[TBAC-UniImage: Unified Understanding and Generation by Ladder-Side Diffusion Tuning](http://arxiv.org/abs/2508.08098v2)** | 2025-08-14 |  |
 | **[EgoCross: Benchmarking Multimodal Large Language Models for Cross-Domain Egocentric Video Question Answering](http://arxiv.org/abs/2508.10729v1)** | 2025-08-14 |  |
 | **[Debiasing Multimodal Large Language Models via Penalization of Language Priors](http://arxiv.org/abs/2403.05262v3)** | 2025-08-14 | 10 pages, 12 figures |
@@ -88,15 +98,5 @@ labels: documentation
 | **[SIFThinker: Spatially-Aware Image Focus for Visual Reasoning](http://arxiv.org/abs/2508.06259v2)** | 2025-08-14 | 15 pages, 13 figures |
 | **[OrderChain: Towards General Instruct-Tuning for Stimulating the Ordinal Understanding Ability of MLLM](http://arxiv.org/abs/2504.04801v3)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning](http://arxiv.org/abs/2508.10433v1)** | 2025-08-14 | Working in progress |
-| **[Few-shot Vision-based Human Activity Recognition with MLLM-based Visual Reinforcement Learning](http://arxiv.org/abs/2508.10371v1)** | 2025-08-14 |  |
-| **[Warehouse Spatial Question Answering with LLM Agent](http://arxiv.org/abs/2507.10778v2)** | 2025-08-14 | <details><summary>1st P...</summary><p>1st Place Solution of the 9th AI City Challenge Track 3</p></details> |
-| **[CapeLLM: Support-Free Category-Agnostic Pose Estimation with Multimodal Large Language Models](http://arxiv.org/abs/2411.06869v2)** | 2025-08-14 | ICCV 2025 |
-| **[Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle](http://arxiv.org/abs/2508.05612v2)** | 2025-08-14 | <details><summary>Proje...</summary><p>Project page at: https://xenozlh.github.io/Shuffle-R1/</p></details> |
-| **[Mastering Collaborative Multi-modal Data Selection: A Focus on Informativeness, Uniqueness, and Representativeness](http://arxiv.org/abs/2412.06293v2)** | 2025-08-14 | ICCV 2025 Highlight |
-| **[EditGarment: An Instruction-Based Garment Editing Dataset Constructed with Automated MLLM Synthesis and Semantic-Aware Evaluation](http://arxiv.org/abs/2508.03497v2)** | 2025-08-14 |  |
-| **[MusiXQA: Advancing Visual Music Understanding in Multimodal Large Language Models](http://arxiv.org/abs/2506.23009v3)** | 2025-08-14 | Under Review |
-| **[B-repLer: Semantic B-rep Latent Editor using Large Language Models](http://arxiv.org/abs/2508.10201v1)** | 2025-08-13 |  |
-| **[Bridging Modality Gaps in e-Commerce Products via Vision-Language Alignment](http://arxiv.org/abs/2508.10116v1)** | 2025-08-13 |  |
-| **[SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence](http://arxiv.org/abs/2506.07966v3)** | 2025-08-13 |  |
-| **[VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models](http://arxiv.org/abs/2508.09945v1)** | 2025-08-13 |  |
+| **[Empowering Multimodal LLMs with External Tools: A Comprehensive Survey](http://arxiv.org/abs/2508.10955v1)** | 2025-08-14 | <details><summary>21 pa...</summary><p>21 pages, 361 references</p></details> |
 
