@@ -55,11 +55,38 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup](http://arxiv.org/abs/2508.13560v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025, Project: https://github.com/xiaozhen228/DictAS</p></details> |
 | **[Precise Action-to-Video Generation Through Visual Action Prompts](http://arxiv.org/abs/2508.13104v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://zju3dv.github.io/VAP/</p></details> |
+| **[RoboRetriever: Single-Camera Robot Object Retrieval via Active and Interactive Perception with Dynamic Scene Graph](http://arxiv.org/abs/2508.12916v1)** | 2025-08-18 |  |
+| **[Attention to the Burstiness in Visual Prompt Tuning!](http://arxiv.org/abs/2506.22908v2)** | 2025-08-18 | <details><summary>ICCV ...</summary><p>ICCV 2025; v2: camera ready</p></details> |
+| **[SafePLUG: Empowering Multimodal LLMs with Pixel-Level Insight and Temporal Grounding for Traffic Accident Understanding](http://arxiv.org/abs/2508.06763v2)** | 2025-08-17 | <details><summary>The c...</summary><p>The code, dataset, and model checkpoints will be made publicly available at: https://zihaosheng.github.io/SafePLUG</p></details> |
+| **[EgoLoc: A Generalizable Solution for Temporal Interaction Localization in Egocentric Videos](http://arxiv.org/abs/2508.12349v1)** | 2025-08-17 | <details><summary>Exten...</summary><p>Extended journal version of arXiv:2506.03662</p></details> |
+| **[Continual Learning on CLIP via Incremental Prompt Tuning with Intrinsic Textual Anchors](http://arxiv.org/abs/2505.20680v2)** | 2025-08-17 | Preprint |
+| **[Stepwise Decomposition and Dual-stream Focus: A Novel Approach for Training-free Camouflaged Object Segmentation](http://arxiv.org/abs/2506.06818v3)** | 2025-08-14 | <details><summary>accep...</summary><p>accepted by ACM MM2025</p></details> |
+| **[Improved GUI Grounding via Iterative Narrowing](http://arxiv.org/abs/2411.13591v6)** | 2025-08-14 | <details><summary>Code ...</summary><p>Code available at https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing</p></details> |
+| **[Yan: Foundational Interactive Video Generation](http://arxiv.org/abs/2508.08601v3)** | 2025-08-14 |  |
+| **[Hierarchical Cross-modal Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2507.14976v2)** | 2025-08-14 | Accepted by ICCV2025 |
+| **[Stable Diffusion Models are Secretly Good at Visual In-Context Learning](http://arxiv.org/abs/2508.09949v1)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
+| **[A Simple yet Powerful Instance-Aware Prompting Framework for Training-free Camouflaged Object Segmentation](http://arxiv.org/abs/2508.06904v2)** | 2025-08-13 | under review |
+| **[Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding](http://arxiv.org/abs/2508.09032v1)** | 2025-08-12 |  |
+| **[Visual Prompting for Robotic Manipulation with Annotation-Guided Pick-and-Place Using ACT](http://arxiv.org/abs/2508.08748v1)** | 2025-08-12 |  |
+| **[Hierarchical Visual Prompt Learning for Continual Video Instance Segmentation](http://arxiv.org/abs/2508.08612v1)** | 2025-08-12 | Accepted to ICCV2025 |
+| **[SPIE: Semantic and Structural Post-Training of Image Editing Diffusion Models with AI feedback](http://arxiv.org/abs/2504.12833v2)** | 2025-08-12 |  |
+| **[Your other Left! Vision-Language Models Fail to Identify Relative Positions in Medical Images](http://arxiv.org/abs/2508.00549v2)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025</p></details> |
+| **[Text-guided Visual Prompt DINO for Generic Segmentation](http://arxiv.org/abs/2508.06146v1)** | 2025-08-08 |  |
+| **[ANPrompt: Anti-noise Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2508.04677v2)** | 2025-08-07 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs](http://arxiv.org/abs/2503.22884v2)** | 2025-08-19 | ICCV 2025 |
+| **[RotBench: Evaluating Multimodal Large Language Models on Identifying Image Rotation](http://arxiv.org/abs/2508.13968v1)** | 2025-08-19 | <details><summary>20 pa...</summary><p>20 pages. Code and data: https://github.com/tianyiniu/RotBench</p></details> |
+| **[MME-SCI: A Comprehensive and Challenging Science Benchmark for Multimodal Large Language Models](http://arxiv.org/abs/2508.13938v1)** | 2025-08-19 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, work in progress</p></details> |
+| **[HumanPCR: Probing MLLM Capabilities in Diverse Human-Centric Scenes](http://arxiv.org/abs/2508.13692v1)** | 2025-08-19 |  |
+| **[A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](http://arxiv.org/abs/2507.17303v2)** | 2025-08-19 |  |
+| **[Unlocking the Potential of MLLMs in Referring Expression Segmentation via a Light-weight Mask Decoder](http://arxiv.org/abs/2508.04107v3)** | 2025-08-19 | 9 pages, 4 figures |
+| **[PersonaVlog: Personalized Multimodal Vlog Generation with Multi-Agent Collaboration and Iterative Self-Correction](http://arxiv.org/abs/2508.13602v1)** | 2025-08-19 | <details><summary>Proje...</summary><p>Project Page: https://personavlog-paper.github.io/</p></details> |
+| **[Revisiting MLLM Token Technology through the Lens of Classical Visual Coding](http://arxiv.org/abs/2508.13460v1)** | 2025-08-19 |  |
 | **[Learning to Steer: Input-dependent Steering for Multimodal LLMs](http://arxiv.org/abs/2508.12815v1)** | 2025-08-18 |  |
 | **[LeAdQA: LLM-Driven Context-Aware Temporal Grounding for Video Question Answering](http://arxiv.org/abs/2507.14784v2)** | 2025-08-18 |  |
 | **[InterRVOS: Interaction-aware Referring Video Object Segmentation](http://arxiv.org/abs/2506.02356v3)** | 2025-08-18 |  |
@@ -72,12 +99,4 @@ labels: documentation
 | **[SafePLUG: Empowering Multimodal LLMs with Pixel-Level Insight and Temporal Grounding for Traffic Accident Understanding](http://arxiv.org/abs/2508.06763v2)** | 2025-08-17 | <details><summary>The c...</summary><p>The code, dataset, and model checkpoints will be made publicly available at: https://zihaosheng.github.io/SafePLUG</p></details> |
 | **[DeCoT: Decomposing Complex Instructions for Enhanced Text-to-Image Generation with Large Language Models](http://arxiv.org/abs/2508.12396v1)** | 2025-08-17 |  |
 | **[RadarQA: Multi-modal Quality Analysis of Weather Radar Forecasts](http://arxiv.org/abs/2508.12291v1)** | 2025-08-17 |  |
-| **[Region-Level Context-Aware Multimodal Understanding](http://arxiv.org/abs/2508.12263v1)** | 2025-08-17 | 12 pages, 6 figures |
-| **[Simple o3: Towards Interleaved Vision-Language Reasoning](http://arxiv.org/abs/2508.12109v1)** | 2025-08-16 |  |
-| **[EventHallusion: Diagnosing Event Hallucinations in Video LLMs](http://arxiv.org/abs/2409.16597v5)** | 2025-08-16 |  |
-| **[MOON: Generative MLLM-based Multimodal Representation Learning for E-commerce Product Understanding](http://arxiv.org/abs/2508.11999v1)** | 2025-08-16 | 11 pages, 9 figures |
-| **[EVTP-IVS: Effective Visual Token Pruning For Unifying Instruction Visual Segmentation In Multi-Modal Large Language Models](http://arxiv.org/abs/2508.11886v1)** | 2025-08-16 |  |
-| **[Thyme: Think Beyond Images](http://arxiv.org/abs/2508.11630v1)** | 2025-08-15 | <details><summary>Proje...</summary><p>Project page: https://thyme-vl.github.io/</p></details> |
-| **[Controlling Multimodal LLMs via Reward-guided Decoding](http://arxiv.org/abs/2508.11616v1)** | 2025-08-15 | <details><summary>Publi...</summary><p>Published at ICCV 2025</p></details> |
-| **[Ovis2.5 Technical Report](http://arxiv.org/abs/2508.11737v1)** | 2025-08-15 |  |
 
