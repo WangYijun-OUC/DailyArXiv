@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 25, 2025
+title: Latest 20 Papers - August 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -16,6 +16,17 @@ labels: documentation
 | **[AI-Augmented Thyroid Scintigraphy for Robust Classification](http://arxiv.org/abs/2503.00366v2)** | 2025-08-17 |  |
 | **[NoProp: Training Neural Networks without Full Back-propagation or Full Forward-propagation](http://arxiv.org/abs/2503.24322v2)** | 2025-08-17 | <details><summary>Camer...</summary><p>Camera-ready version for CoLLAs 2025</p></details> |
 | **[Noise Matters: Optimizing Matching Noise for Diffusion Classifiers](http://arxiv.org/abs/2508.11330v1)** | 2025-08-15 |  |
+| **[Graph Neural Diffusion via Generalized Opinion Dynamics](http://arxiv.org/abs/2508.11249v1)** | 2025-08-15 |  |
+| **[MUNBa: Machine Unlearning via Nash Bargaining](http://arxiv.org/abs/2411.15537v3)** | 2025-08-15 |  |
+| **[Recent Advances in Generative AI for Healthcare Applications](http://arxiv.org/abs/2310.00795v2)** | 2025-08-14 | <details><summary>51 pa...</summary><p>51 pages, 16 figures, 1table</p></details> |
+| **[Match & Choose: Model Selection Framework for Fine-tuning Text-to-Image Diffusion Models](http://arxiv.org/abs/2508.10993v1)** | 2025-08-14 |  |
+| **[Classification of small-ball modes and maximum a posteriori estimators in metric spaces](http://arxiv.org/abs/2306.16278v4)** | 2025-08-14 | 63 pages |
+| **[DiffAxE: Diffusion-driven Hardware Accelerator Generation and Design Space Exploration](http://arxiv.org/abs/2508.10303v1)** | 2025-08-14 | <details><summary>14 pa...</summary><p>14 pages, 24 figures, 8 tables, 54 references</p></details> |
+| **[EEGDM: EEG Representation Learning via Generative Diffusion Model](http://arxiv.org/abs/2508.14086v1)** | 2025-08-13 | EEGDM Preprint |
+| **[Non-asymptotic convergence bound of conditional diffusion models](http://arxiv.org/abs/2508.10944v1)** | 2025-08-13 |  |
+| **[ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning](http://arxiv.org/abs/2504.08713v5)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted to PMLR 298, 10th Machine Learning for Healthcare Conference (MLHC)</p></details> |
+| **[Discrete Diffusion-Based Model-Level Explanation of Heterogeneous GNNs with Node Features](http://arxiv.org/abs/2508.08458v1)** | 2025-08-11 |  |
+| **[Diffusing the Blind Spot: Uterine MRI Synthesis with Diffusion Models](http://arxiv.org/abs/2508.07903v1)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted at MICCAI CAPI 2025</p></details> |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
