@@ -7,6 +7,7 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Saddle Hierarchy in Dense Associative Memory](http://arxiv.org/abs/2508.19151v1)** | 2025-08-26 | 55 pages, 10 figures |
 | **[Diffusing the Blind Spot: Uterine MRI Synthesis with Diffusion Models](http://arxiv.org/abs/2508.07903v2)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted at MICCAI CAPI 2025</p></details> |
 | **[A Novel Local Focusing Mechanism for Deepfake Detection Generalization](http://arxiv.org/abs/2508.17029v1)** | 2025-08-23 |  |
 | **[Improving Performance, Robustness, and Fairness of Radiographic AI Models with Finely-Controllable Synthetic Data](http://arxiv.org/abs/2508.16783v1)** | 2025-08-22 |  |
@@ -26,7 +27,6 @@ labels: documentation
 | **[Match & Choose: Model Selection Framework for Fine-tuning Text-to-Image Diffusion Models](http://arxiv.org/abs/2508.10993v1)** | 2025-08-14 |  |
 | **[Classification of small-ball modes and maximum a posteriori estimators in metric spaces](http://arxiv.org/abs/2306.16278v4)** | 2025-08-14 | 63 pages |
 | **[DiffAxE: Diffusion-driven Hardware Accelerator Generation and Design Space Exploration](http://arxiv.org/abs/2508.10303v1)** | 2025-08-14 | <details><summary>14 pa...</summary><p>14 pages, 24 figures, 8 tables, 54 references</p></details> |
-| **[EEGDM: EEG Representation Learning via Generative Diffusion Model](http://arxiv.org/abs/2508.14086v1)** | 2025-08-13 | EEGDM Preprint |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,8 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Robust Medical Fairness: Debiased Dual-Modal Alignment via Text-Guided Attribute-Disentangled Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2508.18886v1)** | 2025-08-26 |  |
+| **[PromptGAR: Flexible Promptive Group Activity Recognition](http://arxiv.org/abs/2503.08933v2)** | 2025-08-25 |  |
 | **[VPN: Visual Prompt Navigation](http://arxiv.org/abs/2508.01766v3)** | 2025-08-25 |  |
 | **[PromptRR: Diffusion Models as Prompt Generators for Single Image Reflection Removal](http://arxiv.org/abs/2402.02374v2)** | 2025-08-24 | 10 pages, 10 figures |
 | **[Constrained Prompt Enhancement for Improving Zero-Shot Generalization of Vision-Language Models](http://arxiv.org/abs/2508.17417v1)** | 2025-08-24 |  |
@@ -73,12 +75,18 @@ labels: documentation
 | **[Yan: Foundational Interactive Video Generation](http://arxiv.org/abs/2508.08601v3)** | 2025-08-14 |  |
 | **[Hierarchical Cross-modal Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2507.14976v2)** | 2025-08-14 | Accepted by ICCV2025 |
 | **[Stable Diffusion Models are Secretly Good at Visual In-Context Learning](http://arxiv.org/abs/2508.09949v1)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[A Simple yet Powerful Instance-Aware Prompting Framework for Training-free Camouflaged Object Segmentation](http://arxiv.org/abs/2508.06904v2)** | 2025-08-13 | under review |
-| **[Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding](http://arxiv.org/abs/2508.09032v1)** | 2025-08-12 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Less is More: Token-Efficient Video-QA via Adaptive Frame-Pruning and Semantic Graph Integration](http://arxiv.org/abs/2508.03337v4)** | 2025-08-26 | <details><summary>Corre...</summary><p>Corresponding authors: Weiyu Guo, Hui Xiong. This manuscript is a preprint. An earlier version of this work was submitted to AAAI 2026 and was not accepted due to exceeding the page limit. This version has been revised and is formatted using the AAAI 2026 style file</p></details> |
+| **[SmartBench: Is Your LLM Truly a Good Chinese Smartphone Assistant?](http://arxiv.org/abs/2503.06029v2)** | 2025-08-26 | 26 pages |
+| **[Waver: Wave Your Way to Lifelike Video Generation](http://arxiv.org/abs/2508.15761v2)** | 2025-08-26 |  |
+| **[MM-R1: Unleashing the Power of Unified Multimodal Large Language Models for Personalized Image Generation](http://arxiv.org/abs/2508.11433v2)** | 2025-08-26 |  |
+| **[Tailored Teaching with Balanced Difficulty: Elevating Reasoning in Multimodal Chain-of-Thought via Prompt Curriculum](http://arxiv.org/abs/2508.18673v1)** | 2025-08-26 |  |
+| **[Retrieval Enhanced Feedback via In-context Neural Error-book](http://arxiv.org/abs/2508.16313v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 main conference</p></details> |
+| **[OwlCap: Harmonizing Motion-Detail for Video Captioning via HMD-270K and Caption Set Equivalence Reward](http://arxiv.org/abs/2508.18634v1)** | 2025-08-26 | 9 pages, 6figures |
+| **[ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration](http://arxiv.org/abs/2411.16044v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted by EMNLP-2025 Main. Project page: https://szhanz.github.io/zoomeye/</p></details> |
 | **[InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](http://arxiv.org/abs/2508.18265v1)** | 2025-08-25 |  |
 | **[EmoBench-M: Benchmarking Emotional Intelligence for Multimodal Large Language Models](http://arxiv.org/abs/2502.04424v2)** | 2025-08-25 |  |
 | **[Test-Time Scaling Strategies for Generative Retrieval in Multimodal Conversational Recommendations](http://arxiv.org/abs/2508.18132v1)** | 2025-08-25 |  |
@@ -91,12 +99,4 @@ labels: documentation
 | **[Instant Preference Alignment for Text-to-Image Diffusion Models](http://arxiv.org/abs/2508.17718v1)** | 2025-08-25 | 17 figures |
 | **[Hidden in Plain Sight: Reasoning in Underspecified and Misspecified Scenarios for Multimodal LLMs](http://arxiv.org/abs/2506.00258v2)** | 2025-08-25 |  |
 | **[Towards Synthesizing Normative Data for Cognitive Assessments Using Generative Multimodal Large Language Models](http://arxiv.org/abs/2508.17675v1)** | 2025-08-25 | Preprint |
-| **[ChartMaster: Advancing Chart-to-Code Generation with Real-World Charts and Chart Similarity Reinforcement Learning](http://arxiv.org/abs/2508.17608v1)** | 2025-08-25 |  |
-| **[VisR-Bench: An Empirical Study on Visual Retrieval-Augmented Generation for Multilingual Long Document Understanding](http://arxiv.org/abs/2508.07493v2)** | 2025-08-25 | Under Review |
-| **[Traveling Across Languages: Benchmarking Cross-Lingual Consistency in Multimodal LLMs](http://arxiv.org/abs/2505.15075v5)** | 2025-08-24 | <details><summary>The f...</summary><p>The first version of this paper mistakenly included a prompt injection phrase, which was inappropriate and unprofessional. Although we corrected the version on arXiv and withdrew from the conference, my co-authors and university strongly request a full withdrawal. Given the situation, I no longer have the authority to manage this paper, and withdrawing it from arXiv is the most responsible action</p></details> |
-| **[SIFThinker: Spatially-Aware Image Focus for Visual Reasoning](http://arxiv.org/abs/2508.06259v3)** | 2025-08-24 | 15 pages, 13 figures |
-| **[Continual Learning for Generative AI: From LLMs to MLLMs and Beyond](http://arxiv.org/abs/2506.13045v4)** | 2025-08-24 | Preprint |
-| **[From reactive to cognitive: brain-inspired spatial intelligence for embodied agents](http://arxiv.org/abs/2508.17198v1)** | 2025-08-24 | 40 pages, 8 figures |
-| **[MaRVL-QA: A Benchmark for Mathematical Reasoning over Visual Landscapes](http://arxiv.org/abs/2508.17180v1)** | 2025-08-24 |  |
-| **[GRASP: Geospatial pixel Reasoning viA Structured Policy learning](http://arxiv.org/abs/2508.17102v1)** | 2025-08-23 | 11 pages, 7 figures |
 
