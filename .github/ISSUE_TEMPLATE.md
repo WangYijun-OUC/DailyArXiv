@@ -55,11 +55,11 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Learning Strategies for Mitotic Figure Classification in MIDOG2025 Challenge](http://arxiv.org/abs/2509.02640v2)** | 2025-09-05 |  |
 | **[Learning Optimal Prompt Ensemble for Multi-source Visual Prompt Transfer](http://arxiv.org/abs/2504.12311v4)** | 2025-09-04 |  |
 | **[Parameter-Efficient Adaptation of mPLUG-Owl2 via Pixel-Level Visual Prompts for NR-IQA](http://arxiv.org/abs/2509.03494v1)** | 2025-09-03 |  |
 | **[Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](http://arxiv.org/abs/2509.03113v1)** | 2025-09-03 |  |
 | **[FedMVP: Federated Multimodal Visual Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2504.20860v2)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted in ICCV 2025</p></details> |
-| **[Adaptive Learning Strategies for Mitotic Figure Classification in MIDOG2025 Challenge](http://arxiv.org/abs/2509.02640v1)** | 2025-09-01 |  |
 | **[Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models](http://arxiv.org/abs/2503.11519v3)** | 2025-08-28 | <details><summary>This ...</summary><p>This paper is accepted by IJCAI2025 Workshop on Deepfake Detection, Localization, and Interpretability</p></details> |
 | **[ZIM: Zero-Shot Image Matting for Anything](http://arxiv.org/abs/2411.00626v2)** | 2025-08-28 | <details><summary>ICCV ...</summary><p>ICCV 2025 (Highlight)</p></details> |
 | **[Towards Instance-wise Personalized Federated Learning via Semi-Implicit Bayesian Prompt Tuning](http://arxiv.org/abs/2508.19621v1)** | 2025-08-27 | Accepted by CIKM2025 |
@@ -79,8 +79,15 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding](http://arxiv.org/abs/2505.06020v2)** | 2025-09-05 |  |
+| **[Aesthetic Image Captioning with Saliency Enhanced MLLMs](http://arxiv.org/abs/2509.04378v2)** | 2025-09-05 |  |
+| **[Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs](http://arxiv.org/abs/2503.20309v2)** | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Caution for the Environment: Multimodal LLM Agents are Susceptible to Environmental Distractions](http://arxiv.org/abs/2408.02544v3)** | 2025-09-05 | ACL 2025 |
+| **[UniView: Enhancing Novel View Synthesis From A Single Image By Unifying Reference Features](http://arxiv.org/abs/2509.04932v1)** | 2025-09-05 | <details><summary>Submi...</summary><p>Submitted to ACM TOMM</p></details> |
+| **[SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing](http://arxiv.org/abs/2509.04908v1)** | 2025-09-05 |  |
+| **[SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs](http://arxiv.org/abs/2408.11813v2)** | 2025-09-05 |  |
+| **[WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning](http://arxiv.org/abs/2509.04744v1)** | 2025-09-05 |  |
 | **[Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios](http://arxiv.org/abs/2509.04403v1)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Findings</p></details> |
-| **[Aesthetic Image Captioning with Saliency Enhanced MLLMs](http://arxiv.org/abs/2509.04378v1)** | 2025-09-04 |  |
 | **[AudioCodecBench: A Comprehensive Benchmark for Audio Codec Evaluation](http://arxiv.org/abs/2509.02349v2)** | 2025-09-04 |  |
 | **[Synthesizing Sheet Music Problems for Evaluation and Reinforcement Learning](http://arxiv.org/abs/2509.04059v1)** | 2025-09-04 | 11 pages |
 | **[ANTS: Shaping the Adaptive Negative Textual Space by MLLM for OOD Detection](http://arxiv.org/abs/2509.03951v1)** | 2025-09-04 |  |
@@ -92,11 +99,4 @@ labels: documentation
 | **[Multimodal Iterative RAG for Knowledge Visual Question Answering](http://arxiv.org/abs/2509.00798v2)** | 2025-09-03 |  |
 | **[Empowering Lightweight MLLMs with Reasoning via Long CoT SFT](http://arxiv.org/abs/2509.03321v1)** | 2025-09-03 |  |
 | **[Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents](http://arxiv.org/abs/2508.19493v2)** | 2025-09-03 |  |
-| **[Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](http://arxiv.org/abs/2508.04416v2)** | 2025-09-03 |  |
-| **[Exploring Response Uncertainty in MLLMs: An Empirical Evaluation under Misleading Scenarios](http://arxiv.org/abs/2411.02708v3)** | 2025-09-03 |  |
-| **[TruthLens: Visual Grounding for Universal DeepFake Reasoning](http://arxiv.org/abs/2503.15867v3)** | 2025-09-03 |  |
-| **[English Pronunciation Evaluation without Complex Joint Training: LoRA Fine-tuned Speech Multimodal LLM](http://arxiv.org/abs/2509.02915v1)** | 2025-09-03 |  |
-| **[PixFoundation 2.0: Do Video Multi-Modal LLMs Use Motion in Visual Grounding?](http://arxiv.org/abs/2509.02807v1)** | 2025-09-02 | <details><summary>Work ...</summary><p>Work under review in NeurIPS 2025 with the title "Are we using Motion in Referring Segmentation? A Motion-Centric Evaluation"</p></details> |
-| **[ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](http://arxiv.org/abs/2508.21496v2)** | 2025-09-02 |  |
-| **[SpatialViz-Bench: An MLLM Benchmark for Spatial Visualization](http://arxiv.org/abs/2507.07610v4)** | 2025-09-02 |  |
 
