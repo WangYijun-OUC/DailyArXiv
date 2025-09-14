@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 14, 2025
+title: Latest 20 Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,6 @@ labels: documentation
 | **[Extreme Learning Machine for the Characterization of Anomalous Diffusion from Single Trajectories (AnDi-ELM)](http://arxiv.org/abs/2105.02597v2)** | 2025-08-28 | <details><summary>18 pa...</summary><p>18 pages, 7 figures. Author's Accepted Manuscript of a published article in J. Phys. A: Math. Theor. 54: 334002 (2021). https://doi.org/10.1088/1751-8121/ac13dd</p></details> |
 | **[Saddle Hierarchy in Dense Associative Memory](http://arxiv.org/abs/2508.19151v1)** | 2025-08-26 | 55 pages, 10 figures |
 | **[Diffusing the Blind Spot: Uterine MRI Synthesis with Diffusion Models](http://arxiv.org/abs/2508.07903v2)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted at MICCAI CAPI 2025</p></details> |
-| **[A Novel Local Focusing Mechanism for Deepfake Detection Generalization](http://arxiv.org/abs/2508.17029v1)** | 2025-08-23 |  |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
