@@ -7,6 +7,8 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models?](http://arxiv.org/abs/2503.07890v2)** | 2025-09-12 | <details><summary>ICCV ...</summary><p>ICCV 2025, camera ready</p></details> |
+| **[Limited Reference, Reliable Generation: A Two-Component Framework for Tabular Data Generation in Low-Data Regimes](http://arxiv.org/abs/2509.09960v1)** | 2025-09-12 |  |
 | **[Uncertainty-aware Diffusion and Reinforcement Learning for Joint Plane Localization and Anomaly Diagnosis in 3D Ultrasound](http://arxiv.org/abs/2506.23538v2)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025;10 pages, 3 figures</p></details> |
 | **[LLaDA-VLA: Vision Language Diffusion Action Models](http://arxiv.org/abs/2509.06932v2)** | 2025-09-10 |  |
 | **[DMS-Net:Dual-Modal Multi-Scale Siamese Network for Binocular Fundus Image Classification](http://arxiv.org/abs/2504.18046v3)** | 2025-09-09 |  |
@@ -25,7 +27,6 @@ labels: documentation
 | **[Towards High-Fidelity and Controllable Bioacoustic Generation via Enhanced Diffusion Learning](http://arxiv.org/abs/2509.00318v1)** | 2025-08-30 |  |
 | **[Extreme Learning Machine for the Characterization of Anomalous Diffusion from Single Trajectories (AnDi-ELM)](http://arxiv.org/abs/2105.02597v2)** | 2025-08-28 | <details><summary>18 pa...</summary><p>18 pages, 7 figures. Author's Accepted Manuscript of a published article in J. Phys. A: Math. Theor. 54: 334002 (2021). https://doi.org/10.1088/1751-8121/ac13dd</p></details> |
 | **[Saddle Hierarchy in Dense Associative Memory](http://arxiv.org/abs/2508.19151v1)** | 2025-08-26 | 55 pages, 10 figures |
-| **[Diffusing the Blind Spot: Uterine MRI Synthesis with Diffusion Models](http://arxiv.org/abs/2508.07903v2)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted at MICCAI CAPI 2025</p></details> |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
@@ -54,6 +55,7 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Realism Control One-step Diffusion for Real-World Image Super-Resolution](http://arxiv.org/abs/2509.10122v1)** | 2025-09-12 |  |
 | **[Improved GUI Grounding via Iterative Narrowing](http://arxiv.org/abs/2411.13591v7)** | 2025-09-11 | <details><summary>Code ...</summary><p>Code available at https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing</p></details> |
 | **[RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation](http://arxiv.org/abs/2509.08820v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025, Project Page: https://zzongzheng0918.github.io/RoboChemist.github.io/</p></details> |
 | **[Parameter-Efficient Adaptation of mPLUG-Owl2 via Pixel-Level Visual Prompts for NR-IQA](http://arxiv.org/abs/2509.03494v2)** | 2025-09-06 |  |
@@ -73,15 +75,16 @@ labels: documentation
 | **[SSG-Dit: A Spatial Signal Guided Framework for Controllable Video Generation](http://arxiv.org/abs/2508.17062v1)** | 2025-08-23 |  |
 | **[Label Anything: Multi-Class Few-Shot Semantic Segmentation with Visual Prompts](http://arxiv.org/abs/2407.02075v4)** | 2025-08-21 | <details><summary>ECAI ...</summary><p>ECAI 2025 - 28th European Conference on Artificial Intelligence</p></details> |
 | **[DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup](http://arxiv.org/abs/2508.13560v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025, Project: https://github.com/xiaozhen228/DictAS</p></details> |
-| **[Incremental Object Detection with Prompt-based Methods](http://arxiv.org/abs/2508.14599v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted to ICCV Workshops 2025</p></details> |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning](http://arxiv.org/abs/2509.09332v2)** | 2025-09-12 |  |
+| **[Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation Evaluation](http://arxiv.org/abs/2504.11829v4)** | 2025-09-12 |  |
+| **[ANTS: Shaping the Adaptive Negative Textual Space by MLLM for OOD Detection](http://arxiv.org/abs/2509.03951v2)** | 2025-09-11 |  |
 | **[Measuring Epistemic Humility in Multimodal Large Language Models](http://arxiv.org/abs/2509.09658v1)** | 2025-09-11 |  |
 | **[The NTNU System at the S&I Challenge 2025 SLA Open Track](http://arxiv.org/abs/2506.05121v2)** | 2025-09-11 | <details><summary>submi...</summary><p>submitted to the ISCA SLaTE-2025 Workshop</p></details> |
 | **[Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis](http://arxiv.org/abs/2509.09595v1)** | 2025-09-11 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://klingavatar.github.io/</p></details> |
-| **[OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning](http://arxiv.org/abs/2509.09332v1)** | 2025-09-11 |  |
 | **[Can Multimodal LLMs See Materials Clearly? A Multimodal Benchmark on Materials Characterization](http://arxiv.org/abs/2509.09307v1)** | 2025-09-11 |  |
 | **[DATE: Dynamic Absolute Time Enhancement for Long Video Understanding](http://arxiv.org/abs/2509.09263v1)** | 2025-09-11 |  |
 | **[Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust Text-based Person Retrieval](http://arxiv.org/abs/2509.09118v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted by EMNLP2025 Main</p></details> |
@@ -92,10 +95,8 @@ labels: documentation
 | **[HiPhO: How Far Are (M)LLMs from Humans in the Latest High School Physics Olympiad Benchmark?](http://arxiv.org/abs/2509.07894v2)** | 2025-09-10 |  |
 | **[Bridging the Gap in Ophthalmic AI: MM-Retinal-Reason Dataset and OphthaReason Model toward Dynamic Multimodal Reasoning](http://arxiv.org/abs/2508.16129v2)** | 2025-09-10 |  |
 | **[A Survey on Training-free Alignment of Large Language Models](http://arxiv.org/abs/2508.09016v4)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (findings), camera-ready version</p></details> |
+| **[Improving MLLM Historical Record Extraction with Test-Time Image](http://arxiv.org/abs/2509.09722v1)** | 2025-09-10 |  |
 | **[DomainCQA: Crafting Knowledge-Intensive QA from Domain-Specific Charts](http://arxiv.org/abs/2503.19498v4)** | 2025-09-10 | 85 pages, 59 figures |
 | **[Visual Representation Alignment for Multimodal Large Language Models](http://arxiv.org/abs/2509.07979v1)** | 2025-09-09 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/VIRAL/</p></details> |
 | **[MaRVL-QA: A Benchmark for Mathematical Reasoning over Visual Landscapes](http://arxiv.org/abs/2508.17180v2)** | 2025-09-09 |  |
-| **[D-LEAF: Localizing and Correcting Hallucinations in Multimodal LLMs via Layer-to-head Attention Diagnostics](http://arxiv.org/abs/2509.07864v1)** | 2025-09-09 |  |
-| **[FinRAGBench-V: A Benchmark for Multimodal RAG with Visual Citation in the Financial Domain](http://arxiv.org/abs/2505.17471v2)** | 2025-09-09 |  |
-| **[IntuiTF: MLLM-Guided Transfer Function Optimization for Direct Volume Rendering](http://arxiv.org/abs/2506.18407v2)** | 2025-09-09 |  |
 
