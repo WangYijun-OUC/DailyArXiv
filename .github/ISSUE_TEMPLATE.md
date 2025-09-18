@@ -7,6 +7,8 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum Reinforcement Learning-Guided Diffusion Model for Image Synthesis via Hybrid Quantum-Classical Generative Model Architectures](http://arxiv.org/abs/2509.14163v1)** | 2025-09-17 |  |
+| **[SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation](http://arxiv.org/abs/2509.13848v1)** | 2025-09-17 |  |
 | **[InfoGain Wavelets: Furthering the Design of Graph Diffusion Wavelets](http://arxiv.org/abs/2504.08802v2)** | 2025-09-15 |  |
 | **[DRAG: Data Reconstruction Attack using Guided Diffusion](http://arxiv.org/abs/2509.11724v1)** | 2025-09-15 | ICML 2025 |
 | **[DTGen: Generative Diffusion-Based Few-Shot Data Augmentation for Fine-Grained Dirty Tableware Recognition](http://arxiv.org/abs/2509.11661v1)** | 2025-09-15 |  |
@@ -25,8 +27,6 @@ labels: documentation
 | **[Foundations and Models in Modern Computer Vision: Key Building Blocks in Landmark Architectures](http://arxiv.org/abs/2507.23357v2)** | 2025-09-04 |  |
 | **[A Generative Foundation Model for Chest Radiography](http://arxiv.org/abs/2509.03903v1)** | 2025-09-04 |  |
 | **[Machine Learning for LiDAR-Based Indoor Surface Classification in Intelligent Wireless Environments](http://arxiv.org/abs/2509.03813v1)** | 2025-09-04 |  |
-| **[Sem-RaDiff: Diffusion-Based 3D Radar Semantic Perception in Cluttered Agricultural Environments](http://arxiv.org/abs/2509.02283v2)** | 2025-09-03 |  |
-| **[Predicting Movie Success with Multi-Task Learning: A Hybrid Framework Combining GPT-Based Sentiment Analysis and SIR Propagation](http://arxiv.org/abs/2509.02809v1)** | 2025-09-02 |  |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,7 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RepCaM++: Exploring Transparent Visual Prompt With Inference-Time Re-Parameterization for Neural Video Delivery](http://arxiv.org/abs/2509.14002v1)** | 2025-09-17 |  |
 | **[EMeRALDS: Electronic Medical Record Driven Automated Lung Nodule Detection and Classification in Thoracic CT Images](http://arxiv.org/abs/2509.11714v1)** | 2025-09-15 |  |
 | **[Adapting and Evaluating Multimodal Large Language Models for Adolescent Idiopathic Scoliosis Self-Management: A Divide and Conquer Framework](http://arxiv.org/abs/2509.11645v1)** | 2025-09-15 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025 MLLMCP Workshop</p></details> |
 | **[GLaVE-Cap: Global-Local Aligned Video Captioning with Vision Expert Integration](http://arxiv.org/abs/2509.11360v1)** | 2025-09-14 |  |
@@ -74,11 +75,19 @@ labels: documentation
 | **[PromptGAR: Flexible Promptive Group Activity Recognition](http://arxiv.org/abs/2503.08933v2)** | 2025-08-25 |  |
 | **[VPN: Visual Prompt Navigation](http://arxiv.org/abs/2508.01766v3)** | 2025-08-25 |  |
 | **[PromptRR: Diffusion Models as Prompt Generators for Single Image Reflection Removal](http://arxiv.org/abs/2402.02374v2)** | 2025-08-24 | 10 pages, 10 figures |
-| **[Constrained Prompt Enhancement for Improving Zero-Shot Generalization of Vision-Language Models](http://arxiv.org/abs/2508.17417v1)** | 2025-08-24 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cinéaste: A Fine-grained Contextual Movie Question Answering Benchmark](http://arxiv.org/abs/2509.14227v1)** | 2025-09-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 5 tables</p></details> |
+| **[AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity](http://arxiv.org/abs/2509.14171v1)** | 2025-09-17 |  |
+| **[MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods, Results, Discussion, and Outlook](http://arxiv.org/abs/2509.14142v1)** | 2025-09-17 | <details><summary>ICCV ...</summary><p>ICCV 2025 MARS2 Workshop and Challenge "Multimodal Reasoning and Slow Thinking in the Large Model Era: Towards System 2 and Beyond''</p></details> |
+| **[EEmo-Bench: A Benchmark for Multi-modal Large Language Models on Image Evoked Emotion Assessment](http://arxiv.org/abs/2504.16405v5)** | 2025-09-17 |  |
+| **[AppAgent v2: Advanced Agent for Flexible Mobile Interactions](http://arxiv.org/abs/2408.11824v4)** | 2025-09-17 |  |
+| **[MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based Instruction Recommendation](http://arxiv.org/abs/2509.13773v1)** | 2025-09-17 | <details><summary>Publi...</summary><p>Published in Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 6: Industry Track), ACL 2025. Official version: https://doi.org/10.18653/v1/2025.acl-industry.103</p></details> |
+| **[Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis](http://arxiv.org/abs/2509.09595v2)** | 2025-09-17 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://klingavatar.github.io/</p></details> |
+| **[Re-purposing SAM into Efficient Visual Projectors for MLLM-Based Referring Image Segmentation](http://arxiv.org/abs/2509.13676v1)** | 2025-09-17 |  |
+| **[LLM-I: LLMs are Naturally Interleaved Multimodal Creators](http://arxiv.org/abs/2509.13642v1)** | 2025-09-17 |  |
 | **[Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy](http://arxiv.org/abs/2509.13234v1)** | 2025-09-16 |  |
 | **[UTI-LLM: A Personalized Articulatory-Speech Therapy Assistance System Based on Multimodal Large Language Model](http://arxiv.org/abs/2509.13145v1)** | 2025-09-16 |  |
 | **[ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way](http://arxiv.org/abs/2507.08679v2)** | 2025-09-16 |  |
@@ -90,13 +99,4 @@ labels: documentation
 | **[Chat-Driven Text Generation and Interaction for Person Retrieval](http://arxiv.org/abs/2509.12662v1)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025. 13 pages, 3 figures</p></details> |
 | **[ActiveVLN: Towards Active Exploration via Multi-Turn RL in Vision-and-Language Navigation](http://arxiv.org/abs/2509.12618v1)** | 2025-09-16 |  |
 | **[Phi: Preference Hijacking in Multi-modal Large Language Models at Inference Time](http://arxiv.org/abs/2509.12521v1)** | 2025-09-15 |  |
-| **[Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation](http://arxiv.org/abs/2505.21653v2)** | 2025-09-15 | 19 pages, 8 figures |
-| **[Small Models, Big Results: Achieving Superior Intent Extraction through Decomposition](http://arxiv.org/abs/2509.12423v1)** | 2025-09-15 |  |
-| **[EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression](http://arxiv.org/abs/2509.12159v1)** | 2025-09-15 |  |
-| **[Less is More: Token-Efficient Video-QA via Adaptive Frame-Pruning and Semantic Graph Integration](http://arxiv.org/abs/2508.03337v6)** | 2025-09-15 | <details><summary>Corre...</summary><p>Corresponding authors: Weiyu Guo, Hui Xiong. This manuscript is a preprint. An earlier version of this work was submitted to AAAI 2026. This version has been revised and is formatted using the AAAI 2026 style file</p></details> |
-| **[MindVL: Towards Efficient and Effective Training of Multimodal Large Language Models on Ascend NPUs](http://arxiv.org/abs/2509.11662v1)** | 2025-09-15 |  |
-| **[Adapting and Evaluating Multimodal Large Language Models for Adolescent Idiopathic Scoliosis Self-Management: A Divide and Conquer Framework](http://arxiv.org/abs/2509.11645v1)** | 2025-09-15 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025 MLLMCP Workshop</p></details> |
-| **[AesBiasBench: Evaluating Bias and Alignment in Multimodal Language Models for Personalized Image Aesthetic Assessment](http://arxiv.org/abs/2509.11620v1)** | 2025-09-15 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
-| **[MVQA-68K: A Multi-dimensional and Causally-annotated Dataset with Quality Interpretability for Video Assessment](http://arxiv.org/abs/2509.11589v1)** | 2025-09-15 |  |
-| **[Visual Evolutionary Optimization on Graph-Structured Combinatorial Problems with MLLMs: A Case Study of Influence Maximization](http://arxiv.org/abs/2505.06850v4)** | 2025-09-15 |  |
 
