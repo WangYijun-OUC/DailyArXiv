@@ -7,6 +7,8 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[[Re] Improving Interpretation Faithfulness for Vision Transformers](http://arxiv.org/abs/2509.14846v1)** | 2025-09-18 | <details><summary>13 pa...</summary><p>13 pages article, 29 pdf pages, 19 figures, MLRC. Transactions on Machine Learning Research (2025)</p></details> |
+| **[UMind: A Unified Multitask Network for Zero-Shot M/EEG Visual Decoding](http://arxiv.org/abs/2509.14772v1)** | 2025-09-18 |  |
 | **[Quantum Reinforcement Learning-Guided Diffusion Model for Image Synthesis via Hybrid Quantum-Classical Generative Model Architectures](http://arxiv.org/abs/2509.14163v1)** | 2025-09-17 |  |
 | **[SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation](http://arxiv.org/abs/2509.13848v1)** | 2025-09-17 |  |
 | **[InfoGain Wavelets: Furthering the Design of Graph Diffusion Wavelets](http://arxiv.org/abs/2504.08802v2)** | 2025-09-15 |  |
@@ -25,8 +27,6 @@ labels: documentation
 | **[Fairness-Aware Data Augmentation for Cardiac MRI using Text-Conditioned Diffusion Models](http://arxiv.org/abs/2403.19508v2)** | 2025-09-08 |  |
 | **[MUNBa: Machine Unlearning via Nash Bargaining](http://arxiv.org/abs/2411.15537v4)** | 2025-09-04 |  |
 | **[Foundations and Models in Modern Computer Vision: Key Building Blocks in Landmark Architectures](http://arxiv.org/abs/2507.23357v2)** | 2025-09-04 |  |
-| **[A Generative Foundation Model for Chest Radiography](http://arxiv.org/abs/2509.03903v1)** | 2025-09-04 |  |
-| **[Machine Learning for LiDAR-Based Indoor Surface Classification in Intelligent Wireless Environments](http://arxiv.org/abs/2509.03813v1)** | 2025-09-04 |  |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,7 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models](http://arxiv.org/abs/2409.13174v3)** | 2025-09-18 |  |
 | **[RepCaM++: Exploring Transparent Visual Prompt With Inference-Time Re-Parameterization for Neural Video Delivery](http://arxiv.org/abs/2509.14002v1)** | 2025-09-17 |  |
 | **[EMeRALDS: Electronic Medical Record Driven Automated Lung Nodule Detection and Classification in Thoracic CT Images](http://arxiv.org/abs/2509.11714v1)** | 2025-09-15 |  |
 | **[Adapting and Evaluating Multimodal Large Language Models for Adolescent Idiopathic Scoliosis Self-Management: A Divide and Conquer Framework](http://arxiv.org/abs/2509.11645v1)** | 2025-09-15 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025 MLLMCP Workshop</p></details> |
@@ -74,13 +75,22 @@ labels: documentation
 | **[Toward Robust Medical Fairness: Debiased Dual-Modal Alignment via Text-Guided Attribute-Disentangled Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2508.18886v1)** | 2025-08-26 |  |
 | **[PromptGAR: Flexible Promptive Group Activity Recognition](http://arxiv.org/abs/2503.08933v2)** | 2025-08-25 |  |
 | **[VPN: Visual Prompt Navigation](http://arxiv.org/abs/2508.01766v3)** | 2025-08-25 |  |
-| **[PromptRR: Diffusion Models as Prompt Generators for Single Image Reflection Removal](http://arxiv.org/abs/2402.02374v2)** | 2025-08-24 | 10 pages, 10 figures |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unleashing the Potential of Multimodal LLMs for Zero-Shot Spatio-Temporal Video Grounding](http://arxiv.org/abs/2509.15178v1)** | 2025-09-18 |  |
+| **[An Evaluation-Centric Paradigm for Scientific Visualization Agents](http://arxiv.org/abs/2509.15160v1)** | 2025-09-18 |  |
+| **[From Pixels to Urban Policy-Intelligence: Recovering Legacy Effects of Redlining with a Multimodal LLM](http://arxiv.org/abs/2509.15132v1)** | 2025-09-18 |  |
+| **[Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models](http://arxiv.org/abs/2409.13174v3)** | 2025-09-18 |  |
+| **[AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity](http://arxiv.org/abs/2509.14171v2)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 main track</p></details> |
+| **[DF-LLaVA: Unlocking MLLM's potential for Synthetic Image Detection via Prompt-Guided Knowledge Injection](http://arxiv.org/abs/2509.14957v1)** | 2025-09-18 | Under review |
+| **[A Multi-To-One Interview Paradigm for Efficient MLLM Evaluation](http://arxiv.org/abs/2509.14886v1)** | 2025-09-18 | 5 pages, 2 figures |
+| **[Chain-of-Thought Re-ranking for Image Retrieval Tasks](http://arxiv.org/abs/2509.14746v1)** | 2025-09-18 |  |
+| **[Decoupled Proxy Alignment: Mitigating Language Prior Conflict for Multimodal Alignment in MLLM](http://arxiv.org/abs/2509.14735v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted by Findings of EMNLP2025</p></details> |
+| **[TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding](http://arxiv.org/abs/2509.14671v1)** | 2025-09-18 |  |
+| **[MultiEdit: Advancing Instruction-based Image Editing on Diverse and Challenging Tasks](http://arxiv.org/abs/2509.14638v1)** | 2025-09-18 |  |
 | **[Cinéaste: A Fine-grained Contextual Movie Question Answering Benchmark](http://arxiv.org/abs/2509.14227v1)** | 2025-09-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 5 tables</p></details> |
-| **[AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity](http://arxiv.org/abs/2509.14171v1)** | 2025-09-17 |  |
 | **[MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods, Results, Discussion, and Outlook](http://arxiv.org/abs/2509.14142v1)** | 2025-09-17 | <details><summary>ICCV ...</summary><p>ICCV 2025 MARS2 Workshop and Challenge "Multimodal Reasoning and Slow Thinking in the Large Model Era: Towards System 2 and Beyond''</p></details> |
 | **[EEmo-Bench: A Benchmark for Multi-modal Large Language Models on Image Evoked Emotion Assessment](http://arxiv.org/abs/2504.16405v5)** | 2025-09-17 |  |
 | **[AppAgent v2: Advanced Agent for Flexible Mobile Interactions](http://arxiv.org/abs/2408.11824v4)** | 2025-09-17 |  |
@@ -89,14 +99,4 @@ labels: documentation
 | **[Re-purposing SAM into Efficient Visual Projectors for MLLM-Based Referring Image Segmentation](http://arxiv.org/abs/2509.13676v1)** | 2025-09-17 |  |
 | **[LLM-I: LLMs are Naturally Interleaved Multimodal Creators](http://arxiv.org/abs/2509.13642v1)** | 2025-09-17 |  |
 | **[Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy](http://arxiv.org/abs/2509.13234v1)** | 2025-09-16 |  |
-| **[UTI-LLM: A Personalized Articulatory-Speech Therapy Assistance System Based on Multimodal Large Language Model](http://arxiv.org/abs/2509.13145v1)** | 2025-09-16 |  |
-| **[ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way](http://arxiv.org/abs/2507.08679v2)** | 2025-09-16 |  |
-| **[MEJO: MLLM-Engaged Surgical Triplet Recognition via Inter- and Intra-Task Joint Optimization](http://arxiv.org/abs/2509.12893v1)** | 2025-09-16 |  |
-| **[SIFThinker: Spatially-Aware Image Focus for Visual Reasoning](http://arxiv.org/abs/2508.06259v4)** | 2025-09-16 | 15 pages, 13 figures |
-| **[Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder](http://arxiv.org/abs/2509.12883v1)** | 2025-09-16 |  |
-| **[Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection](http://arxiv.org/abs/2507.02844v2)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main). 17 pages, 7 figures</p></details> |
-| **[When Safe Unimodal Inputs Collide: Optimizing Reasoning Chains for Cross-Modal Safety in Multimodal Large Language Models](http://arxiv.org/abs/2509.12060v2)** | 2025-09-16 |  |
-| **[Chat-Driven Text Generation and Interaction for Person Retrieval](http://arxiv.org/abs/2509.12662v1)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025. 13 pages, 3 figures</p></details> |
-| **[ActiveVLN: Towards Active Exploration via Multi-Turn RL in Vision-and-Language Navigation](http://arxiv.org/abs/2509.12618v1)** | 2025-09-16 |  |
-| **[Phi: Preference Hijacking in Multi-modal Large Language Models at Inference Time](http://arxiv.org/abs/2509.12521v1)** | 2025-09-15 |  |
 
