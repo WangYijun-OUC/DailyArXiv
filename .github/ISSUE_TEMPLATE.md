@@ -7,6 +7,7 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion Bridge Variational Inference for Deep Gaussian Processes](http://arxiv.org/abs/2509.19078v2)** | 2025-10-01 |  |
 | **[GCDance: Genre-Controlled Music-Driven 3D Full Body Dance Generation](http://arxiv.org/abs/2502.18309v3)** | 2025-09-29 |  |
 | **[A Novel Preprocessing Unit for Effective Deep Learning based Classification and Grading of Diabetic Retinopathy](http://arxiv.org/abs/2509.24497v1)** | 2025-09-29 |  |
 | **[GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing](http://arxiv.org/abs/2412.02366v4)** | 2025-09-29 | <details><summary>https...</summary><p>https://diffusemix.github.io/</p></details> |
@@ -24,7 +25,6 @@ labels: documentation
 | **[T2I-Diff: fMRI Signal Generation via Time-Frequency Image Transform and Classifier-Free Denoising Diffusion Models](http://arxiv.org/abs/2509.20822v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at the 28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)</p></details> |
 | **[Learning hidden cascades via classification](http://arxiv.org/abs/2505.11228v3)** | 2025-09-24 |  |
 | **[Diffusion Classifier-Driven Reward for Offline Preference-based Reinforcement Learning](http://arxiv.org/abs/2503.01143v3)** | 2025-09-24 |  |
-| **[Diffusion Bridge Variational Inference for Deep Gaussian Processes](http://arxiv.org/abs/2509.19078v1)** | 2025-09-23 |  |
 | **[Towards Application Aligned Synthetic Surgical Image Synthesis](http://arxiv.org/abs/2509.18796v1)** | 2025-09-23 |  |
 | **[Multiscale Hodge Scattering Networks for Data Analysis](http://arxiv.org/abs/2311.10270v6)** | 2025-09-23 | <details><summary>20 Pa...</summary><p>20 Pages, Comments Welcome</p></details> |
 
@@ -55,8 +55,8 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DepthLM: Metric Depth From Vision Language Models](http://arxiv.org/abs/2509.25413v2)** | 2025-10-01 |  |
 | **[PatchEAD: Unifying Industrial Visual Prompting Frameworks for Patch-Exclusive Anomaly Detection](http://arxiv.org/abs/2509.25856v1)** | 2025-09-30 | 10 pages, 5 figures |
-| **[DepthLM: Metric Depth From Vision Language Models](http://arxiv.org/abs/2509.25413v1)** | 2025-09-29 |  |
 | **[VT-FSL: Bridging Vision and Text with LLMs for Few-Shot Learning](http://arxiv.org/abs/2509.25033v1)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[Video Panels for Long Video Understanding](http://arxiv.org/abs/2509.23724v1)** | 2025-09-28 |  |
 | **[UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models](http://arxiv.org/abs/2509.21760v1)** | 2025-09-26 |  |
@@ -79,6 +79,14 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning](http://arxiv.org/abs/2504.00907v4)** | 2025-10-01 |  |
+| **[Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](http://arxiv.org/abs/2509.25297v2)** | 2025-10-01 |  |
+| **[Explaining multimodal LLMs via intra-modal token interactions](http://arxiv.org/abs/2509.22415v2)** | 2025-10-01 |  |
+| **[SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning](http://arxiv.org/abs/2502.12520v5)** | 2025-10-01 |  |
+| **[Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](http://arxiv.org/abs/2509.03113v2)** | 2025-10-01 |  |
+| **[v1: Learning to Point Visual Tokens for Multimodal Grounded Reasoning](http://arxiv.org/abs/2505.18842v3)** | 2025-10-01 |  |
+| **[NUMINA: A Natural Understanding Benchmark for Multi-dimensional Intelligence and Numerical Reasoning Abilities](http://arxiv.org/abs/2509.16656v2)** | 2025-10-01 |  |
+| **[MLLM-CL: Continual Learning for Multimodal Large Language Models](http://arxiv.org/abs/2506.05453v2)** | 2025-10-01 |  |
 | **[Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training](http://arxiv.org/abs/2509.26625v1)** | 2025-09-30 | <details><summary>Proje...</summary><p>Project page: https://junlinhan.github.io/projects/lsbs/</p></details> |
 | **[OceanGym: A Benchmark Environment for Underwater Embodied Agents](http://arxiv.org/abs/2509.26536v1)** | 2025-09-30 | Work in progress |
 | **[PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer](http://arxiv.org/abs/2509.26386v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
@@ -91,12 +99,4 @@ labels: documentation
 | **[AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding](http://arxiv.org/abs/2505.20862v2)** | 2025-09-30 |  |
 | **[ReLoop: "Seeing Twice and Thinking Backwards" via Closed-loop Training to Mitigate Hallucinations in Multimodal understanding](http://arxiv.org/abs/2507.04943v2)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted by conference EMNLP2025</p></details> |
 | **[LFTR: Learning-Free Token Reduction for Multimodal Large Language Models](http://arxiv.org/abs/2501.17391v3)** | 2025-09-30 |  |
-| **[UniVid: The Open-Source Unified Video Model](http://arxiv.org/abs/2509.24200v2)** | 2025-09-30 |  |
-| **[GeoSketch: A Neural-Symbolic Approach to Geometric Multimodal Reasoning with Auxiliary Line Construction and Affine Transformation](http://arxiv.org/abs/2509.22460v2)** | 2025-09-30 |  |
-| **[HumanVideo-MME: Benchmarking MLLMs for Human-Centric Video Understanding](http://arxiv.org/abs/2507.04909v2)** | 2025-09-30 | Under review |
-| **[UI-UG: A Unified MLLM for UI Understanding and Generation](http://arxiv.org/abs/2509.24361v2)** | 2025-09-30 |  |
-| **[UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface](http://arxiv.org/abs/2503.01342v3)** | 2025-09-30 |  |
-| **[VELA: An LLM-Hybrid-as-a-Judge Approach for Evaluating Long Image Captions](http://arxiv.org/abs/2509.25818v1)** | 2025-09-30 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference</p></details> |
-| **[Logo-VGR: Visual Grounded Reasoning for Open-world Logo Recognition](http://arxiv.org/abs/2509.25811v1)** | 2025-09-30 |  |
-| **[V-HUB: A Visual-Centric Humor Understanding Benchmark for Video LLMs](http://arxiv.org/abs/2509.25773v1)** | 2025-09-30 |  |
 
