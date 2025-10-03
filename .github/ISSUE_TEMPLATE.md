@@ -7,7 +7,12 @@ labels: documentation
 ## AND:diffusion classification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Weight Parameters for Training Data Attribution](http://arxiv.org/abs/2506.05647v2)** | 2025-10-02 |  |
+| **[Authentic Discrete Diffusion Model](http://arxiv.org/abs/2510.01047v1)** | 2025-10-01 |  |
+| **[ZQBA: Zero Query Black-box Adversarial Attack](http://arxiv.org/abs/2510.00769v1)** | 2025-10-01 | <details><summary>Submi...</summary><p>Submitted to ICAART Conference</p></details> |
 | **[Diffusion Bridge Variational Inference for Deep Gaussian Processes](http://arxiv.org/abs/2509.19078v2)** | 2025-10-01 |  |
+| **[Vicinity-Guided Discriminative Latent Diffusion for Privacy-Preserving Domain Adaptation](http://arxiv.org/abs/2510.00478v1)** | 2025-10-01 | <details><summary>32 pa...</summary><p>32 pages, 6 figures, 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[CINDES: Classification induced neural density estimator and simulator](http://arxiv.org/abs/2510.00367v1)** | 2025-10-01 | 50 pages, 1 figure |
 | **[GCDance: Genre-Controlled Music-Driven 3D Full Body Dance Generation](http://arxiv.org/abs/2502.18309v3)** | 2025-09-29 |  |
 | **[A Novel Preprocessing Unit for Effective Deep Learning based Classification and Grading of Diabetic Retinopathy](http://arxiv.org/abs/2509.24497v1)** | 2025-09-29 |  |
 | **[GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing](http://arxiv.org/abs/2412.02366v4)** | 2025-09-29 | <details><summary>https...</summary><p>https://diffusemix.github.io/</p></details> |
@@ -22,11 +27,6 @@ labels: documentation
 | **[Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](http://arxiv.org/abs/2507.13019v2)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[Scaling to Multimodal and Multichannel Heart Sound Classification: Fine-Tuning Wav2Vec 2.0 with Synthetic and Augmented Biosignals](http://arxiv.org/abs/2509.11606v2)** | 2025-09-26 | <details><summary>35 pa...</summary><p>35 pages, 37 figures, 19 tables</p></details> |
 | **[Can Diffusion Models Disentangle? A Theoretical Perspective](http://arxiv.org/abs/2504.00220v2)** | 2025-09-26 |  |
-| **[T2I-Diff: fMRI Signal Generation via Time-Frequency Image Transform and Classifier-Free Denoising Diffusion Models](http://arxiv.org/abs/2509.20822v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at the 28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)</p></details> |
-| **[Learning hidden cascades via classification](http://arxiv.org/abs/2505.11228v3)** | 2025-09-24 |  |
-| **[Diffusion Classifier-Driven Reward for Offline Preference-based Reinforcement Learning](http://arxiv.org/abs/2503.01143v3)** | 2025-09-24 |  |
-| **[Towards Application Aligned Synthetic Surgical Image Synthesis](http://arxiv.org/abs/2509.18796v1)** | 2025-09-23 |  |
-| **[Multiscale Hodge Scattering Networks for Data Analysis](http://arxiv.org/abs/2311.10270v6)** | 2025-09-23 | <details><summary>20 Pa...</summary><p>20 Pages, Comments Welcome</p></details> |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
@@ -55,7 +55,11 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Inferring Dynamic Physical Properties from Video Foundation Models](http://arxiv.org/abs/2510.02311v1)** | 2025-10-02 |  |
+| **[Robust Prompt Tuning for Vision-Language Models with Mild Semantic Noise](http://arxiv.org/abs/2508.04677v3)** | 2025-10-02 |  |
+| **[VirDA: Reusing Backbone for Unsupervised Domain Adaptation with Visual Reprogramming](http://arxiv.org/abs/2510.01660v1)** | 2025-10-02 |  |
 | **[DepthLM: Metric Depth From Vision Language Models](http://arxiv.org/abs/2509.25413v2)** | 2025-10-01 |  |
+| **[VIRTUE: Visual-Interactive Text-Image Universal Embedder](http://arxiv.org/abs/2510.00523v1)** | 2025-10-01 | 25 pages |
 | **[PatchEAD: Unifying Industrial Visual Prompting Frameworks for Patch-Exclusive Anomaly Detection](http://arxiv.org/abs/2509.25856v1)** | 2025-09-30 | 10 pages, 5 figures |
 | **[VT-FSL: Bridging Vision and Text with LLMs for Few-Shot Learning](http://arxiv.org/abs/2509.25033v1)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[Video Panels for Long Video Understanding](http://arxiv.org/abs/2509.23724v1)** | 2025-09-28 |  |
@@ -71,32 +75,28 @@ labels: documentation
 | **[Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models](http://arxiv.org/abs/2409.13174v3)** | 2025-09-18 |  |
 | **[RepCaM++: Exploring Transparent Visual Prompt With Inference-Time Re-Parameterization for Neural Video Delivery](http://arxiv.org/abs/2509.14002v1)** | 2025-09-17 |  |
 | **[EMeRALDS: Electronic Medical Record Driven Automated Lung Nodule Detection and Classification in Thoracic CT Images](http://arxiv.org/abs/2509.11714v1)** | 2025-09-15 |  |
-| **[Adapting and Evaluating Multimodal Large Language Models for Adolescent Idiopathic Scoliosis Self-Management: A Divide and Conquer Framework](http://arxiv.org/abs/2509.11645v1)** | 2025-09-15 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025 MLLMCP Workshop</p></details> |
-| **[GLaVE-Cap: Global-Local Aligned Video Captioning with Vision Expert Integration](http://arxiv.org/abs/2509.11360v1)** | 2025-09-14 |  |
-| **[Realism Control One-step Diffusion for Real-World Image Super-Resolution](http://arxiv.org/abs/2509.10122v1)** | 2025-09-12 |  |
-| **[Improved GUI Grounding via Iterative Narrowing](http://arxiv.org/abs/2411.13591v7)** | 2025-09-11 | <details><summary>Code ...</summary><p>Code available at https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing</p></details> |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Inferring Dynamic Physical Properties from Video Foundation Models](http://arxiv.org/abs/2510.02311v1)** | 2025-10-02 |  |
+| **[VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL](http://arxiv.org/abs/2510.02282v1)** | 2025-10-02 |  |
+| **[DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing](http://arxiv.org/abs/2510.02253v1)** | 2025-10-02 | Preprint |
+| **[RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning](http://arxiv.org/abs/2510.02240v1)** | 2025-10-02 |  |
+| **[EyePCR: A Comprehensive Benchmark for Fine-Grained Perception, Knowledge Comprehension and Clinical Reasoning in Ophthalmic Surgery](http://arxiv.org/abs/2509.15596v2)** | 2025-10-02 | <details><summary>Stron...</summary><p>Strong accept by NeurIPS2025 Reviewers and AC</p></details> |
+| **[Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs](http://arxiv.org/abs/2510.01954v1)** | 2025-10-02 | <details><summary>24 pa...</summary><p>24 pages, 12 figures and 9 tables</p></details> |
+| **[What MLLMs Learn about When they Learn about Multimodal Reasoning: Perception, Reasoning, or their Integration?](http://arxiv.org/abs/2510.01719v1)** | 2025-10-02 |  |
+| **[Euclid's Gift: Enhancing Spatial Perception and Reasoning in Vision-Language Models via Geometric Surrogate Tasks](http://arxiv.org/abs/2509.24473v2)** | 2025-10-02 |  |
+| **[MedQ-Bench: Evaluating and Exploring Medical Image Quality Assessment Abilities in MLLMs](http://arxiv.org/abs/2510.01691v1)** | 2025-10-02 | 26 pages, 13 figures |
+| **[Efficient Whole Slide Pathology VQA via Token Compression](http://arxiv.org/abs/2507.14497v2)** | 2025-10-02 |  |
+| **[MDSEval: A Meta-Evaluation Benchmark for Multimodal Dialogue Summarization](http://arxiv.org/abs/2510.01659v1)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
+| **[Guiding Multimodal Large Language Models with Blind and Low Vision People Visual Questions for Proactive Visual Interpretations](http://arxiv.org/abs/2510.01576v1)** | 2025-10-02 | <details><summary>7 pag...</summary><p>7 pages, 2 figure, 2 tables, CV4A11y Workshop at ICCV 2025</p></details> |
+| **[Growing Visual Generative Capacity for Pre-Trained MLLMs](http://arxiv.org/abs/2510.01546v1)** | 2025-10-02 | <details><summary>Proje...</summary><p>Project page: https://hywang66.github.io/bridge/</p></details> |
+| **[VOGUE: Guiding Exploration with Visual Uncertainty Improves Multimodal Reasoning](http://arxiv.org/abs/2510.01444v1)** | 2025-10-01 |  |
 | **[Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning](http://arxiv.org/abs/2504.00907v4)** | 2025-10-01 |  |
 | **[Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](http://arxiv.org/abs/2509.25297v2)** | 2025-10-01 |  |
 | **[Explaining multimodal LLMs via intra-modal token interactions](http://arxiv.org/abs/2509.22415v2)** | 2025-10-01 |  |
 | **[SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning](http://arxiv.org/abs/2502.12520v5)** | 2025-10-01 |  |
-| **[Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](http://arxiv.org/abs/2509.03113v2)** | 2025-10-01 |  |
-| **[v1: Learning to Point Visual Tokens for Multimodal Grounded Reasoning](http://arxiv.org/abs/2505.18842v3)** | 2025-10-01 |  |
-| **[NUMINA: A Natural Understanding Benchmark for Multi-dimensional Intelligence and Numerical Reasoning Abilities](http://arxiv.org/abs/2509.16656v2)** | 2025-10-01 |  |
-| **[MLLM-CL: Continual Learning for Multimodal Large Language Models](http://arxiv.org/abs/2506.05453v2)** | 2025-10-01 |  |
-| **[Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training](http://arxiv.org/abs/2509.26625v1)** | 2025-09-30 | <details><summary>Proje...</summary><p>Project page: https://junlinhan.github.io/projects/lsbs/</p></details> |
-| **[OceanGym: A Benchmark Environment for Underwater Embodied Agents](http://arxiv.org/abs/2509.26536v1)** | 2025-09-30 | Work in progress |
-| **[PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer](http://arxiv.org/abs/2509.26386v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[TimeScope: Towards Task-Oriented Temporal Grounding In Long Videos](http://arxiv.org/abs/2509.26360v1)** | 2025-09-30 |  |
-| **[SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval](http://arxiv.org/abs/2509.26330v1)** | 2025-09-30 | 20 pages, 9 figures |
-| **[RobustMerge: Parameter-Efficient Model Merging for MLLMs with Direction Robustness](http://arxiv.org/abs/2502.17159v2)** | 2025-09-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight)</p></details> |
-| **[IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance](http://arxiv.org/abs/2509.26231v1)** | 2025-09-30 | ICCV 2025 |
-| **[Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models](http://arxiv.org/abs/2509.26165v1)** | 2025-09-30 |  |
-| **[90% Faster, 100% Code-Free: MLLM-Driven Zero-Code 3D Game Development](http://arxiv.org/abs/2509.26161v1)** | 2025-09-30 |  |
-| **[AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding](http://arxiv.org/abs/2505.20862v2)** | 2025-09-30 |  |
-| **[ReLoop: "Seeing Twice and Thinking Backwards" via Closed-loop Training to Mitigate Hallucinations in Multimodal understanding](http://arxiv.org/abs/2507.04943v2)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted by conference EMNLP2025</p></details> |
-| **[LFTR: Learning-Free Token Reduction for Multimodal Large Language Models](http://arxiv.org/abs/2501.17391v3)** | 2025-09-30 |  |
+| **[Training-free Uncertainty Guidance for Complex Visual Tasks with MLLMs](http://arxiv.org/abs/2510.00705v1)** | 2025-10-01 |  |
+| **[MCM-DPO: Multifaceted Cross-Modal Direct Preference Optimization for Alt-text Generation](http://arxiv.org/abs/2510.00647v1)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 
