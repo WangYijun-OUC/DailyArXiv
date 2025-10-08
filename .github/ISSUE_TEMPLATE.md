@@ -55,6 +55,8 @@ labels: documentation
 ## visual prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Human3R: Everyone Everywhere All at Once](http://arxiv.org/abs/2510.06219v1)** | 2025-10-07 | <details><summary>Page:...</summary><p>Page: https://fanegg.github.io/Human3R Code: https://github.com/fanegg/Human3R</p></details> |
+| **[Incremental Object Detection with Prompt-based Methods](http://arxiv.org/abs/2508.14599v2)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to ICCV Workshops 2025: v2 update affiliation</p></details> |
 | **[PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation](http://arxiv.org/abs/2503.06901v2)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[VirDA: Reusing Backbone for Unsupervised Domain Adaptation with Visual Reprogramming](http://arxiv.org/abs/2510.01660v3)** | 2025-10-06 |  |
 | **[AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models](http://arxiv.org/abs/2505.17931v2)** | 2025-10-05 |  |
@@ -73,30 +75,28 @@ labels: documentation
 | **[UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning](http://arxiv.org/abs/2509.18094v1)** | 2025-09-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Camera Ready. Project Page: https://polyu-chenlab.github.io/unipixel/</p></details> |
 | **[ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation](http://arxiv.org/abs/2509.18092v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025, webpage: https://snap-research.github.io/composeme/</p></details> |
 | **[EarthGPT-X: A Spatial MLLM for Multi-level Multi-Source Remote Sensing Imagery Understanding with Visual Prompting](http://arxiv.org/abs/2504.12795v2)** | 2025-09-21 |  |
-| **[FC-Attack: Jailbreaking Multimodal Large Language Models via Auto-Generated Flowcharts](http://arxiv.org/abs/2502.21059v3)** | 2025-09-20 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2025</p></details> |
-| **[Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models](http://arxiv.org/abs/2409.13174v3)** | 2025-09-18 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EgoNight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark](http://arxiv.org/abs/2510.06218v1)** | 2025-10-07 |  |
+| **[Discrete Diffusion Models with MLLMs for Unified Medical Multimodal Generation](http://arxiv.org/abs/2510.06131v1)** | 2025-10-07 | 16 pages,6 figures |
+| **[What MLLMs Learn about When they Learn about Multimodal Reasoning: Perception, Reasoning, or their Integration?](http://arxiv.org/abs/2510.01719v2)** | 2025-10-07 |  |
+| **[v1: Learning to Point Visual Tokens for Multimodal Grounded Reasoning](http://arxiv.org/abs/2505.18842v4)** | 2025-10-07 |  |
+| **[Flow4Agent: Long-form Video Understanding via Motion Prior from Optical Flow](http://arxiv.org/abs/2510.05836v1)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to ICCV' 2025</p></details> |
+| **[MMReview: A Multidisciplinary and Multimodal Benchmark for LLM-Based Peer Review Automation](http://arxiv.org/abs/2508.14146v3)** | 2025-10-07 | Work in progress |
+| **[The Mirage of Performance Gains: Why Contrastive Decoding Fails to Mitigate Object Hallucinations in MLLMs?](http://arxiv.org/abs/2504.10020v3)** | 2025-10-07 |  |
+| **[Context Matters: Learning Global Semantics for Visual Reasoning and Comprehension](http://arxiv.org/abs/2510.05674v1)** | 2025-10-07 |  |
+| **[Think Before You Diffuse: Infusing Physical Rules into Video Diffusion](http://arxiv.org/abs/2505.21653v3)** | 2025-10-07 | 19 pages, 8 figures |
+| **[MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction](http://arxiv.org/abs/2510.05611v1)** | 2025-10-07 |  |
+| **[HOI-R1: Exploring the Potential of Multimodal Large Language Models for Human-Object Interaction Detection](http://arxiv.org/abs/2510.05609v1)** | 2025-10-07 |  |
+| **[ChartCards: A Chart-Metadata Generation Framework for Multi-Task Chart Understanding](http://arxiv.org/abs/2505.15046v3)** | 2025-10-07 | Need to be revised |
+| **[Robust Object Detection for Autonomous Driving via Curriculum-Guided Group Relative Policy Optimization](http://arxiv.org/abs/2509.22688v2)** | 2025-10-07 |  |
+| **[Seeing the Big Picture: Evaluating Multimodal LLMs' Ability to Interpret and Grade Handwritten Student Work](http://arxiv.org/abs/2510.05538v1)** | 2025-10-07 |  |
+| **[SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence](http://arxiv.org/abs/2506.07966v4)** | 2025-10-07 |  |
+| **[Beyond Monolithic Rewards: A Hybrid and Multi-Aspect Reward Optimization for MLLM Alignment](http://arxiv.org/abs/2510.05283v1)** | 2025-10-06 |  |
+| **[Safe-LLaVA: A Privacy-Preserving Vision-Language Dataset and Benchmark for Biometric Safety](http://arxiv.org/abs/2509.00192v2)** | 2025-10-06 |  |
 | **[VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL](http://arxiv.org/abs/2510.02282v2)** | 2025-10-06 |  |
 | **[Think Then Embed: Generative Context Improves Multimodal Embedding](http://arxiv.org/abs/2510.05014v1)** | 2025-10-06 |  |
 | **[Autonomous Imagination: Closed-Loop Decomposition of Visual-to-Textual Conversion in Visual Reasoning for Multimodal Large Language Models](http://arxiv.org/abs/2411.18142v4)** | 2025-10-06 | Published in TMLR |
-| **[GUISpector: An MLLM Agent Framework for Automated Verification of Natural Language Requirements in GUI Prototypes](http://arxiv.org/abs/2510.04791v1)** | 2025-10-06 |  |
-| **[ContextNav: Towards Agentic Multimodal In-Context Learning](http://arxiv.org/abs/2510.04560v1)** | 2025-10-06 |  |
-| **[Law of Vision Representation in MLLMs](http://arxiv.org/abs/2408.16357v3)** | 2025-10-06 | <details><summary>The c...</summary><p>The code is available at https://github.com/bronyayang/Law_of_Vision_Representation_in_MLLMs</p></details> |
-| **[GROK: From Quantitative Biomarkers to Qualitative Diagnosis via a Grounded MLLM with Knowledge-Guided Instruction](http://arxiv.org/abs/2510.04281v1)** | 2025-10-05 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 3 table. Equal contribution: Zhuangzhi Gao and Hongyi Qin. Corresponding author: Yalin Zheng (yzheng@liverpool.ac.uk)</p></details> |
-| **[MLLMEraser: Achieving Test-Time Unlearning in Multimodal Large Language Models through Activation Steering](http://arxiv.org/abs/2510.04217v1)** | 2025-10-05 |  |
-| **[From Perception to Cognition: A Survey of Vision-Language Interactive Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2509.25373v2)** | 2025-10-05 |  |
-| **[Learning from All: Concept Alignment for Autonomous Distillation from Multiple Drifting MLLMs](http://arxiv.org/abs/2510.04142v1)** | 2025-10-05 |  |
-| **[The Artificial Intelligence Cognitive Examination: A Survey on the Evolution of Multimodal Evaluation from Recognition to Reasoning](http://arxiv.org/abs/2510.04141v1)** | 2025-10-05 |  |
-| **[WebRenderBench: Enhancing Web Interface Generation through Layout-Style Consistency and Reinforcement Learning](http://arxiv.org/abs/2510.04097v1)** | 2025-10-05 |  |
-| **[Grounding-IQA: Grounding Multimodal Language Model for Image Quality Assessment](http://arxiv.org/abs/2411.17237v3)** | 2025-10-05 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zhengchen1999/Grounding-IQA</p></details> |
-| **[SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning](http://arxiv.org/abs/2506.01713v3)** | 2025-10-05 | NeurIPS 2025 |
-| **[\textsc{GUI-Spotlight}: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding](http://arxiv.org/abs/2510.04039v1)** | 2025-10-05 |  |
-| **[Unlocking Multimodal Mathematical Reasoning via Process Reward Model](http://arxiv.org/abs/2501.04686v6)** | 2025-10-05 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Main Track</p></details> |
-| **[Latent Visual Reasoning](http://arxiv.org/abs/2509.24251v2)** | 2025-10-05 |  |
-| **[BrainFLORA: Uncovering Brain Concept Representation via Multimodal Neural Embeddings](http://arxiv.org/abs/2507.09747v2)** | 2025-10-05 | ACM MM 2025 |
-| **[Exploring Instruction Data Quality for Explainable Image Quality Assessment](http://arxiv.org/abs/2510.03880v1)** | 2025-10-04 |  |
-| **[Spatial CAPTCHA: Generatively Benchmarking Spatial Reasoning for Human-Machine Differentiation](http://arxiv.org/abs/2510.03863v1)** | 2025-10-04 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
 
