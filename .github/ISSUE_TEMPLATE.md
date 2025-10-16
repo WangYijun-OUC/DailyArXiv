@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 16, 2025
+title: Latest 20 Papers - October 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,6 +25,8 @@ labels: documentation
 | **[Learning to Weight Parameters for Training Data Attribution](http://arxiv.org/abs/2506.05647v2)** | 2025-10-02 |  |
 | **[User to Video: A Model for Spammer Detection Inspired by Video Classification Technology](http://arxiv.org/abs/2510.06233v1)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
 | **[Authentic Discrete Diffusion Model](http://arxiv.org/abs/2510.01047v1)** | 2025-10-01 |  |
+| **[ZQBA: Zero Query Black-box Adversarial Attack](http://arxiv.org/abs/2510.00769v1)** | 2025-10-01 | <details><summary>Submi...</summary><p>Submitted to ICAART Conference</p></details> |
+| **[Diffusion Bridge Variational Inference for Deep Gaussian Processes](http://arxiv.org/abs/2509.19078v2)** | 2025-10-01 |  |
 
 ## AND:medical diffusion classification
 | **Title** | **Date** | **Comment** |
