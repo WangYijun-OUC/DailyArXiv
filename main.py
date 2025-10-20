@@ -23,8 +23,9 @@ with open("README.md", "r") as f:
         # sys.exit("Already updated today!")
 
 keywords = [
-    "multimodal large language model",  # 多词匹配，逻辑与
-    # "AND:medical diffusion classification",
+    "multimodal large language model",  
+    "multimodal large language model survey",
+    # "AND:medical diffusion classification",    # 多词匹配，逻辑与
     "MLLM post training",             # 精确短语匹配
     "MLLM"
 ]
