@@ -23,11 +23,11 @@ with open("README.md", "r") as f:
         # sys.exit("Already updated today!")
 
 keywords = [
-    "multimodal large language model",  
-    "multimodal large language model survey",
-    # "AND:medical diffusion classification",    # 多词匹配，逻辑与
-    "MLLM post training",             # 精确短语匹配
+    "AND:multimodal LLM",
+    "AND:multimodal survey",
+    "AND:MLLM post training",             # 精确短语匹配
     "MLLM"
+    # "AND:medical diffusion classification",    # 多词匹配，逻辑与
 ]
 
 max_result = 100 # maximum query results from arXiv API for each keyword
