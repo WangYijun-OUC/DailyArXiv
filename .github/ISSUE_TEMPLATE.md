@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 28, 2025
+title: Latest 20 Papers - October 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -34,7 +34,7 @@ labels: documentation
 | **[LLM4Cell: A Survey of Large Language and Agentic Models for Single-Cell Biology](http://arxiv.org/abs/2510.07793v2)** | 2025-10-27 | <details><summary>34 pa...</summary><p>34 pages, 5 figures, 7 tables</p></details> |
 | **[Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges](http://arxiv.org/abs/2510.22964v1)** | 2025-10-27 |  |
 | **[A Survey of Long-Document Retrieval in the PLM and LLM Era](http://arxiv.org/abs/2509.07759v2)** | 2025-10-25 | 32 pages, 6 figures |
-| **[Bridging the Perceptual - Statistical Gap in Dysarthria Assessment: Why Machine Learning Still Falls Short](http://arxiv.org/abs/2510.22237v1)** | 2025-10-25 |  |
+| **[Bridging the Perceptual-Statistical Gap in Dysarthria Assessment: Why Machine Learning Still Falls Short](http://arxiv.org/abs/2510.22237v1)** | 2025-10-25 |  |
 | **[Deep Literature Survey Automation with an Iterative Workflow](http://arxiv.org/abs/2510.21900v1)** | 2025-10-24 | Preprint version |
 | **[Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques](http://arxiv.org/abs/2410.18972v2)** | 2025-10-24 |  |
 | **[A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation](http://arxiv.org/abs/2510.19755v2)** | 2025-10-23 | 22 pages,2 figures |
