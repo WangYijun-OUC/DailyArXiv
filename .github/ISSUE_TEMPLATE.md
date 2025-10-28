@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 27, 2025
+title: Latest 20 Papers - October 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,16 +7,35 @@ labels: documentation
 ## AND:multimodal LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model](http://arxiv.org/abs/2505.23579v2)** | 2025-10-24 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, 4 tables</p></details> |
-| **[Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment](http://arxiv.org/abs/2505.11194v3)** | 2025-10-24 | 24 pages, 11 figures |
-| **[Doc-Researcher: A Unified System for Multimodal Document Parsing and Deep Research](http://arxiv.org/abs/2510.21603v1)** | 2025-10-24 | preprint |
-| **[Interpretable Multimodal Zero-Shot ECG Diagnosis via Structured Clinical Knowledge Alignment](http://arxiv.org/abs/2510.21551v1)** | 2025-10-24 |  |
-| **[Towards Physics-informed Spatial Intelligence with Human Priors: An Autonomous Driving Pilot Study](http://arxiv.org/abs/2510.21160v1)** | 2025-10-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight)</p></details> |
-| **[MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](http://arxiv.org/abs/2306.13394v5)** | 2025-10-24 | <details><summary>NeurI...</summary><p>NeurIPS DB 2025 Spotlight, Project Page: https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation</p></details> |
+| **[PixelRefer: A Unified Framework for Spatio-Temporal Object Referring with Arbitrary Granularity](http://arxiv.org/abs/2510.23603v1)** | 2025-10-27 | 22 pages, 13 figures |
+| **[LLM4Cell: A Survey of Large Language and Agentic Models for Single-Cell Biology](http://arxiv.org/abs/2510.07793v2)** | 2025-10-27 | <details><summary>34 pa...</summary><p>34 pages, 5 figures, 7 tables</p></details> |
+| **[Emotion-Coherent Reasoning for Multimodal LLMs via Emotional Rationale Verifier](http://arxiv.org/abs/2510.23506v1)** | 2025-10-27 | 16 pages, 11 figures |
+| **[MMTutorBench: The First Multimodal Benchmark for AI Math Tutoring](http://arxiv.org/abs/2510.23477v1)** | 2025-10-27 |  |
+| **[Large language model-based task planning for service robots: A review](http://arxiv.org/abs/2510.23357v1)** | 2025-10-27 | <details><summary>Submi...</summary><p>Submitted to Biomimetic Intelligence and Robotics for possible publication</p></details> |
+| **[SBAN: A Framework & Multi-Dimensional Dataset for Large Language Model Pre-Training and Software Code Mining](http://arxiv.org/abs/2510.18936v2)** | 2025-10-27 |  |
+| **[DeepOmni: Towards Seamless and Smart Speech Interaction with Adaptive Modality-Specific MoE](http://arxiv.org/abs/2506.21864v3)** | 2025-10-27 | Under Review |
+| **[Revisiting Multimodal Positional Encoding in Vision-Language Models](http://arxiv.org/abs/2510.23095v1)** | 2025-10-27 | 16 pages |
+| **[MAP4TS: A Multi-Aspect Prompting Framework for Time-Series Forecasting with Large Language Models](http://arxiv.org/abs/2510.23090v1)** | 2025-10-27 |  |
+| **[ProfileXAI: User-Adaptive Explainable AI](http://arxiv.org/abs/2510.22998v1)** | 2025-10-27 | <details><summary>pages...</summary><p>pages, 1 figure, 3 tables. Preprint. Evaluated on UCI Heart Disease (1989) and UCI Differentiated Thyroid Cancer Recurrence (2023). Uses IEEEtran</p></details> |
+| **[Hierarchical Language Models for Semantic Navigation and Manipulation in an Aerial-Ground Robotic System](http://arxiv.org/abs/2506.05020v3)** | 2025-10-27 | 18 pages, 10 figures |
+| **[PaperArena: An Evaluation Benchmark for Tool-Augmented Agentic Reasoning on Scientific Literature](http://arxiv.org/abs/2510.10909v2)** | 2025-10-27 | 12 pages, 9 figures |
+| **[LLM-based Fusion of Multi-modal Features for Commercial Memorability Prediction](http://arxiv.org/abs/2510.22829v1)** | 2025-10-26 |  |
+| **[FairJudge: MLLM Judging for Social Attributes and Prompt Image Alignment](http://arxiv.org/abs/2510.22827v1)** | 2025-10-26 |  |
+| **[Critical Insights into Leading Conversational AI Models](http://arxiv.org/abs/2510.22729v1)** | 2025-10-26 | <details><summary>21 pa...</summary><p>21 pages, 7 tables, 3 figures. Open-access preprint intended for journal or conference submission</p></details> |
+| **[CLIN-LLM: A Safety-Constrained Hybrid Framework for Clinical Diagnosis and Treatment Generation](http://arxiv.org/abs/2510.22609v1)** | 2025-10-26 | <details><summary>13 pa...</summary><p>13 pages, 9 figures. Preprint version under review in the area of Artificial Intelligence (cs.CR)</p></details> |
+| **[Mitigating Attention Sinks and Massive Activations in Audio-Visual Speech Recognition with LLMS](http://arxiv.org/abs/2510.22603v1)** | 2025-10-26 | <details><summary>The c...</summary><p>The code is available at https://github.com/umbertocappellazzo/Llama-AVSR</p></details> |
+| **[LUQ: Layerwise Ultra-Low Bit Quantization for Multimodal Large Language Models](http://arxiv.org/abs/2509.23729v2)** | 2025-10-26 |  |
+| **[ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area](http://arxiv.org/abs/2408.07246v6)** | 2025-10-26 | <details><summary>11 pa...</summary><p>11 pages, updated version</p></details> |
+| **[Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](http://arxiv.org/abs/2505.14677v3)** | 2025-10-26 |  |
 
 ## AND:multimodal survey
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM4Cell: A Survey of Large Language and Agentic Models for Single-Cell Biology](http://arxiv.org/abs/2510.07793v2)** | 2025-10-27 | <details><summary>34 pa...</summary><p>34 pages, 5 figures, 7 tables</p></details> |
+| **[Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges](http://arxiv.org/abs/2510.22964v1)** | 2025-10-27 |  |
+| **[A Survey of Long-Document Retrieval in the PLM and LLM Era](http://arxiv.org/abs/2509.07759v2)** | 2025-10-25 | 32 pages, 6 figures |
+| **[Bridging the Perceptual - Statistical Gap in Dysarthria Assessment: Why Machine Learning Still Falls Short](http://arxiv.org/abs/2510.22237v1)** | 2025-10-25 |  |
+| **[Deep Literature Survey Automation with an Iterative Workflow](http://arxiv.org/abs/2510.21900v1)** | 2025-10-24 | Preprint version |
 | **[Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques](http://arxiv.org/abs/2410.18972v2)** | 2025-10-24 |  |
 | **[A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation](http://arxiv.org/abs/2510.19755v2)** | 2025-10-23 | 22 pages,2 figures |
 | **[LLM-empowered knowledge graph construction: A survey](http://arxiv.org/abs/2510.20345v1)** | 2025-10-23 |  |
@@ -32,15 +51,12 @@ labels: documentation
 | **[From Perception to Cognition: A Survey of Vision-Language Interactive Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2509.25373v4)** | 2025-10-16 |  |
 | **[Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision](http://arxiv.org/abs/2504.02477v3)** | 2025-10-15 | <details><summary>27 pa...</summary><p>27 pages, 11 figures. Accepted to Information Fusion. Final journal version: volume 126 (Part B), February 2026</p></details> |
 | **[Document Intelligence in the Era of Large Language Models: A Survey](http://arxiv.org/abs/2510.13366v1)** | 2025-10-15 |  |
-| **[Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions](http://arxiv.org/abs/2404.07214v4)** | 2025-10-14 | <details><summary>One o...</summary><p>One of the first survey on Visual Language Models</p></details> |
-| **[Evolution of meta's llama models and parameter-efficient fine-tuning of large language models: a survey](http://arxiv.org/abs/2510.12178v1)** | 2025-10-14 |  |
-| **[Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](http://arxiv.org/abs/2510.05034v4)** | 2025-10-13 | The 1st version |
-| **[A Survey on Agentic Multimodal Large Language Models](http://arxiv.org/abs/2510.10991v1)** | 2025-10-13 |  |
-| **[Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](http://arxiv.org/abs/2510.10903v1)** | 2025-10-13 |  |
 
 ## AND:MLLM post training
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[First SFT, Second RL, Third UPT: Continual Improving Multi-Modal LLM Reasoning via Unsupervised Post-Training](http://arxiv.org/abs/2505.22453v2)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[LUQ: Layerwise Ultra-Low Bit Quantization for Multimodal Large Language Models](http://arxiv.org/abs/2509.23729v2)** | 2025-10-26 |  |
 | **[Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback](http://arxiv.org/abs/2510.16888v2)** | 2025-10-21 |  |
 | **[Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle](http://arxiv.org/abs/2508.05612v3)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project page at: https://xenozlh.github.io/Shuffle-R1/</p></details> |
 | **[GACO-CAD: Geometry-Augmented and Conciseness-Optimized CAD Model Generation from Single Image](http://arxiv.org/abs/2510.17157v1)** | 2025-10-20 |  |
@@ -59,15 +75,28 @@ labels: documentation
 | **[FreeRet: MLLMs as Training-Free Retrievers](http://arxiv.org/abs/2509.24621v1)** | 2025-09-29 |  |
 | **[Visual Planning: Let's Think Only with Images](http://arxiv.org/abs/2505.11409v2)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables (31 pages, 15 figures, 10 tables including references and appendices)</p></details> |
 | **[Sparsity Forcing: Reinforcing Token Sparsity of MLLMs](http://arxiv.org/abs/2504.18579v3)** | 2025-09-29 |  |
-| **[LUQ: Layerwise Ultra-Low Bit Quantization for Multimodal Large Language Models](http://arxiv.org/abs/2509.23729v1)** | 2025-09-28 |  |
-| **[Revisiting Visual Understanding in Multimodal Reasoning through a Lens of Image Perturbation](http://arxiv.org/abs/2506.09736v2)** | 2025-09-28 | Technical Report |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[REMONI: An Autonomous System Integrating Wearables and Multimodal Large Language Models for Enhanced Remote Health Monitoring](http://arxiv.org/abs/2510.21445v1)** | 2025-10-24 |  |
-| **[MUVR: A Multi-Modal Untrimmed Video Retrieval Benchmark with Multi-Level Visual Correspondence](http://arxiv.org/abs/2510.21406v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 D&B Track</p></details> |
-| **[FineRS: Fine-grained Reasoning and Segmentation of Small Objects with Reinforcement Learning](http://arxiv.org/abs/2510.21311v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[Enhanced MLLM Black-Box Jailbreaking Attacks and Defenses](http://arxiv.org/abs/2510.21214v1)** | 2025-10-24 |  |
-| **[KBE-DME: Dynamic Multimodal Evaluation via Knowledge Enhanced Benchmark Evolution](http://arxiv.org/abs/2510.21182v1)** | 2025-10-24 | <details><summary>submi...</summary><p>submitting to ICLR2026</p></details> |
+| **[PixelRefer: A Unified Framework for Spatio-Temporal Object Referring with Arbitrary Granularity](http://arxiv.org/abs/2510.23603v1)** | 2025-10-27 | 22 pages, 13 figures |
+| **[PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error Detection](http://arxiv.org/abs/2510.23594v1)** | 2025-10-27 |  |
+| **[ESCA: Contextualizing Embodied Agents via Scene-Graph Generation](http://arxiv.org/abs/2510.15963v2)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted as a Spotlight Paper at NeurIPS 2025</p></details> |
+| **[EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT](http://arxiv.org/abs/2510.23569v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Emotion-Coherent Reasoning for Multimodal LLMs via Emotional Rationale Verifier](http://arxiv.org/abs/2510.23506v1)** | 2025-10-27 | 16 pages, 11 figures |
+| **[MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding](http://arxiv.org/abs/2510.23479v1)** | 2025-10-27 | <details><summary>Code ...</summary><p>Code Link: https://github.com/JinXins/MergeMix</p></details> |
+| **[MMTutorBench: The First Multimodal Benchmark for AI Math Tutoring](http://arxiv.org/abs/2510.23477v1)** | 2025-10-27 |  |
+| **[Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](http://arxiv.org/abs/2510.23473v1)** | 2025-10-27 |  |
+| **[VideoTG-R1: Boosting Video Temporal Grounding via Curriculum Reinforcement Learning on Reflected Boundary Annotations](http://arxiv.org/abs/2510.23397v1)** | 2025-10-27 |  |
+| **[Training-Free In-Context Forensic Chain for Image Manipulation Detection and Localization](http://arxiv.org/abs/2510.10111v2)** | 2025-10-27 |  |
+| **[First SFT, Second RL, Third UPT: Continual Improving Multi-Modal LLM Reasoning via Unsupervised Post-Training](http://arxiv.org/abs/2505.22453v2)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[DeepOmni: Towards Seamless and Smart Speech Interaction with Adaptive Modality-Specific MoE](http://arxiv.org/abs/2506.21864v3)** | 2025-10-27 | Under Review |
+| **[CMIE: Combining MLLM Insights with External Evidence for Explainable Out-of-Context Misinformation Detection](http://arxiv.org/abs/2505.23449v3)** | 2025-10-27 |  |
+| **[Positional Preservation Embedding for Multimodal Large Language Models](http://arxiv.org/abs/2510.22936v1)** | 2025-10-27 |  |
+| **[Rethinking the Text-Vision Reasoning Imbalance in MLLMs through the Lens of Training Recipes](http://arxiv.org/abs/2510.22836v1)** | 2025-10-26 |  |
+| **[FairJudge: MLLM Judging for Social Attributes and Prompt Image Alignment](http://arxiv.org/abs/2510.22827v1)** | 2025-10-26 |  |
+| **[Windsock is Dancing: Adaptive Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2510.22694v1)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 UniReps Workshop</p></details> |
+| **[DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding](http://arxiv.org/abs/2505.21076v2)** | 2025-10-26 | NeurIPS 2025 |
+| **[LUQ: Layerwise Ultra-Low Bit Quantization for Multimodal Large Language Models](http://arxiv.org/abs/2509.23729v2)** | 2025-10-26 |  |
+| **[Unlabeled Data vs. Pre-trained Knowledge: Rethinking SSL in the Era of Large Models](http://arxiv.org/abs/2505.13317v4)** | 2025-10-26 |  |
 
