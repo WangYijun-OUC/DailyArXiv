@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 31, 2025
+title: Latest 20 Papers - November 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,16 @@ labels: documentation
 | **[Bridging the Perceptual-Statistical Gap in Dysarthria Assessment: Why Machine Learning Still Falls Short](http://arxiv.org/abs/2510.22237v1)** | 2025-10-25 |  |
 | **[Deep Literature Survey Automation with an Iterative Workflow](http://arxiv.org/abs/2510.21900v1)** | 2025-10-24 | Preprint version |
 | **[Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques](http://arxiv.org/abs/2410.18972v2)** | 2025-10-24 |  |
+| **[A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation](http://arxiv.org/abs/2510.19755v2)** | 2025-10-23 | 22 pages,2 figures |
+| **[LLM-empowered knowledge graph construction: A survey](http://arxiv.org/abs/2510.20345v1)** | 2025-10-23 |  |
+| **[Review of Tools for Zero-Code LLM Based Application Development](http://arxiv.org/abs/2510.19747v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in 6th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2025)</p></details> |
+| **[Machine Olfaction and Embedded AI Are Shaping the New Global Sensing Industry](http://arxiv.org/abs/2510.19660v1)** | 2025-10-22 | <details><summary>23 pa...</summary><p>23 pages, 116 citations, combination tech review/industry roadmap/white paper on the rise of machine olfaction as an essential AI modality</p></details> |
+| **[A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models](http://arxiv.org/abs/2510.08049v2)** | 2025-10-21 |  |
+| **[DeepSeek-Inspired Exploration of RL-based LLMs and Synergy with Wireless Networks: A Survey](http://arxiv.org/abs/2503.09956v4)** | 2025-10-20 | 45 pages, 12 figures |
+| **[From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery](http://arxiv.org/abs/2508.14111v2)** | 2025-10-20 |  |
+| **[From Multimodal Perception to Strategic Reasoning: A Survey on AI-Generated Game Commentary](http://arxiv.org/abs/2506.17294v2)** | 2025-10-18 |  |
+| **[A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers](http://arxiv.org/abs/2508.21148v2)** | 2025-10-18 |  |
+| **[Methods and Trends in Detecting AI-Generated Images: A Comprehensive Review](http://arxiv.org/abs/2502.15176v2)** | 2025-10-17 | <details><summary>34 pa...</summary><p>34 pages, 4 Figures, 10 Tables</p></details> |
 
 ## AND:MLLM post training
 | **Title** | **Date** | **Comment** |
