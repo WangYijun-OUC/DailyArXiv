@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 05, 2025
+title: Latest 20 Papers - November 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -40,17 +40,6 @@ labels: documentation
 | **[Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](http://arxiv.org/abs/2510.05034v5)** | 2025-10-28 | Version v1.1 |
 | **[Toward Socially-Aware LLMs: A Survey of Multimodal Approaches to Human Behavior Understanding](http://arxiv.org/abs/2510.23947v1)** | 2025-10-28 |  |
 | **[LLM4Cell: A Survey of Large Language and Agentic Models for Single-Cell Biology](http://arxiv.org/abs/2510.07793v2)** | 2025-10-27 | <details><summary>34 pa...</summary><p>34 pages, 5 figures, 7 tables</p></details> |
-| **[Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges](http://arxiv.org/abs/2510.22964v1)** | 2025-10-27 |  |
-| **[A Survey of Long-Document Retrieval in the PLM and LLM Era](http://arxiv.org/abs/2509.07759v2)** | 2025-10-25 | 32 pages, 6 figures |
-| **[Bridging the Perceptual-Statistical Gap in Dysarthria Assessment: Why Machine Learning Still Falls Short](http://arxiv.org/abs/2510.22237v1)** | 2025-10-25 |  |
-| **[Deep Literature Survey Automation with an Iterative Workflow](http://arxiv.org/abs/2510.21900v1)** | 2025-10-24 | Preprint version |
-| **[Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques](http://arxiv.org/abs/2410.18972v2)** | 2025-10-24 |  |
-| **[LLM-empowered knowledge graph construction: A survey](http://arxiv.org/abs/2510.20345v1)** | 2025-10-23 |  |
-| **[Review of Tools for Zero-Code LLM Based Application Development](http://arxiv.org/abs/2510.19747v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in 6th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2025)</p></details> |
-| **[A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models](http://arxiv.org/abs/2510.08049v2)** | 2025-10-21 |  |
-| **[DeepSeek-Inspired Exploration of RL-based LLMs and Synergy with Wireless Networks: A Survey](http://arxiv.org/abs/2503.09956v4)** | 2025-10-20 | 45 pages, 12 figures |
-| **[From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery](http://arxiv.org/abs/2508.14111v2)** | 2025-10-20 |  |
-| **[From Multimodal Perception to Strategic Reasoning: A Survey on AI-Generated Game Commentary](http://arxiv.org/abs/2506.17294v2)** | 2025-10-18 |  |
 
 ## AND:MLLM post training
 | **Title** | **Date** | **Comment** |
