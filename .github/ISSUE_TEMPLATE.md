@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 13, 2025
+title: Latest 20 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -20,13 +20,13 @@ labels: documentation
 | **[Beyond Words: Multimodal LLM Knows When to Speak](https://arxiv.org/pdf/2505.14654v1)** | 2025-05-21 | <details><summary>Proje...</summary><p>Project page: https://github.com/lzk901372/MM-When2Speak</p></details> |
 | **[Chitranuvad: Adapting Multi-Lingual LLMs for Multimodal Translation](https://arxiv.org/pdf/2502.20420v1)** | 2025-03-03 |  |
 | **[LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning](https://arxiv.org/pdf/2406.01032v1)** | 2024-06-04 |  |
-| **[CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts](https://arxiv.org/pdf/2405.05949v1)** | 2024-05-10 |  |
 | **[NVLM: Open Frontier-Class Multimodal LLMs](https://arxiv.org/pdf/2409.11402v2)** | 2024-10-24 | <details><summary>Fixed...</summary><p>Fixed the typos. For more information, please visit our project page at: https://research.nvidia.com/labs/adlr/NVLM-1</p></details> |
+| **[CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts](https://arxiv.org/pdf/2405.05949v1)** | 2024-05-10 |  |
 | **[Mol-LLM: Multimodal Generalist Molecular LLM with Improved Graph Utilization](https://arxiv.org/pdf/2502.02810v2)** | 2025-05-27 | 9 pages, 5 figures |
 | **[Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey](https://arxiv.org/pdf/2507.22920v1)** | 2025-08-01 |  |
 | **[Skipping Computations in Multimodal LLMs](https://arxiv.org/pdf/2410.09454v1)** | 2024-10-15 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2024 Workshop RBFM. Code: https://github.com/mshukor/ima-lmms</p></details> |
-| **[Efficient Indirect LLM Jailbreak via Multimodal-LLM Jailbreak](https://arxiv.org/pdf/2405.20015v2)** | 2025-05-20 |  |
 | **[AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/pdf/2402.12226v5)** | 2025-09-09 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, under review, work in progress</p></details> |
+| **[Efficient Indirect LLM Jailbreak via Multimodal-LLM Jailbreak](https://arxiv.org/pdf/2405.20015v2)** | 2025-05-20 |  |
 
 ## AND:multimodal survey
 | **Title** | **Date** | **Comment** |
@@ -40,14 +40,14 @@ labels: documentation
 | **[A Survey on Image-text Multimodal Models](https://arxiv.org/pdf/2309.15857v3)** | 2024-06-21 |  |
 | **[Deep Multimodal Learning with Missing Modality: A Survey](https://arxiv.org/pdf/2409.07825v3)** | 2024-10-22 | <details><summary>Submi...</summary><p>Submitted to ACM Computing Surveys</p></details> |
 | **[A survey of multimodal deep generative models](https://arxiv.org/pdf/2207.02127v1)** | 2022-07-06 | <details><summary>Publi...</summary><p>Published in Advanced Robotics</p></details> |
-| **[Multimodality in Meta-Learning: A Comprehensive Survey](https://arxiv.org/pdf/2109.13576v2)** | 2022-05-10 | <details><summary>Accep...</summary><p>Accepted by Knowledge-Based Systems; 21 pages</p></details> |
 | **[Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/pdf/2305.13507v3)** | 2023-10-27 | <details><summary>The 2...</summary><p>The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP): Findings</p></details> |
+| **[Multimodality in Meta-Learning: A Comprehensive Survey](https://arxiv.org/pdf/2109.13576v2)** | 2022-05-10 | <details><summary>Accep...</summary><p>Accepted by Knowledge-Based Systems; 21 pages</p></details> |
 | **[LLMs Meet Multimodal Generation and Editing: A Survey](https://arxiv.org/pdf/2405.19334v2)** | 2024-06-11 | <details><summary>52 Pa...</summary><p>52 Pages with 16 Figures, 12 Tables, and 545 References. GitHub Repository at: https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation</p></details> |
 | **[Multimodal Referring Segmentation: A Survey](https://arxiv.org/pdf/2508.00265v2)** | 2025-08-06 | <details><summary>Proje...</summary><p>Project Page: https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation</p></details> |
 | **[A Survey on Audio Synthesis and Audio-Visual Multimodal Processing](https://arxiv.org/pdf/2108.00443v1)** | 2021-08-03 |  |
+| **[Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/pdf/1705.09406v2)** | 2017-08-02 |  |
 | **[A Survey of Multimodal Sarcasm Detection](https://arxiv.org/pdf/2410.18882v1)** | 2024-10-25 | <details><summary>Publi...</summary><p>Published in the Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence Survey Track. Pages 8020-8028</p></details> |
 | **[A Survey of Multimodal Retrieval-Augmented Generation](https://arxiv.org/pdf/2504.08748v1)** | 2025-04-15 |  |
-| **[Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/pdf/1705.09406v2)** | 2017-08-02 |  |
 | **[Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective](https://arxiv.org/pdf/2409.07388v2)** | 2024-10-31 |  |
 | **[Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey](https://arxiv.org/pdf/2404.00621v2)** | 2024-07-04 | <details><summary>Accep...</summary><p>Accepted by KDD 2024. See our tutorial materials at https://mmrec.github.io</p></details> |
 | **[Brain-Conditional Multimodal Synthesis: A Survey and Taxonomy](https://arxiv.org/pdf/2401.00430v2)** | 2024-01-04 |  |
