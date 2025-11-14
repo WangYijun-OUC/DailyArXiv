@@ -12,20 +12,20 @@ labels: documentation
 | **[LLMs Meet Multimodal Generation and Editing: A Survey](https://arxiv.org/pdf/2405.19334v2)** | 2024-06-11 | <details><summary>52 Pa...</summary><p>52 Pages with 16 Figures, 12 Tables, and 545 References. GitHub Repository at: https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation</p></details> |
 | **[ShizhenGPT: Towards Multimodal LLMs for Traditional Chinese Medicine](https://arxiv.org/pdf/2508.14706v1)** | 2025-08-21 |  |
 | **[Universal Adversarial Attack on Aligned Multimodal LLMs](https://arxiv.org/pdf/2502.07987v3)** | 2025-06-06 | <details><summary>Added...</summary><p>Added benchmarks, baselines, author, appendix</p></details> |
-| **[EasyGen: Easing Multimodal Generation with BiDiffuser and LLMs](https://arxiv.org/pdf/2310.08949v3)** | 2024-05-20 | <details><summary>Accep...</summary><p>Accepted by ACL 2024, main conference</p></details> |
 | **[Understanding the Role of LLMs in Multimodal Evaluation Benchmarks](https://arxiv.org/pdf/2410.12329v1)** | 2024-10-17 |  |
+| **[EasyGen: Easing Multimodal Generation with BiDiffuser and LLMs](https://arxiv.org/pdf/2310.08949v3)** | 2024-05-20 | <details><summary>Accep...</summary><p>Accepted by ACL 2024, main conference</p></details> |
 | **[Exploring Hierarchical Molecular Graph Representation in Multimodal LLMs](https://arxiv.org/pdf/2411.04708v2)** | 2025-02-14 | <details><summary>9 pag...</summary><p>9 pages, 4 tables, 1 figure, paper under review</p></details> |
 | **[From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking](https://arxiv.org/pdf/2406.14859v1)** | 2024-06-24 |  |
 | **[Position: Empowering Time Series Reasoning with Multimodal LLMs](https://arxiv.org/pdf/2502.01477v1)** | 2025-02-04 |  |
 | **[Beyond Words: Multimodal LLM Knows When to Speak](https://arxiv.org/pdf/2505.14654v1)** | 2025-05-21 | <details><summary>Proje...</summary><p>Project page: https://github.com/lzk901372/MM-When2Speak</p></details> |
 | **[Chitranuvad: Adapting Multi-Lingual LLMs for Multimodal Translation](https://arxiv.org/pdf/2502.20420v1)** | 2025-03-03 |  |
-| **[LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning](https://arxiv.org/pdf/2406.01032v1)** | 2024-06-04 |  |
-| **[NVLM: Open Frontier-Class Multimodal LLMs](https://arxiv.org/pdf/2409.11402v2)** | 2024-10-24 | <details><summary>Fixed...</summary><p>Fixed the typos. For more information, please visit our project page at: https://research.nvidia.com/labs/adlr/NVLM-1</p></details> |
-| **[CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts](https://arxiv.org/pdf/2405.05949v1)** | 2024-05-10 |  |
 | **[Mol-LLM: Multimodal Generalist Molecular LLM with Improved Graph Utilization](https://arxiv.org/pdf/2502.02810v2)** | 2025-05-27 | 9 pages, 5 figures |
+| **[LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning](https://arxiv.org/pdf/2406.01032v1)** | 2024-06-04 |  |
 | **[Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey](https://arxiv.org/pdf/2507.22920v1)** | 2025-08-01 |  |
+| **[Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts](https://arxiv.org/pdf/2511.10075v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
 | **[Skipping Computations in Multimodal LLMs](https://arxiv.org/pdf/2410.09454v1)** | 2024-10-15 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2024 Workshop RBFM. Code: https://github.com/mshukor/ima-lmms</p></details> |
-| **[AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/pdf/2402.12226v5)** | 2025-09-09 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, under review, work in progress</p></details> |
+| **[CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts](https://arxiv.org/pdf/2405.05949v1)** | 2024-05-10 |  |
+| **[NVLM: Open Frontier-Class Multimodal LLMs](https://arxiv.org/pdf/2409.11402v2)** | 2024-10-24 | <details><summary>Fixed...</summary><p>Fixed the typos. For more information, please visit our project page at: https://research.nvidia.com/labs/adlr/NVLM-1</p></details> |
 | **[Efficient Indirect LLM Jailbreak via Multimodal-LLM Jailbreak](https://arxiv.org/pdf/2405.20015v2)** | 2025-05-20 |  |
 
 ## AND:multimodal survey
@@ -74,7 +74,7 @@ labels: documentation
 | **[MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills](https://arxiv.org/pdf/2505.06176v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted at SIGGRAPH 2025 [ACM Transactions on Graphics]; Project website: https://monetgpt.github.io</p></details> |
 | **[InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models](https://arxiv.org/pdf/2504.10479v3)** | 2025-04-22 | Technical Report |
 | **[Improving the Reasoning of Multi-Image Grounding in MLLMs via Reinforcement Learning](https://arxiv.org/pdf/2507.00748v2)** | 2025-07-24 | 10 pages |
-| **[MLLM-CBench:A Comprehensive Benchmark for Continual Instruction Tuning of Multimodal LLMs with Chain-of-Thought Reasoning Analysis](https://arxiv.org/pdf/2508.08275v2)** | 2025-08-14 | under review |
+| **[REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting](https://arxiv.org/pdf/2510.16410v1)** | 2025-10-21 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
@@ -83,20 +83,20 @@ labels: documentation
 | **[From Specific-MLLMs to Omni-MLLMs: A Survey on MLLMs Aligned with Multi-modalities](https://arxiv.org/pdf/2412.11694v3)** | 2025-03-05 | 35 pages |
 | **[MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance](https://arxiv.org/pdf/2401.02906v3)** | 2024-06-18 |  |
 | **[Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/pdf/2505.23747v1)** | 2025-05-30 | 21 pages |
-| **[Benchmarking Large and Small MLLMs](https://arxiv.org/pdf/2501.04150v1)** | 2025-01-09 |  |
 | **[AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation](https://arxiv.org/pdf/2406.11548v6)** | 2024-11-19 |  |
 | **[Dense Connector for MLLMs](https://arxiv.org/pdf/2405.13800v2)** | 2024-11-18 | <details><summary>27 pa...</summary><p>27 pages, NeurIPS 2024</p></details> |
+| **[Benchmarking Large and Small MLLMs](https://arxiv.org/pdf/2501.04150v1)** | 2025-01-09 |  |
 | **[When MLLMs Meet Compression Distortion: A Coding Paradigm Tailored to MLLMs](https://arxiv.org/pdf/2509.24258v1)** | 2025-09-30 |  |
-| **[Spatial Preference Rewarding for MLLMs Spatial Understanding](https://arxiv.org/pdf/2510.14374v1)** | 2025-10-17 | ICCV 2025 |
 | **[The Wolf Within: Covert Injection of Malice into MLLM Societies via an MLLM Operative](https://arxiv.org/pdf/2402.14859v2)** | 2024-06-04 | <details><summary>Accep...</summary><p>Accepted to workshop on ReGenAI@CVPR 2024</p></details> |
-| **[Aesthetic Image Captioning with Saliency Enhanced MLLMs](https://arxiv.org/pdf/2509.04378v3)** | 2025-09-10 |  |
+| **[Spatial Preference Rewarding for MLLMs Spatial Understanding](https://arxiv.org/pdf/2510.14374v1)** | 2025-10-17 | ICCV 2025 |
 | **[MLLMs are Deeply Affected by Modality Bias](https://arxiv.org/pdf/2505.18657v1)** | 2025-05-27 |  |
-| **[Redundancy Principles for MLLMs Benchmarks](https://arxiv.org/pdf/2501.13953v2)** | 2025-05-29 |  |
+| **[Aesthetic Image Captioning with Saliency Enhanced MLLMs](https://arxiv.org/pdf/2509.04378v3)** | 2025-09-10 |  |
 | **[Information Density Principle for MLLM Benchmarks](https://arxiv.org/pdf/2503.10079v1)** | 2025-03-14 |  |
+| **[Redundancy Principles for MLLMs Benchmarks](https://arxiv.org/pdf/2501.13953v2)** | 2025-05-29 |  |
 | **[Improve MLLM Benchmark Efficiency through Interview](https://arxiv.org/pdf/2506.00883v2)** | 2025-10-07 |  |
-| **[Face-MLLM: A Large Face Perception Model](https://arxiv.org/pdf/2410.20717v1)** | 2024-10-29 |  |
 | **[Do MLLMs Really Understand the Charts?](https://arxiv.org/pdf/2509.04457v1)** | 2025-09-08 | 19 pages,15 figures |
+| **[Face-MLLM: A Large Face Perception Model](https://arxiv.org/pdf/2410.20717v1)** | 2024-10-29 |  |
 | **[RL makes MLLMs see better than SFT](https://arxiv.org/pdf/2510.16333v1)** | 2025-10-21 |  |
-| **[HueManity: Probing Fine-Grained Visual Perception in MLLMs](https://arxiv.org/pdf/2506.03194v4)** | 2025-09-16 |  |
 | **[MileBench: Benchmarking MLLMs in Long Context](https://arxiv.org/pdf/2404.18532v2)** | 2024-05-16 | <details><summary>31 pa...</summary><p>31 pages, 13 figures, 14 tables; We add results of GPT-4o in this version</p></details> |
+| **[Survey on AI-Generated Media Detection: From Non-MLLM to MLLM](https://arxiv.org/pdf/2502.05240v2)** | 2025-02-13 |  |
 
