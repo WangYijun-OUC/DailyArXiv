@@ -23,9 +23,9 @@ with open("README.md", "r") as f:
         # sys.exit("Already updated today!")
 
 keywords = [
-    "AND:multimodal LLM",
+    # "AND:multimodal LLM",
     "AND:reinforced learning generation",
-    # "AND:RL generation", 
+    "AND:reinforced learning diffusion", 
     "unified"
     "understanding and generation",
     # "rendered image"                # 精确短语匹配
