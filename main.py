@@ -25,9 +25,10 @@ with open("README.md", "r") as f:
 keywords = [
     "AND:multimodal LLM",
     "AND:reinforced learning generation",
-    "AND:RL generation", 
-    "discrete diffusion",
-    "rendered image"                # 精确短语匹配
+    # "AND:RL generation", 
+    "unified"
+    "understanding and generation",
+    # "rendered image"                # 精确短语匹配
     # "AND:medical diffusion classification",    # 多词匹配，逻辑与
 ]
 
