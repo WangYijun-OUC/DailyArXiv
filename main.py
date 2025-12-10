@@ -24,15 +24,15 @@ with open("README.md", "r") as f:
 
 keywords = [
     # "AND:multimodal LLM",
-    "AND:reinforced learning generation",
+    "AND:reinforced learning autoregressive",
     "AND:reinforced learning diffusion", 
-    "unified"
+    "think with image"
     "understanding and generation",
     # "rendered image"                # 精确短语匹配
     # "AND:medical diffusion classification",    # 多词匹配，逻辑与
 ]
 
-max_result = 100 # maximum query results from arXiv API for each keyword
+max_result = 80 # maximum query results from arXiv API for each keyword
 issues_result = 20 # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
