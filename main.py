@@ -32,7 +32,7 @@ keywords = [
     # "AND:medical diffusion classification",    # 多词匹配，逻辑与
 ]
 
-max_result = 30 # maximum query results from arXiv API for each keyword
+max_result = 40 # maximum query results from arXiv API for each keyword
 issues_result = 20 # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
