@@ -26,7 +26,7 @@ keywords = [
     # "AND:multimodal LLM",
     "AND:reinforced learning autoregressive",
     "AND:reinforced learning diffusion", 
-    "think with image"
+    "think with image",
     "understanding and generation",
     # "rendered image"                # 精确短语匹配
     # "AND:medical diffusion classification",    # 多词匹配，逻辑与
