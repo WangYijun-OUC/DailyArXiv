@@ -23,14 +23,15 @@ with open("README.md", "r") as f:
         # sys.exit("Already updated today!")
 
 keywords = [
-    # "AND:multimodal LLM",
     "AND:reinforced learning autoregressive",
     "AND:reinforced learning diffusion", 
+    "interleaving",
     "think with image",
-    "understanding and generation",
+    "understanding and generation"
+]
+    # "AND:multimodal LLM",
     # "rendered image"                # 精确短语匹配
     # "AND:medical diffusion classification",    # 多词匹配，逻辑与
-]
 
 max_result = 40 # maximum query results from arXiv API for each keyword
 issues_result = 20 # maximum papers to be included in the issue
