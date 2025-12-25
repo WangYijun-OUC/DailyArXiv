@@ -7,7 +7,7 @@ labels: documentation
 ## AND:reinforced learning autoregressive
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://arxiv.org/abs/2512.20605v1)** | 2025-12-23 |  |
+| **[Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://arxiv.org/abs/2512.20605v2)** | 2025-12-24 |  |
 | **[MaskFocus: Focusing Policy Optimization on Critical Steps for Masked Image Generation](https://arxiv.org/abs/2512.18766v1)** | 2025-12-21 | <details><summary>Code ...</summary><p>Code is available at https://github.com/zghhui/MaskFocus</p></details> |
 | **[Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](https://arxiv.org/abs/2512.07461v2)** | 2025-12-19 |  |
 | **[Toward Closed-loop Molecular Discovery via Language Model, Property Alignment and Strategic Search](https://arxiv.org/abs/2512.09566v2)** | 2025-12-18 | 21 pages, 5 figures |
@@ -31,6 +31,8 @@ labels: documentation
 ## AND:reinforced learning diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Data-regularized Reinforcement Learning for Diffusion Models at Scale](https://arxiv.org/abs/2512.04332v3)** | 2025-12-24 |  |
+| **[Aerial Active STAR-RIS-assisted Satellite-Terrestrial Covert Communications](https://arxiv.org/abs/2504.16146v3)** | 2025-12-24 |  |
 | **[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v3)** | 2025-12-23 | <details><summary>Seeda...</summary><p>Seedance 1.5 pro Technical Report</p></details> |
 | **[Reinforcement Learning for Large Model: A Survey](https://arxiv.org/abs/2508.08189v3)** | 2025-12-23 | 22 pages |
 | **[Diffusion Self-Weighted Guidance for Offline Reinforcement Learning](https://arxiv.org/abs/2505.18345v2)** | 2025-12-23 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR). 21 pages, 6 figures</p></details> |
@@ -49,17 +51,17 @@ labels: documentation
 | **[PrivORL: Differentially Private Synthetic Dataset for Offline Reinforcement Learning](https://arxiv.org/abs/2512.07342v2)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted at NDSS 2026; code available at https://github.com/2019ChenGong/PrivORL</p></details> |
 | **[Image Diffusion Preview with Consistency Solver](https://arxiv.org/abs/2512.13592v1)** | 2025-12-15 |  |
 | **[Adaptive-lambda Subtracted Importance Sampled Scores in Machine Unlearning for DDPMs and VAEs](https://arxiv.org/abs/2512.01054v2)** | 2025-12-15 |  |
-| **[State Combinatorial Generalization In Decision Making With Conditional Diffusion Models](https://arxiv.org/abs/2501.13241v2)** | 2025-12-14 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR), 2025</p></details> |
-| **[Enhancing Sample Efficiency and Exploration in Reinforcement Learning through the Integration of Diffusion Models and Proximal Policy Optimization](https://arxiv.org/abs/2409.01427v6)** | 2025-12-14 |  |
 
 ## interleaving
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation](https://arxiv.org/abs/2512.21204v1)** | 2025-12-24 |  |
+| **[MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization](https://arxiv.org/abs/2512.20135v2)** | 2025-12-24 |  |
+| **[AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent](https://arxiv.org/abs/2512.20745v1)** | 2025-12-23 | <details><summary>LLM, ...</summary><p>LLM, Mathematical Reasoning</p></details> |
 | **[Distilling to Hybrid Attention Models via KL-Guided Layer Selection](https://arxiv.org/abs/2512.20569v1)** | 2025-12-23 |  |
 | **[Bohrium + SciMaster: Building the Infrastructure and Ecosystem for Agentic Science at Scale](https://arxiv.org/abs/2512.20469v1)** | 2025-12-23 |  |
 | **[Laser: Governing Long-Horizon Agentic Search via Structured Protocol and Context Register](https://arxiv.org/abs/2512.20458v1)** | 2025-12-23 |  |
 | **[DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations](https://arxiv.org/abs/2506.09349v4)** | 2025-12-23 | Work in progress |
-| **[MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization](https://arxiv.org/abs/2512.20135v1)** | 2025-12-23 |  |
 | **[InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback](https://arxiv.org/abs/2505.23950v2)** | 2025-12-22 |  |
 | **[ORBGRAND Is Exactly Capacity-achieving via Rank Companding](https://arxiv.org/abs/2512.00347v3)** | 2025-12-22 |  |
 | **[Efficient Hypergraph Pattern Matching via Match-and-Filter and Intersection Constraint](https://arxiv.org/abs/2512.10621v2)** | 2025-12-22 |  |
@@ -73,8 +75,6 @@ labels: documentation
 | **[Trust-Region Adaptive Policy Optimization](https://arxiv.org/abs/2512.17636v1)** | 2025-12-19 |  |
 | **[Finch: Benchmarking Finance & Accounting across Spreadsheet-Centric Enterprise Workflows](https://arxiv.org/abs/2512.13168v2)** | 2025-12-19 |  |
 | **[Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving](https://arxiv.org/abs/2512.17077v1)** | 2025-12-18 |  |
-| **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
-| **[Locally Correct Interleavings between Merge Trees](https://arxiv.org/abs/2512.16474v1)** | 2025-12-18 |  |
 
 ## think with image
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,8 @@ labels: documentation
 ## understanding and generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control](https://arxiv.org/abs/2512.21058v1)** | 2025-12-24 | <details><summary>32 pa...</summary><p>32 pages, 17 figures, and 6 tables</p></details> |
+| **[ART: Adaptive Response Tuning Framework -- A Multi-Agent Tournament-Based Approach to LLM Response Optimization](https://arxiv.org/abs/2512.00617v2)** | 2025-12-24 | <details><summary>14 pa...</summary><p>14 pages, 11 figures, 5 tables. IEEE conference-style paper with appendices</p></details> |
 | **[InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback](https://arxiv.org/abs/2505.23950v2)** | 2025-12-22 |  |
 | **[Xiaomi MiMo-VL-Miloco Technical Report](https://arxiv.org/abs/2512.17436v2)** | 2025-12-22 |  |
 | **[CycleChart: A Unified Consistency-Based Learning Framework for Bidirectional Chart Understanding and Generation](https://arxiv.org/abs/2512.19173v1)** | 2025-12-22 |  |
@@ -121,6 +123,4 @@ labels: documentation
 | **[What Happens Next? Next Scene Prediction with a Unified Video Model](https://arxiv.org/abs/2512.13015v1)** | 2025-12-15 |  |
 | **[Do Reviews Matter for Recommendations in the Era of Large Language Models?](https://arxiv.org/abs/2512.12978v1)** | 2025-12-15 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 3 tables</p></details> |
 | **[CoRe3D: Collaborative Reasoning as a Foundation for 3D Intelligence](https://arxiv.org/abs/2512.12768v1)** | 2025-12-14 |  |
-| **[MRD: Using Physically Based Differentiable Rendering to Probe Vision Models for 3D Scene Understanding](https://arxiv.org/abs/2512.12307v1)** | 2025-12-13 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Supplementary material and code will be provided at the end of January</p></details> |
-| **[Revolutionizing Finance with LLMs: An Overview of Applications and Insights](https://arxiv.org/abs/2401.11641v4)** | 2025-12-13 |  |
 
