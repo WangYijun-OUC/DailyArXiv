@@ -24,7 +24,7 @@ with open("README.md", "r") as f:
 
 keywords = [
     "AND:reinforced learning autoregressive",
-    "AND:reinforced learning diffusion", 
+    "AND:latent image generation", 
     "interleaving",
     "think with image",
     "understanding and generation"
