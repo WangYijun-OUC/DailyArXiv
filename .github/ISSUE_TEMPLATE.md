@@ -31,6 +31,8 @@ labels: documentation
 ## AND:latent image generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AnyCXR: Human Anatomy Segmentation of Chest X-ray at Any Acquisition Position using Multi-stage Domain Randomized Synthetic Data with Imperfect Annotations and Conditional Joint Annotation Regularization Learning](https://arxiv.org/abs/2512.17263v2)** | 2026-01-02 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, Preprint (under review at Medical Image Analysis)</p></details> |
+| **[Joint Geometry-Appearance Human Reconstruction in a Unified Latent Space via Bridge Diffusion](https://arxiv.org/abs/2601.00328v1)** | 2026-01-01 |  |
 | **[Dynamical Learning in Deep Asymmetric Recurrent Neural Networks](https://arxiv.org/abs/2509.05041v2)** | 2025-12-29 |  |
 | **[Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation](https://arxiv.org/abs/2512.23705v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project Page: https://daniellli.github.io/projects/DKT/; Code: https://github.com/Daniellli/DKT; Dataset: https://huggingface.co/datasets/Daniellesry/TransPhy3D</p></details> |
 | **[Image and Video Quality Assessment using Prompt-Guided Latent Diffusion Models for Cross-Dataset Generalization](https://arxiv.org/abs/2406.04654v2)** | 2025-12-28 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research</p></details> |
@@ -49,12 +51,12 @@ labels: documentation
 | **[Generative Multi-Focus Image Fusion](https://arxiv.org/abs/2512.21495v1)** | 2025-12-25 |  |
 | **[Human-Aligned Generative Perception: Bridging Psychophysics and Generative Models](https://arxiv.org/abs/2512.22272v1)** | 2025-12-25 |  |
 | **[Latent Implicit Visual Reasoning](https://arxiv.org/abs/2512.21218v1)** | 2025-12-24 |  |
-| **[A Turn Toward Better Alignment: Few-Shot Generative Adaptation with Equivariant Feature Rotation](https://arxiv.org/abs/2512.21174v1)** | 2025-12-24 |  |
-| **[FreeInpaint: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting](https://arxiv.org/abs/2512.21104v1)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 
 ## interleaving
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AEGIS: Exploring the Limit of World Knowledge Capabilities for Unified Mulitmodal Models](https://arxiv.org/abs/2601.00561v1)** | 2026-01-02 |  |
+| **[ROBIN: Incremental Oblique Interleaved ECC for Reliability Improvement in STT-MRAM Caches](https://arxiv.org/abs/2601.00456v1)** | 2026-01-01 |  |
 | **[SLM-TTA: A Framework for Test-Time Adaptation of Generative Spoken Language Models](https://arxiv.org/abs/2512.24739v1)** | 2025-12-31 |  |
 | **[SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning](https://arxiv.org/abs/2512.24330v1)** | 2025-12-30 |  |
 | **[Bringing The Consistency Gap: Explicit Structured Memory for Interleaved Image-Text Generation](https://arxiv.org/abs/2510.10969v3)** | 2025-12-30 |  |
@@ -73,8 +75,6 @@ labels: documentation
 | **[LIME:Accelerating Collaborative Lossless LLM Inference on Memory-Constrained Edge Devices](https://arxiv.org/abs/2512.21835v1)** | 2025-12-26 | 15 pages, 18 figures |
 | **[SIFThinker: Spatially-Aware Image Focus for Visual Reasoning](https://arxiv.org/abs/2508.06259v5)** | 2025-12-25 | 15 pages, 13 figures |
 | **[SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation](https://arxiv.org/abs/2512.21204v1)** | 2025-12-24 |  |
-| **[MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization](https://arxiv.org/abs/2512.20135v2)** | 2025-12-24 |  |
-| **[Distilling to Hybrid Attention Models via KL-Guided Layer Selection](https://arxiv.org/abs/2512.20569v1)** | 2025-12-23 |  |
 
 ## think with image
 | **Title** | **Date** | **Comment** |
@@ -103,12 +103,12 @@ labels: documentation
 ## understanding and generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation](https://arxiv.org/abs/2512.22905v2)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS as a Spotlight paper. Code: https://github.com/JavisVerse/JavisGPT</p></details> |
 | **[When Intelligence Fails: An Empirical Study on Why LLMs Struggle with Password Cracking](https://arxiv.org/abs/2510.17884v3)** | 2025-12-31 |  |
 | **[Scaling Spatial Intelligence with Multimodal Foundation Models](https://arxiv.org/abs/2511.13719v3)** | 2025-12-30 | <details><summary>Codeb...</summary><p>Codebase: https://github.com/OpenSenseNova/SenseNova-SI ; Models: https://huggingface.co/collections/sensenova/sensenova-si</p></details> |
 | **[MiMo-Audio: Audio Language Models are Few-Shot Learners](https://arxiv.org/abs/2512.23808v1)** | 2025-12-29 |  |
 | **[CoFi-Dec: Hallucination-Resistant Decoding via Coarse-to-Fine Generative Feedback in Large Vision-Language Models](https://arxiv.org/abs/2512.23453v1)** | 2025-12-29 |  |
 | **[GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation](https://arxiv.org/abs/2512.23180v1)** | 2025-12-29 |  |
-| **[JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation](https://arxiv.org/abs/2512.22905v1)** | 2025-12-28 | <details><summary>Accep...</summary><p>Accepted by NeurIPS as a Spotlight paper. Code: https://github.com/JavisVerse/JavisGPT</p></details> |
 | **[Bias-variance decompositions: the exclusive privilege of Bregman divergences](https://arxiv.org/abs/2501.18581v3)** | 2025-12-26 | <details><summary>Revis...</summary><p>Revision based on reviewer feedback and helpful comments from colleagues; improved clarity of exposition, corrected notation conflicts, and fixed minor issues; simplified main proof</p></details> |
 | **[Motus: A Unified Latent Action World Model](https://arxiv.org/abs/2512.13030v2)** | 2025-12-25 |  |
 | **[Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control](https://arxiv.org/abs/2512.21058v1)** | 2025-12-24 | <details><summary>32 pa...</summary><p>32 pages, 17 figures, and 6 tables</p></details> |
