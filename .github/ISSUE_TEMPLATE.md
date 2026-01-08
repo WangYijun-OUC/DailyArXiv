@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 08, 2026
+title: Latest 20 Papers - January 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## AND:reinforced learning autoregressive
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncertainty-Aware Robotic World Model Makes Offline Model-Based Reinforcement Learning Work on Real Robots](https://arxiv.org/abs/2504.16680v2)** | 2026-01-07 |  |
+| **[IndexTTS 2.5 Technical Report](https://arxiv.org/abs/2601.03888v1)** | 2026-01-07 | 11 pages, 4 figures |
+| **[Sandwich Reasoning: An Answer-Reasoning-Answer Approach for Low-Latency Query Correction](https://arxiv.org/abs/2601.03672v1)** | 2026-01-07 |  |
 | **[VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation](https://arxiv.org/abs/2601.02256v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://github.com/ByteVisionLab/NextFlow</p></details> |
 | **[NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://arxiv.org/abs/2601.02204v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://github.com/ByteVisionLab/NextFlow</p></details> |
 | **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/abs/2510.08554v2)** | 2025-12-29 |  |
@@ -24,13 +27,14 @@ labels: documentation
 | **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v2)** | 2025-12-12 | <details><summary>V2: F...</summary><p>V2: Fixed typo in author list. No changes in the paper compared to V1</p></details> |
 | **[Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://arxiv.org/abs/2512.10949v1)** | 2025-12-11 | <details><summary>Code ...</summary><p>Code is released at https://github.com/Ivan-Tang-3D/3DGen-R1</p></details> |
 | **[Grounding Everything in Tokens for Multimodal Large Language Models](https://arxiv.org/abs/2512.10554v1)** | 2025-12-11 | <details><summary>19 pa...</summary><p>19 pages, 16 figures, 12 Tables</p></details> |
-| **[Diffusion Is Your Friend in Show, Suggest and Tell](https://arxiv.org/abs/2512.10038v1)** | 2025-12-10 |  |
-| **[Multi-Path Collaborative Reasoning via Reinforcement Learning](https://arxiv.org/abs/2512.01485v2)** | 2025-12-08 |  |
-| **[WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/2512.11872v1)** | 2025-12-06 |  |
 
 ## AND:latent image generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction](https://arxiv.org/abs/2601.04090v1)** | 2026-01-07 | <details><summary>Proje...</summary><p>Project page: https://xdimlab.github.io/Gen3R/</p></details> |
+| **[Bridging the Discrete-Continuous Gap: Unified Multimodal Generation via Coupled Manifold Discrete Absorbing Diffusion](https://arxiv.org/abs/2601.04056v1)** | 2026-01-07 | 10 pages, 5 figures |
+| **[ResTok: Learning Hierarchical Residuals in 1D Visual Tokenizers for Autoregressive Image Generation](https://arxiv.org/abs/2601.03955v1)** | 2026-01-07 | Technical report |
+| **[FairT2I: Mitigating Social Bias in Text-to-Image Generation via Large Language Model-Assisted Detection and Attribute Rebalancing](https://arxiv.org/abs/2502.03826v4)** | 2026-01-07 |  |
 | **[Muses: Designing, Composing, Generating Nonexistent Fantasy 3D Creatures without Training](https://arxiv.org/abs/2601.03256v1)** | 2026-01-06 | <details><summary>Proje...</summary><p>Project page: https://luhexiao.github.io/Muses.github.io/</p></details> |
 | **[Critic-Guided Reinforcement Unlearning in Text-to-Image Diffusion](https://arxiv.org/abs/2601.03213v1)** | 2026-01-06 | <details><summary>Prepr...</summary><p>Preprint. Under review at ICLR 2026</p></details> |
 | **[UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision](https://arxiv.org/abs/2601.03193v1)** | 2026-01-06 |  |
@@ -47,17 +51,18 @@ labels: documentation
 | **[Improving Flexible Image Tokenizers for Autoregressive Image Generation](https://arxiv.org/abs/2601.01535v1)** | 2026-01-04 |  |
 | **[Multi-Subspace Multi-Modal Modeling for Diffusion Models: Estimation, Convergence and Mixture of Experts](https://arxiv.org/abs/2601.01475v1)** | 2026-01-04 |  |
 | **[YODA: Yet Another One-step Diffusion-based Video Compressor](https://arxiv.org/abs/2601.01141v1)** | 2026-01-03 | <details><summary>Code ...</summary><p>Code will be available at https://github.com/NJUVISION/YODA</p></details> |
-| **[Deep Clustering with Associative Memories](https://arxiv.org/abs/2601.00963v1)** | 2026-01-02 |  |
-| **[AnyCXR: Human Anatomy Segmentation of Chest X-ray at Any Acquisition Position using Multi-stage Domain Randomized Synthetic Data with Imperfect Annotations and Conditional Joint Annotation Regularization Learning](https://arxiv.org/abs/2512.17263v2)** | 2026-01-02 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, Preprint (under review at Medical Image Analysis)</p></details> |
-| **[Joint Geometry-Appearance Human Reconstruction in a Unified Latent Space via Bridge Diffusion](https://arxiv.org/abs/2601.00328v1)** | 2026-01-01 |  |
-| **[Dynamical Learning in Deep Asymmetric Recurrent Neural Networks](https://arxiv.org/abs/2509.05041v2)** | 2025-12-29 |  |
 
 ## interleaving
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Does Loss Optimization Actually Teach, If Anything? Knowledge Dynamics in Continual Pre-training of LLMs](https://arxiv.org/abs/2601.03858v1)** | 2026-01-07 |  |
+| **[MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning](https://arxiv.org/abs/2512.23412v2)** | 2026-01-07 | Technique Report |
+| **[Interleaved Tool-Call Reasoning for Protein Function Understanding](https://arxiv.org/abs/2601.03604v1)** | 2026-01-07 |  |
+| **[Reinforcement Learning for Tool-Integrated Interleaved Thinking towards Cross-Domain Generalization](https://arxiv.org/abs/2510.11184v2)** | 2026-01-07 |  |
+| **[SWAA: Sliding Window Attention Adaptation for Efficient Long-Context LLMs Without Pretraining](https://arxiv.org/abs/2512.10411v4)** | 2026-01-07 |  |
+| **[Interleaved Reasoning for Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2505.19640v2)** | 2026-01-06 |  |
 | **[Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC](https://arxiv.org/abs/2506.24045v2)** | 2026-01-06 |  |
 | **[IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://arxiv.org/abs/2601.03054v1)** | 2026-01-06 |  |
-| **[SWAA: Sliding Window Attention Adaptation for Efficient Long-Context LLMs Without Pretraining](https://arxiv.org/abs/2512.10411v3)** | 2026-01-06 |  |
 | **[MiMo-V2-Flash Technical Report](https://arxiv.org/abs/2601.02780v1)** | 2026-01-06 | <details><summary>31 pa...</summary><p>31 pages, technical report</p></details> |
 | **[Learning and Optimizing the Efficacy of Spatio-Temporal Task Allocation under Temporal and Resource Constraints](https://arxiv.org/abs/2601.02505v1)** | 2026-01-05 | <details><summary>The j...</summary><p>The journal extension version of our conference paper: arXiv:2404.07902, which has been accepted by ISRR 2024</p></details> |
 | **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/abs/2601.02358v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sotamak1r.github.io/VINO-web/</p></details> |
@@ -70,21 +75,16 @@ labels: documentation
 | **[Finch: Benchmarking Finance & Accounting across Spreadsheet-Centric Enterprise Workflows](https://arxiv.org/abs/2512.13168v3)** | 2026-01-03 |  |
 | **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v2)** | 2026-01-03 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
 | **[AEGIS: Exploring the Limit of World Knowledge Capabilities for Unified Mulitmodal Models](https://arxiv.org/abs/2601.00561v1)** | 2026-01-02 |  |
-| **[ROBIN: Incremental Oblique Interleaved ECC for Reliability Improvement in STT-MRAM Caches](https://arxiv.org/abs/2601.00456v1)** | 2026-01-01 |  |
-| **[SLM-TTA: A Framework for Test-Time Adaptation of Generative Spoken Language Models](https://arxiv.org/abs/2512.24739v1)** | 2025-12-31 |  |
-| **[SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning](https://arxiv.org/abs/2512.24330v1)** | 2025-12-30 |  |
-| **[Bringing The Consistency Gap: Explicit Structured Memory for Interleaved Image-Text Generation](https://arxiv.org/abs/2510.10969v3)** | 2025-12-30 |  |
-| **[Training Report of TeleChat3-MoE](https://arxiv.org/abs/2512.24157v1)** | 2025-12-30 |  |
 
 ## think with image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep But Reliable: Advancing Multi-turn Reasoning for Thinking with Images](https://arxiv.org/abs/2512.17306v2)** | 2026-01-07 |  |
 | **[Enhancing Multimodal Reasoning via Latent Refocusing](https://arxiv.org/abs/2511.02360v2)** | 2026-01-05 |  |
 | **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v2)** | 2026-01-03 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
 | **[SIFThinker: Spatially-Aware Image Focus for Visual Reasoning](https://arxiv.org/abs/2508.06259v5)** | 2025-12-25 | 15 pages, 13 figures |
 | **[InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search](https://arxiv.org/abs/2512.18745v1)** | 2025-12-21 |  |
 | **[CodeDance: A Dynamic Tool-integrated MLLM for Executable Visual Reasoning](https://arxiv.org/abs/2512.17312v1)** | 2025-12-19 |  |
-| **[Deep But Reliable: Advancing Multi-turn Reasoning for Thinking with Images](https://arxiv.org/abs/2512.17306v1)** | 2025-12-19 |  |
 | **[V-Thinker: Interactive Thinking with Images](https://arxiv.org/abs/2511.04460v2)** | 2025-12-18 | Working in progress |
 | **[EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](https://arxiv.org/abs/2512.15160v1)** | 2025-12-17 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 6 tables</p></details> |
 | **[Training Multi-Image Vision Agents via End2End Reinforcement Learning](https://arxiv.org/abs/2512.08980v2)** | 2025-12-16 |  |
@@ -103,6 +103,11 @@ labels: documentation
 ## understanding and generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SoK: Privacy Risks and Mitigations in Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2601.03979v1)** | 2026-01-07 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables. This work has been accepted for publication at the IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2026). The final version will be available on IEEE Xplore</p></details> |
+| **[HearSay Benchmark: Do Audio LLMs Leak What They Hear?](https://arxiv.org/abs/2601.03783v1)** | 2026-01-07 |  |
+| **[I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners](https://arxiv.org/abs/2512.13683v2)** | 2026-01-07 |  |
+| **[OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation](https://arxiv.org/abs/2509.25687v3)** | 2026-01-07 |  |
+| **[PALM-Bench: A Comprehensive Benchmark for Personalized Audio-Language Models](https://arxiv.org/abs/2601.03531v1)** | 2026-01-07 | Under review |
 | **[EarthVL: A Progressive Earth Vision-Language Understanding and Generation Framework](https://arxiv.org/abs/2601.02783v1)** | 2026-01-06 |  |
 | **[NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://arxiv.org/abs/2601.02204v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://github.com/ByteVisionLab/NextFlow</p></details> |
 | **[Exploring Approaches for Detecting Memorization of Recommender System Data in Large Language Models](https://arxiv.org/abs/2601.02002v1)** | 2026-01-05 |  |
@@ -118,9 +123,4 @@ labels: documentation
 | **[GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation](https://arxiv.org/abs/2512.23180v1)** | 2025-12-29 |  |
 | **[Bias-variance decompositions: the exclusive privilege of Bregman divergences](https://arxiv.org/abs/2501.18581v3)** | 2025-12-26 | <details><summary>Revis...</summary><p>Revision based on reviewer feedback and helpful comments from colleagues; improved clarity of exposition, corrected notation conflicts, and fixed minor issues; simplified main proof</p></details> |
 | **[Motus: A Unified Latent Action World Model](https://arxiv.org/abs/2512.13030v2)** | 2025-12-25 |  |
-| **[Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control](https://arxiv.org/abs/2512.21058v1)** | 2025-12-24 | <details><summary>32 pa...</summary><p>32 pages, 17 figures, and 6 tables</p></details> |
-| **[ART: Adaptive Response Tuning Framework -- A Multi-Agent Tournament-Based Approach to LLM Response Optimization](https://arxiv.org/abs/2512.00617v2)** | 2025-12-24 | <details><summary>14 pa...</summary><p>14 pages, 11 figures, 5 tables. IEEE conference-style paper with appendices</p></details> |
-| **[InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback](https://arxiv.org/abs/2505.23950v2)** | 2025-12-22 |  |
-| **[Xiaomi MiMo-VL-Miloco Technical Report](https://arxiv.org/abs/2512.17436v2)** | 2025-12-22 |  |
-| **[CycleChart: A Unified Consistency-Based Learning Framework for Bidirectional Chart Understanding and Generation](https://arxiv.org/abs/2512.19173v1)** | 2025-12-22 |  |
 
