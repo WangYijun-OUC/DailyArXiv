@@ -26,7 +26,7 @@ keywords = [
     "AND:reinforced learning autoregressive",
     "AND:latent image generation", 
     "interleaving",
-    "think with image",
+    "AND:autoregressive unified",
     "understanding and generation"
 ]
     # "AND:multimodal LLM",
