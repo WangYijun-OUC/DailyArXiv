@@ -31,6 +31,14 @@ labels: documentation
 ## AND:latent image generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAVEN: Erasing Invisible Watermarks via Novel View Synthesis](https://arxiv.org/abs/2601.08832v1)** | 2026-01-13 | 13 pages |
+| **[DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning](https://arxiv.org/abs/2506.09644v2)** | 2026-01-13 |  |
+| **[SafeRedir: Prompt Embedding Redirection for Robust Unlearning in Image Generation Models](https://arxiv.org/abs/2601.08623v1)** | 2026-01-13 | <details><summary>Code ...</summary><p>Code at https://github.com/ryliu68/SafeRedir</p></details> |
+| **[Latent Reconstruction from Generated Data for Multimodal Misinformation Detection](https://arxiv.org/abs/2504.06010v3)** | 2026-01-13 |  |
+| **[UM-Text: A Unified Multimodal Model for Image Understanding](https://arxiv.org/abs/2601.08321v1)** | 2026-01-13 |  |
+| **[FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models](https://arxiv.org/abs/2601.08246v1)** | 2026-01-13 |  |
+| **[Instruction-Driven 3D Facial Expression Generation and Transition](https://arxiv.org/abs/2601.08179v1)** | 2026-01-13 |  |
+| **[Training Free Zero-Shot Visual Anomaly Localization via Diffusion Inversion](https://arxiv.org/abs/2601.08022v1)** | 2026-01-12 |  |
 | **[Learning Generalizable and Efficient Image Watermarking via Hierarchical Two-Stage Optimization](https://arxiv.org/abs/2508.08667v2)** | 2026-01-12 |  |
 | **[Controlling Multimodal Conversational Agents with Coverage-Enhanced Latent Actions](https://arxiv.org/abs/2601.07516v1)** | 2026-01-12 |  |
 | **[Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples](https://arxiv.org/abs/2601.07293v1)** | 2026-01-12 | <details><summary>Accep...</summary><p>Accepted to PRCV 2025</p></details> |
@@ -43,18 +51,13 @@ labels: documentation
 | **[TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment](https://arxiv.org/abs/2601.05729v1)** | 2026-01-09 | 12 pages, 6 figures |
 | **[Neural-Driven Image Editing](https://arxiv.org/abs/2507.05397v3)** | 2026-01-09 | 22 pages, 14 figures |
 | **[Video Generation Models Are Good Latent Reward Models](https://arxiv.org/abs/2511.21541v3)** | 2026-01-09 |  |
-| **[Towards Generalized Multi-Image Editing for Unified Multimodal Models](https://arxiv.org/abs/2601.05572v1)** | 2026-01-09 | <details><summary>Proje...</summary><p>Project page: https://github.com/Pengchengpcx/MIE-UMM</p></details> |
-| **[Transferability of Adversarial Attacks in Video-based MLLMs: A Cross-modal Image-to-Video Approach](https://arxiv.org/abs/2501.01042v4)** | 2026-01-09 |  |
-| **[Leveraging Clinical Text and Class Conditioning for 3D Prostate MRI Generation](https://arxiv.org/abs/2506.10230v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Biomedical Engineering, 2025. This is the accepted author version. The final published version is available at https://doi.org/10.1109/TBME.2025.3648426</p></details> |
-| **[FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching](https://arxiv.org/abs/2601.05212v1)** | 2026-01-08 |  |
-| **[Exponential capacity scaling of classical GANs compared to hybrid latent style-based quantum GANs](https://arxiv.org/abs/2601.05036v1)** | 2026-01-08 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 7 tables</p></details> |
-| **[OnomaCompass: A Texture Exploration Interface that Shuttles between Words and Images](https://arxiv.org/abs/2601.04915v1)** | 2026-01-08 |  |
-| **[BlurDM: A Blur Diffusion Model for Image Deblurring](https://arxiv.org/abs/2512.03979v3)** | 2026-01-08 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project Page: https://jin-ting-he.github.io/BlurDM/</p></details> |
-| **[Novel View Synthesis using DDIM Inversion](https://arxiv.org/abs/2508.10688v2)** | 2026-01-08 |  |
 
 ## interleaving
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SVFusion: A CPU-GPU Co-Processing Architecture for Large-Scale Real-Time Vector Search](https://arxiv.org/abs/2601.08528v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted for publication in PVLDB Volume 19(VLDB 2026)</p></details> |
+| **[STAGE: A Benchmark for Knowledge Graph Construction, Question Answering, and In-Script Role-Playing over Movie Screenplays](https://arxiv.org/abs/2601.08510v1)** | 2026-01-13 | 66 pages, 9 figures |
+| **[D$^2$Plan: Dual-Agent Dynamic Global Planning for Complex Retrieval-Augmented Reasoning](https://arxiv.org/abs/2601.08282v1)** | 2026-01-13 |  |
 | **[On the Non-decoupling of Supervised Fine-tuning and Reinforcement Learning in Post-training](https://arxiv.org/abs/2601.07389v1)** | 2026-01-12 |  |
 | **[Tool-Augmented Policy Optimization: Synergizing Reasoning and Adaptive Tool Use with Reinforcement Learning](https://arxiv.org/abs/2510.07038v2)** | 2026-01-12 |  |
 | **[MEDVISTAGYM: A Scalable Training Environment for Thinking with Medical Images via Tool-Integrated Reinforcement Learning](https://arxiv.org/abs/2601.07107v1)** | 2026-01-12 |  |
@@ -72,13 +75,12 @@ labels: documentation
 | **[Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing](https://arxiv.org/abs/2601.05124v1)** | 2026-01-08 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, project page: https://github.com/hrz2000/realign</p></details> |
 | **[A Navigational Approach for Comprehensive RAG via Traversal over Proposition Graphs](https://arxiv.org/abs/2601.04859v1)** | 2026-01-08 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, 6 tables</p></details> |
 | **[AT$^2$PO: Agentic Turn-based Policy Optimization via Tree Search](https://arxiv.org/abs/2601.04767v1)** | 2026-01-08 |  |
-| **[MQ-GNN: A Multi-Queue Pipelined Architecture for Scalable and Efficient GNN Training](https://arxiv.org/abs/2601.04707v1)** | 2026-01-08 | IEEE Access 2025 |
-| **[Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search](https://arxiv.org/abs/2601.04703v1)** | 2026-01-08 |  |
-| **[Predictive Monitoring against Pattern Regular Languages](https://arxiv.org/abs/2310.14611v3)** | 2026-01-08 | <details><summary>The p...</summary><p>The proof of Theorem 3.2 has been revised. Results unchanged</p></details> |
 
 ## AND:autoregressive unified
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Hybrid Framework Combining Autoregression and Common Factors for Matrix Time Series](https://arxiv.org/abs/2503.05340v3)** | 2026-01-13 |  |
+| **[MobiDiary: Autoregressive Action Captioning with Wearable Devices and Wireless Signals](https://arxiv.org/abs/2601.08204v1)** | 2026-01-13 | Under Review |
 | **[Agents of Diffusion: Enhancing Diffusion Language Models with Multi-Agent Reinforcement Learning for Structured Data Generation (Extended Version)](https://arxiv.org/abs/2601.07152v1)** | 2026-01-12 |  |
 | **[Exploring Synthesizable Chemical Space with Iterative Pathway Refinements](https://arxiv.org/abs/2509.16084v2)** | 2026-01-10 |  |
 | **[AGDC: Autoregressive Generation of Variable-Length Sequences with Joint Discrete and Continuous Spaces](https://arxiv.org/abs/2601.05680v1)** | 2026-01-09 |  |
@@ -97,12 +99,12 @@ labels: documentation
 | **[TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model](https://arxiv.org/abs/2601.00051v1)** | 2025-12-31 |  |
 | **[ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving](https://arxiv.org/abs/2512.22939v2)** | 2025-12-31 | <details><summary>11 pa...</summary><p>11 pages, 4 figures. Project page: https://pqh22.github.io/projects/ColaVLA/index.html</p></details> |
 | **[UniHetero: Could Generation Enhance Understanding for Vision-Language-Model at Large Data Scale?](https://arxiv.org/abs/2512.23512v2)** | 2025-12-30 |  |
-| **[Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout](https://arxiv.org/abs/2511.20649v2)** | 2025-12-30 | <details><summary>Proje...</summary><p>Project Page: https://infinity-rope.github.io/</p></details> |
-| **[Error Analyses of Auto-Regressive Video Diffusion Models: A Unified Framework](https://arxiv.org/abs/2503.10704v2)** | 2025-12-27 |  |
 
 ## understanding and generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniF$^2$ace: A Unified Fine-grained Face Understanding and Generation Model](https://arxiv.org/abs/2503.08120v5)** | 2026-01-13 |  |
+| **[Towards A Unified PAC-Bayesian Framework for Norm-based Generalization Bounds](https://arxiv.org/abs/2601.08100v1)** | 2026-01-13 |  |
 | **[GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation](https://arxiv.org/abs/2512.23180v2)** | 2026-01-12 |  |
 | **[Unified Personalized Understanding, Generating and Editing](https://arxiv.org/abs/2601.06965v1)** | 2026-01-11 |  |
 | **[Towards Compositional Generalization in LLMs for Smart Contract Security: A Case Study on Reentrancy Vulnerabilities](https://arxiv.org/abs/2601.06914v1)** | 2026-01-11 |  |
@@ -121,6 +123,4 @@ labels: documentation
 | **[NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://arxiv.org/abs/2601.02204v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://github.com/ByteVisionLab/NextFlow</p></details> |
 | **[Exploring Approaches for Detecting Memorization of Recommender System Data in Large Language Models](https://arxiv.org/abs/2601.02002v1)** | 2026-01-05 |  |
 | **[HyperCLOVA X 8B Omni](https://arxiv.org/abs/2601.01792v1)** | 2026-01-05 | Technical Report |
-| **[UltraEval-Audio: A Unified Framework for Comprehensive Evaluation of Audio Foundation Models](https://arxiv.org/abs/2601.01373v1)** | 2026-01-04 | 13 pages, 2 figures |
-| **[A unified multimodal understanding and generation model for cross-disciplinary scientific research](https://arxiv.org/abs/2601.01363v1)** | 2026-01-04 |  |
 
