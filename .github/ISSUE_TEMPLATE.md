@@ -7,6 +7,8 @@ labels: documentation
 ## AND:reinforced learning autoregressive
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Scenario Rollouts for End-to-End Autonomous Driving](https://arxiv.org/abs/2601.11475v1)** | 2026-01-16 |  |
+| **[Reinforcement Fine-Tuning for Materials Design](https://arxiv.org/abs/2504.02367v3)** | 2026-01-16 | 10 pages, 7 figures |
 | **[DecisionLLM: Large Language Models for Long Sequence Decision Exploration](https://arxiv.org/abs/2601.10148v1)** | 2026-01-15 |  |
 | **[Agents of Diffusion: Enhancing Diffusion Language Models with Multi-Agent Reinforcement Learning for Structured Data Generation (Extended Version)](https://arxiv.org/abs/2601.07152v1)** | 2026-01-12 |  |
 | **[IndexTTS 2.5 Technical Report](https://arxiv.org/abs/2601.03888v3)** | 2026-01-09 | 11 pages, 4 figures |
@@ -25,36 +27,39 @@ labels: documentation
 | **[How Reinforcement Learning After Next-Token Prediction Facilitates Learning](https://arxiv.org/abs/2510.11495v2)** | 2025-12-16 |  |
 | **[GLM-TTS Technical Report](https://arxiv.org/abs/2512.14291v1)** | 2025-12-16 |  |
 | **[D3D-VLP: Dynamic 3D Vision-Language-Planning Model for Embodied Grounding and Navigation](https://arxiv.org/abs/2512.12622v1)** | 2025-12-14 |  |
-| **[Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics](https://arxiv.org/abs/2501.10100v5)** | 2025-12-14 |  |
-| **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v2)** | 2025-12-12 | <details><summary>V2: F...</summary><p>V2: Fixed typo in author list. No changes in the paper compared to V1</p></details> |
 
 ## AND:latent image generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Scenario Rollouts for End-to-End Autonomous Driving](https://arxiv.org/abs/2601.11475v1)** | 2026-01-16 |  |
+| **[ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models](https://arxiv.org/abs/2601.11404v1)** | 2026-01-16 |  |
+| **[ATATA: One Algorithm to Align Them All](https://arxiv.org/abs/2601.11194v1)** | 2026-01-16 |  |
+| **[Simple Models, Rich Representations: Visual Decoding from Primate Intracortical Neural Signals](https://arxiv.org/abs/2601.11108v1)** | 2026-01-16 | <details><summary>Prese...</summary><p>Presented at "Foundation Models for the Brain and Body" - NeurIPS 2025 Workshop</p></details> |
+| **[CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation](https://arxiv.org/abs/2601.11096v1)** | 2026-01-16 | <details><summary>https...</summary><p>https://lucaria-academy.github.io/CoDance/</p></details> |
+| **[Generation of Chest CT pulmonary Nodule Images by Latent Diffusion Models using the LIDC-IDRI Dataset](https://arxiv.org/abs/2601.11085v1)** | 2026-01-16 |  |
+| **[NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration](https://arxiv.org/abs/2601.09823v2)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to CVPR 2026</p></details> |
+| **[ProSGNeRF: Progressive Dynamic Neural Scene Graph with Frequency Modulated Foundation Model in Urban Scenes](https://arxiv.org/abs/2312.09076v3)** | 2026-01-16 |  |
+| **[Self-learned representation-guided latent diffusion model for breast cancer classification in deep ultraviolet whole surface images](https://arxiv.org/abs/2601.10917v1)** | 2026-01-16 | <details><summary>This ...</summary><p>This paper has been accepted for the IEEE International Symposium on Biomedical Imaging (ISBI) 2026, London, UK, and will be presented in the corresponding session</p></details> |
 | **[Inference-time Physics Alignment of Video Generative Models with Latent World Models](https://arxiv.org/abs/2601.10553v1)** | 2026-01-15 | 22 pages, 10 figures |
 | **[Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement](https://arxiv.org/abs/2601.10373v1)** | 2026-01-15 |  |
 | **[A Geometric Unification of Generative AI with Manifold-Probabilistic Projection Models](https://arxiv.org/abs/2510.00666v2)** | 2026-01-15 |  |
 | **[LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities](https://arxiv.org/abs/2502.12128v5)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project page: https://ml-jku.github.io/LaM-SLidE/</p></details> |
 | **[LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning](https://arxiv.org/abs/2601.10129v1)** | 2026-01-15 |  |
-| **[NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration](https://arxiv.org/abs/2601.09823v1)** | 2026-01-14 | <details><summary>Submi...</summary><p>Submitted to CVPR 2026</p></details> |
 | **[PhyRPR: Training-Free Physics-Constrained Video Generation](https://arxiv.org/abs/2601.09255v1)** | 2026-01-14 |  |
 | **[SpikeVAEDiff: Neural Spike-based Natural Visual Scene Reconstruction via VD-VAE and Versatile Diffusion](https://arxiv.org/abs/2601.09213v1)** | 2026-01-14 | Preprint |
 | **[POWDR: Pathology-preserving Outpainting with Wavelet Diffusion for 3D MRI](https://arxiv.org/abs/2601.09044v1)** | 2026-01-14 |  |
 | **[Universal Latent Homeomorphic Manifolds: Cross-Domain Representation Learning via Homeomorphism Verification](https://arxiv.org/abs/2601.09025v1)** | 2026-01-13 |  |
 | **[RAVEN: Erasing Invisible Watermarks via Novel View Synthesis](https://arxiv.org/abs/2601.08832v1)** | 2026-01-13 | 13 pages |
 | **[DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning](https://arxiv.org/abs/2506.09644v2)** | 2026-01-13 |  |
-| **[SafeRedir: Prompt Embedding Redirection for Robust Unlearning in Image Generation Models](https://arxiv.org/abs/2601.08623v1)** | 2026-01-13 | <details><summary>Code ...</summary><p>Code at https://github.com/ryliu68/SafeRedir</p></details> |
-| **[Latent Reconstruction from Generated Data for Multimodal Misinformation Detection](https://arxiv.org/abs/2504.06010v3)** | 2026-01-13 |  |
-| **[UM-Text: A Unified Multimodal Model for Image Understanding](https://arxiv.org/abs/2601.08321v1)** | 2026-01-13 |  |
-| **[FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models](https://arxiv.org/abs/2601.08246v1)** | 2026-01-13 |  |
-| **[Instruction-Driven 3D Facial Expression Generation and Transition](https://arxiv.org/abs/2601.08179v1)** | 2026-01-13 |  |
-| **[Training Free Zero-Shot Visual Anomaly Localization via Diffusion Inversion](https://arxiv.org/abs/2601.08022v1)** | 2026-01-12 |  |
-| **[Learning Generalizable and Efficient Image Watermarking via Hierarchical Two-Stage Optimization](https://arxiv.org/abs/2508.08667v2)** | 2026-01-12 |  |
-| **[Controlling Multimodal Conversational Agents with Coverage-Enhanced Latent Actions](https://arxiv.org/abs/2601.07516v1)** | 2026-01-12 |  |
 
 ## interleaving
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Channel Autoencoders for Wideband Communications leveraging Walsh-Hadamard interleaving](https://arxiv.org/abs/2601.11407v1)** | 2026-01-16 | 16 pages, 17 figures |
+| **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/abs/2601.02358v2)** | 2026-01-16 | <details><summary>Proje...</summary><p>Project page: https://sotamak1r.github.io/VINO-web/</p></details> |
+| **[FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning](https://arxiv.org/abs/2601.11141v1)** | 2026-01-16 |  |
+| **[Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](https://arxiv.org/abs/2601.11109v1)** | 2026-01-16 |  |
+| **[AdaMARP: An Adaptive Multi-Agent Interaction Framework for General Immersive Role-Playing](https://arxiv.org/abs/2601.11007v1)** | 2026-01-16 |  |
 | **[MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching](https://arxiv.org/abs/2601.10712v1)** | 2026-01-15 |  |
 | **[Global Context Compression with Interleaved Vision-Text Transformation](https://arxiv.org/abs/2601.10378v1)** | 2026-01-15 |  |
 | **[SIN-Bench: Tracing Native Evidence Chains in Long-Context Multimodal Scientific Interleaved Literature](https://arxiv.org/abs/2601.10108v1)** | 2026-01-15 |  |
@@ -70,15 +75,12 @@ labels: documentation
 | **[MEDVISTAGYM: A Scalable Training Environment for Thinking with Medical Images via Tool-Integrated Reinforcement Learning](https://arxiv.org/abs/2601.07107v1)** | 2026-01-12 |  |
 | **[TagSpeech: End-to-End Multi-Speaker ASR and Diarization with Fine-Grained Temporal Grounding](https://arxiv.org/abs/2601.06896v1)** | 2026-01-11 |  |
 | **[PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion](https://arxiv.org/abs/2512.14322v2)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted by HPCA 2026. A more formal version</p></details> |
-| **[Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models](https://arxiv.org/abs/2601.06843v1)** | 2026-01-11 |  |
-| **[A Backpropagation-Free Feedback-Hebbian Network for Continual Learning Dynamics](https://arxiv.org/abs/2601.06758v1)** | 2026-01-11 | 8 pages, 10 figures |
-| **[Approximating Matroid Basis Testing for Partition Matroids using Budget-In-Expectation](https://arxiv.org/abs/2601.06723v1)** | 2026-01-10 | <details><summary>Full ...</summary><p>Full version of SODA 2026 paper</p></details> |
-| **[GRASP LoRA: GRPO Guided Adapter Sparsity Policy for Cross Lingual Transfer](https://arxiv.org/abs/2601.06702v1)** | 2026-01-10 | 12 pages, 3 figures |
-| **[CEDAR: Context Engineering for Agentic Data Science](https://arxiv.org/abs/2601.06606v1)** | 2026-01-10 | <details><summary>Accep...</summary><p>Accepted at ECIR 2026</p></details> |
 
 ## AND:autoregressive unified
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation](https://arxiv.org/abs/2601.11522v1)** | 2026-01-16 | <details><summary>Codes...</summary><p>Codes and models are available at https://github.com/ZrH42/UniX</p></details> |
+| **[Unifying Speech Recognition, Synthesis and Conversion with Autoregressive Transformers](https://arxiv.org/abs/2601.10770v1)** | 2026-01-15 |  |
 | **[Fine-Tuning Diffusion Models via Intermediate Distribution Shaping](https://arxiv.org/abs/2510.02692v2)** | 2026-01-15 |  |
 | **[Spectral Generative Flow Models: A Physics-Inspired Replacement for Vectorized Large Language Models](https://arxiv.org/abs/2601.08893v1)** | 2026-01-13 |  |
 | **[A Hybrid Framework Combining Autoregression and Common Factors for Matrix Time Series](https://arxiv.org/abs/2503.05340v3)** | 2026-01-13 |  |
@@ -97,15 +99,15 @@ labels: documentation
 | **[NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://arxiv.org/abs/2601.02204v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://github.com/ByteVisionLab/NextFlow</p></details> |
 | **[Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better](https://arxiv.org/abs/2506.09040v2)** | 2026-01-05 |  |
 | **[A Training-Free Large Reasoning Model-based Knowledge Tracing Framework for Unified Prediction and Prescription](https://arxiv.org/abs/2601.01708v1)** | 2026-01-05 |  |
-| **[Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training](https://arxiv.org/abs/2512.24125v2)** | 2026-01-01 |  |
-| **[TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model](https://arxiv.org/abs/2601.00051v1)** | 2025-12-31 |  |
 
 ## understanding and generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation](https://arxiv.org/abs/2601.11522v1)** | 2026-01-16 | <details><summary>Codes...</summary><p>Codes and models are available at https://github.com/ZrH42/UniX</p></details> |
+| **[What Makes a Good Speech Tokenizer for LLM-Centric Speech Generation? A Systematic Study](https://arxiv.org/abs/2506.12537v3)** | 2026-01-16 |  |
+| **[AviationLMM: A Large Multimodal Foundation Model for Civil Aviation](https://arxiv.org/abs/2601.09105v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by 2025 7th International Conference on Interdisciplinary Computer Science and Engineering (ICICSE 2025), Chongqing, China; 9 pages,1 figure,5 tables</p></details> |
 | **[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://arxiv.org/abs/2601.10547v1)** | 2026-01-15 |  |
 | **[SPATIALGEN: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/abs/2509.14981v4)** | 2026-01-15 | <details><summary>3D sc...</summary><p>3D scene generation; diffusion model; Scene reconstruction and understanding</p></details> |
-| **[AviationLMM: A Large Multimodal Foundation Model for Civil Aviation](https://arxiv.org/abs/2601.09105v1)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by 2025 7th International Conference on Interdisciplinary Computer Science and Engineering (ICICSE 2025) conference, Chongqing, China; 9 pages,1 figure,5 tables</p></details> |
 | **[UniF$^2$ace: A Unified Fine-grained Face Understanding and Generation Model](https://arxiv.org/abs/2503.08120v5)** | 2026-01-13 |  |
 | **[Towards A Unified PAC-Bayesian Framework for Norm-based Generalization Bounds](https://arxiv.org/abs/2601.08100v1)** | 2026-01-13 |  |
 | **[GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation](https://arxiv.org/abs/2512.23180v2)** | 2026-01-12 |  |
@@ -121,6 +123,4 @@ labels: documentation
 | **[HearSay Benchmark: Do Audio LLMs Leak What They Hear?](https://arxiv.org/abs/2601.03783v1)** | 2026-01-07 |  |
 | **[I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners](https://arxiv.org/abs/2512.13683v2)** | 2026-01-07 |  |
 | **[OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation](https://arxiv.org/abs/2509.25687v3)** | 2026-01-07 |  |
-| **[PALM-Bench: A Comprehensive Benchmark for Personalized Audio-Language Models](https://arxiv.org/abs/2601.03531v1)** | 2026-01-07 | Under review |
-| **[EarthVL: A Progressive Earth Vision-Language Understanding and Generation Framework](https://arxiv.org/abs/2601.02783v1)** | 2026-01-06 |  |
 
