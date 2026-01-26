@@ -31,6 +31,9 @@ labels: documentation
 ## AND:latent image generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SyncLight: Controllable and Consistent Multi-View Relighting](https://arxiv.org/abs/2601.16981v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project page: http://sync-light.github.io</p></details> |
+| **[Task Aware Dreamer for Task Generalization in Reinforcement Learning](https://arxiv.org/abs/2303.05092v5)** | 2026-01-23 |  |
+| **[Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss](https://arxiv.org/abs/2601.16645v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
 | **[Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders](https://arxiv.org/abs/2601.16208v1)** | 2026-01-22 | <details><summary>websi...</summary><p>website: https://rae-dit.github.io/scale-rae/</p></details> |
 | **[360Anything: Geometry-Free Lifting of Images and Videos to 360°](https://arxiv.org/abs/2601.16192v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project page: https://360anything.github.io/</p></details> |
 | **[Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163v1)** | 2026-01-22 |  |
@@ -48,13 +51,13 @@ labels: documentation
 | **[Extendable Generalization Self-Supervised Diffusion for Low-Dose CT Reconstruction](https://arxiv.org/abs/2509.23885v3)** | 2026-01-21 |  |
 | **[Interleaved Latent Visual Reasoning with Selective Perceptual Modeling](https://arxiv.org/abs/2512.05665v3)** | 2026-01-21 | <details><summary>18 pa...</summary><p>18 pages, 11 figures. Code available at https://github.com/XD111ds/ILVR</p></details> |
 | **[Anatomically Guided Latent Diffusion for Brain MRI Progression Modeling](https://arxiv.org/abs/2601.14584v1)** | 2026-01-21 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
-| **[GenPTW: Latent Image Watermarking for Provenance Tracing and Tamper Localization](https://arxiv.org/abs/2504.19567v2)** | 2026-01-21 |  |
-| **[Implicit Neural Representation Facilitates Unified Universal Vision Encoding](https://arxiv.org/abs/2601.14256v1)** | 2026-01-20 | <details><summary>18 pa...</summary><p>18 pages, 16 tables, 4 figures</p></details> |
-| **[Feature-Aware Test Generation for Deep Learning Models](https://arxiv.org/abs/2601.14081v1)** | 2026-01-20 |  |
 
 ## interleaving
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://arxiv.org/abs/2601.03054v2)** | 2026-01-23 |  |
+| **[Unified Multimodal Interleaved Document Representation for Retrieval](https://arxiv.org/abs/2410.02729v3)** | 2026-01-23 | EACL Findings 2026 |
+| **[Compositional Verification of Concurrency Using Past-Time Temporal Epistemic Logic](https://arxiv.org/abs/2502.18885v2)** | 2026-01-22 |  |
 | **[VideoThinker: Building Agentic VideoLLMs with LLM-Guided Tool Reasoning](https://arxiv.org/abs/2601.15724v1)** | 2026-01-22 |  |
 | **[Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](https://arxiv.org/abs/2601.11109v2)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project page: https://fugtemypt123.github.io/VIGA-website/</p></details> |
 | **[NetSSM: Multi-Flow and State-Aware Network Trace Generation using State Space Models](https://arxiv.org/abs/2503.22663v3)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to PACMNET V4, CoNEXT1, March 2026 Issue</p></details> |
@@ -72,13 +75,13 @@ labels: documentation
 | **[Neurosymbolic LoRA: Why and When to Tune Weights vs. Rewrite Prompts](https://arxiv.org/abs/2601.12711v1)** | 2026-01-19 |  |
 | **[Bridging Expressivity and Scalability with Adaptive Unitary SSMs](https://arxiv.org/abs/2507.05238v3)** | 2026-01-18 |  |
 | **[How Clinicians Think and What AI Can Learn From It](https://arxiv.org/abs/2601.12547v1)** | 2026-01-18 | 34 pages |
-| **[STAGE: A Benchmark for Knowledge Graph Construction, Question Answering, and In-Script Role-Playing over Movie Screenplays](https://arxiv.org/abs/2601.08510v2)** | 2026-01-18 | 66 pages, 9 figures |
-| **[CD-PIM: A High-Bandwidth and Compute-Efficient LPDDR5-Based PIM for Low-Batch LLM Acceleration on Edge-Device](https://arxiv.org/abs/2601.12298v1)** | 2026-01-18 | <details><summary>To ap...</summary><p>To appear in 2026 Design, Automation and Test in Europe Conference (DATE 2026)</p></details> |
-| **[On the Construction and Correlation Properties of Permutation-Interleaved Zadoff-Chu Sequences](https://arxiv.org/abs/2601.12107v1)** | 2026-01-17 |  |
 
 ## AND:autoregressive unified
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Auto-Regressive Masked Diffusion Models](https://arxiv.org/abs/2601.16971v1)** | 2026-01-23 |  |
+| **[PRISM: Purified Representation and Integrated Semantic Modeling for Generative Sequential Recommendation](https://arxiv.org/abs/2601.16556v1)** | 2026-01-23 |  |
+| **[Spherical Spatial Autoregressive Model for Spherically Embedded Spatial Data](https://arxiv.org/abs/2601.16385v1)** | 2026-01-23 |  |
 | **[Learning to Watermark in the Latent Space of Generative Models](https://arxiv.org/abs/2601.16140v1)** | 2026-01-22 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/facebookresearch/distseal</p></details> |
 | **[Spectral Generative Flow Models: A Physics-Inspired Replacement for Vectorized Large Language Models](https://arxiv.org/abs/2601.08893v2)** | 2026-01-21 |  |
 | **[The $α$--regression for compositional data: a unified framework for standard, spatially-lagged, spatial autoregressive and geographically-weighted regression models](https://arxiv.org/abs/2510.12663v3)** | 2026-01-21 |  |
@@ -96,9 +99,6 @@ labels: documentation
 | **[Agents of Diffusion: Enhancing Diffusion Language Models with Multi-Agent Reinforcement Learning for Structured Data Generation (Extended Version)](https://arxiv.org/abs/2601.07152v1)** | 2026-01-12 |  |
 | **[Exploring Synthesizable Chemical Space with Iterative Pathway Refinements](https://arxiv.org/abs/2509.16084v2)** | 2026-01-10 |  |
 | **[AGDC: Autoregressive Generation of Variable-Length Sequences with Joint Discrete and Continuous Spaces](https://arxiv.org/abs/2601.05680v1)** | 2026-01-09 |  |
-| **[Transformer Is Inherently a Causal Learner](https://arxiv.org/abs/2601.05647v1)** | 2026-01-09 |  |
-| **[PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache](https://arxiv.org/abs/2601.04359v1)** | 2026-01-07 |  |
-| **[Bridging the Discrete-Continuous Gap: Unified Multimodal Generation via Coupled Manifold Discrete Absorbing Diffusion](https://arxiv.org/abs/2601.04056v1)** | 2026-01-07 | 10 pages, 5 figures |
 
 ## understanding and generation
 | **Title** | **Date** | **Comment** |
