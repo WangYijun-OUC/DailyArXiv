@@ -7,6 +7,10 @@ labels: documentation
 ## AND:reinforced learning autoregressive
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](https://arxiv.org/abs/2412.11439v5)** | 2026-02-16 | <details><summary>34 pa...</summary><p>34 pages, 14 figures, 8 tables</p></details> |
+| **[Fast Graph Generation via Autoregressive Noisy Filtration Modeling](https://arxiv.org/abs/2502.02415v2)** | 2026-02-15 |  |
+| **[QuRL: Efficient Reinforcement Learning with Quantized Rollout](https://arxiv.org/abs/2602.13953v1)** | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Deep Generative Models in Condition and Structural Health Monitoring: Opportunities, Limitations and Future Outlook](https://arxiv.org/abs/2507.15026v3)** | 2026-02-14 | 70 pages |
 | **[Designing RNAs with Language Models](https://arxiv.org/abs/2602.12470v1)** | 2026-02-12 |  |
 | **[Think Longer to Explore Deeper: Learn to Explore In-Context via Length-Incentivized Reinforcement Learning](https://arxiv.org/abs/2602.11748v1)** | 2026-02-12 |  |
 | **[DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels](https://arxiv.org/abs/2602.11715v1)** | 2026-02-12 |  |
@@ -23,14 +27,22 @@ labels: documentation
 | **[ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705v1)** | 2026-02-04 |  |
 | **[Understanding Degradation with Vision Language Model](https://arxiv.org/abs/2602.04565v1)** | 2026-02-04 | 17 pages |
 | **[SymPlex: A Structure-Aware Transformer for Symbolic PDE Solving](https://arxiv.org/abs/2602.03816v1)** | 2026-02-03 | 27 pages |
-| **[Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL](https://arxiv.org/abs/2602.03773v1)** | 2026-02-03 | preprint |
-| **[Chain-of-Goals Hierarchical Policy for Long-Horizon Offline Goal-Conditioned RL](https://arxiv.org/abs/2602.03389v1)** | 2026-02-03 | 22 pages |
-| **[MapDream: Task-Driven Map Learning for Vision-Language Navigation](https://arxiv.org/abs/2602.00222v2)** | 2026-02-03 |  |
-| **[Reinforcement Learning Meets Masked Generative Models: Mask-GRPO for Text-to-Image Generation](https://arxiv.org/abs/2510.13418v2)** | 2026-02-02 |  |
 
 ## AND:latent image generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Image Generation with a Sphere Encoder](https://arxiv.org/abs/2602.15030v1)** | 2026-02-16 | Technical report |
+| **[PAct: Part-Decomposed Single-View Articulated Object Generation](https://arxiv.org/abs/2602.14965v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report(11 figures, 14 pages), Project Page: https://PAct-project.github.io</p></details> |
+| **[CoCoDiff: Correspondence-Consistent Diffusion Model for Fine-grained Style Transfer](https://arxiv.org/abs/2602.14464v1)** | 2026-02-16 |  |
+| **[UniRef-Image-Edit: Towards Scalable and Consistent Multi-Reference Image Editing](https://arxiv.org/abs/2602.14186v1)** | 2026-02-15 |  |
+| **[Critic-Guided Reinforcement Unlearning in Text-to-Image Diffusion](https://arxiv.org/abs/2601.03213v3)** | 2026-02-15 | Preprint |
+| **[BitDance: Scaling Autoregressive Generative Models with Binary Tokens](https://arxiv.org/abs/2602.14041v1)** | 2026-02-15 | <details><summary>Code ...</summary><p>Code and models: https://github.com/shallowdream204/BitDance</p></details> |
+| **[Consistent text-to-image generation via scene de-contextualization](https://arxiv.org/abs/2510.14553v2)** | 2026-02-15 | <details><summary>This ...</summary><p>This paper is accepted by ICLR 2026</p></details> |
+| **[Elastic Diffusion Transformer](https://arxiv.org/abs/2602.13993v1)** | 2026-02-15 |  |
+| **[OneLatent: Single-Token Compression for Visual Latent Reasoning](https://arxiv.org/abs/2602.13738v1)** | 2026-02-14 |  |
+| **[Generative Latent Representations of 3D Brain MRI for Multi-Task Downstream Analysis in Down Syndrome](https://arxiv.org/abs/2602.13731v1)** | 2026-02-14 |  |
+| **[Latent Denoising Makes Good Tokenizers](https://arxiv.org/abs/2507.15856v2)** | 2026-02-14 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/Jiawei-Yang/DeTok</p></details> |
+| **[Learning Patient-Specific Disease Dynamics with Latent Flow Matching for Longitudinal Imaging Generation](https://arxiv.org/abs/2512.09185v3)** | 2026-02-13 | ICLR 2026 accepted |
 | **[Post-hoc Probabilistic Vision-Language Models](https://arxiv.org/abs/2412.06014v5)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at ICLR 2026. Project page: https://aaltoml.github.io/BayesVLM/</p></details> |
 | **[PuYun-LDM: A Latent Diffusion Model for High-Resolution Ensemble Weather Forecasts](https://arxiv.org/abs/2602.11807v2)** | 2026-02-13 |  |
 | **[ImageRAGTurbo: Towards One-step Text-to-Image Generation with Retrieval-Augmented Diffusion Models](https://arxiv.org/abs/2602.12640v1)** | 2026-02-13 | 11 pages, 7 figures |
@@ -39,24 +51,18 @@ labels: documentation
 | **[EO-VAE: Towards A Multi-sensor Tokenizer for Earth Observation Data](https://arxiv.org/abs/2602.12177v1)** | 2026-02-12 |  |
 | **[Inspiration Seeds: Learning Non-Literal Visual Combinations for Generative Exploration](https://arxiv.org/abs/2602.08615v2)** | 2026-02-12 | <details><summary>Proje...</summary><p>Project page available at https://inspirationseedspaper.github.io/InspirationSeeds/</p></details> |
 | **[TAVAE: A VAE with Adaptable Priors Explains Contextual Modulation in the Visual Cortex](https://arxiv.org/abs/2602.11956v1)** | 2026-02-12 | ICLR 2026 |
-| **[Synthesis of Late Gadolinium Enhancement Images via Implicit Neural Representations for Cardiac Scar Segmentation](https://arxiv.org/abs/2602.11942v1)** | 2026-02-12 | <details><summary>Paper...</summary><p>Paper accepted at SPIE Medical Imaging 2026 Conference</p></details> |
-| **[Improving the Plausibility of Pressure Distributions Synthesized from Depth Image through Generative Modeling](https://arxiv.org/abs/2512.13757v2)** | 2026-02-12 |  |
-| **[Light4D: Training-Free Extreme Viewpoint 4D Video Relighting](https://arxiv.org/abs/2602.11769v1)** | 2026-02-12 |  |
-| **[Adapting Vision-Language Models for E-commerce Understanding at Scale](https://arxiv.org/abs/2602.11733v1)** | 2026-02-12 |  |
-| **[Semantically Conditioned Diffusion Models for Cerebral DSA Synthesis](https://arxiv.org/abs/2602.11703v1)** | 2026-02-12 |  |
-| **[PLOT-CT: Pre-log Voronoi Decomposition Assisted Generation for Low-dose CT Reconstruction](https://arxiv.org/abs/2602.11625v1)** | 2026-02-12 |  |
-| **[Perception-based Image Denoising via Generative Compression](https://arxiv.org/abs/2602.11553v1)** | 2026-02-12 |  |
-| **[Improving Efficiency of Diffusion Models via Multi-Stage Framework and Tailored Multi-Decoder Architectures](https://arxiv.org/abs/2312.09181v5)** | 2026-02-12 | <details><summary>The I...</summary><p>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</p></details> |
-| **[The Determinism of Randomness: Latent Space Degeneracy in Diffusion Model](https://arxiv.org/abs/2511.07756v3)** | 2026-02-12 |  |
-| **[SUGAR: A Sweeter Spot for Generative Unlearning of Many Identities](https://arxiv.org/abs/2512.06562v2)** | 2026-02-12 | <details><summary>IEEE/...</summary><p>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
-| **[Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](https://arxiv.org/abs/2602.11401v1)** | 2026-02-11 | 8 pages, 6 figures |
-| **[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](https://arxiv.org/abs/2602.11146v1)** | 2026-02-11 | <details><summary>Code:...</summary><p>Code: https://github.com/HKUST-C4G/diffusion-rm</p></details> |
 
 ## interleaving
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning State-Tracking from Code Using Linear RNNs](https://arxiv.org/abs/2602.14814v1)** | 2026-02-16 |  |
+| **[Geometric Characterization of Context-Free Intersections via the Inner Segment Dichotomy](https://arxiv.org/abs/2602.14722v1)** | 2026-02-16 | <details><summary>44 pa...</summary><p>44 pages, 4 figures, 1 table</p></details> |
+| **[Efficient Multi-round LLM Inference over Disaggregated Serving](https://arxiv.org/abs/2602.14516v1)** | 2026-02-16 |  |
+| **[Reliable Thinking with Images](https://arxiv.org/abs/2602.12916v2)** | 2026-02-16 | 26 pages, 19 figures |
+| **[CORPGEN: Simulating Corporate Environments with Autonomous Digital Employees in Multi-Horizon Task Environments](https://arxiv.org/abs/2602.14229v1)** | 2026-02-15 |  |
+| **[Neuromem: A Granular Decomposition of the Streaming Lifecycle in External Memory for LLMs](https://arxiv.org/abs/2602.13967v1)** | 2026-02-15 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 15 tables. Preprint</p></details> |
+| **[MRMR: A Realistic and Expert-Level Multidisciplinary Benchmark for Reasoning-Intensive Multimodal Retrieval](https://arxiv.org/abs/2510.09510v2)** | 2026-02-14 |  |
 | **[Effective Task Planning with Missing Objects using Learning-Informed Object Search](https://arxiv.org/abs/2602.11468v2)** | 2026-02-13 |  |
-| **[Reliable Thinking with Images](https://arxiv.org/abs/2602.12916v1)** | 2026-02-13 | 26 pages, 19 figures |
 | **[BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2602.12876v1)** | 2026-02-13 |  |
 | **[Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Chest X-ray Interpretation](https://arxiv.org/abs/2602.12843v1)** | 2026-02-13 |  |
 | **[Asynchronous Composition of LTL Properties over Infinite and Finite Traces](https://arxiv.org/abs/2312.14831v5)** | 2026-02-13 |  |
@@ -69,16 +75,12 @@ labels: documentation
 | **[IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://arxiv.org/abs/2601.03054v3)** | 2026-02-12 |  |
 | **[Cachemir: Fully Homomorphic Encrypted Inference of Generative Large Language Model with KV Cache](https://arxiv.org/abs/2602.11470v1)** | 2026-02-12 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 6 tables. Under review</p></details> |
 | **[MambaFusion: Adaptive State-Space Fusion for Multimodal 3D Object Detection](https://arxiv.org/abs/2602.08126v2)** | 2026-02-12 |  |
-| **[Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://arxiv.org/abs/2602.10604v1)** | 2026-02-11 | <details><summary>Techn...</summary><p>Technical report for Step 3.5 Flash</p></details> |
-| **[Scaling Routers with In-Package Optics and High-Bandwidth Memories](https://arxiv.org/abs/2602.10505v1)** | 2026-02-11 |  |
-| **[Canvas-of-Thought: Grounding Reasoning via Mutable Structured States](https://arxiv.org/abs/2602.10494v1)** | 2026-02-11 |  |
-| **[BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation](https://arxiv.org/abs/2602.09849v2)** | 2026-02-11 |  |
-| **[Computing Least Fixed Points with Overwrite Semantics in Parallel and Distributed Systems](https://arxiv.org/abs/2602.10486v1)** | 2026-02-11 |  |
-| **[Towards Efficient Speech-Text Jointly Decoding within One Speech Language Model](https://arxiv.org/abs/2506.04518v3)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted by ASRU 2025</p></details> |
 
 ## AND:autoregressive unified
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Query as Anchor: Scenario-Adaptive User Representation via Large Language Model](https://arxiv.org/abs/2602.14492v1)** | 2026-02-16 | 15 pages, 12 figures |
+| **[Adapting VACE for Real-Time Autoregressive Video Diffusion](https://arxiv.org/abs/2602.14381v1)** | 2026-02-16 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 7 tables</p></details> |
 | **[RADAR: Revealing Asymmetric Development of Abilities in MLLM Pre-training](https://arxiv.org/abs/2602.12892v1)** | 2026-02-13 |  |
 | **[Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures](https://arxiv.org/abs/2602.09600v2)** | 2026-02-13 |  |
 | **[HyperMLP: An Integrated Perspective for Sequence Modeling](https://arxiv.org/abs/2602.12601v1)** | 2026-02-13 |  |
@@ -97,12 +99,14 @@ labels: documentation
 | **[PairUni: Pairwise Training for Unified Multimodal Language Models](https://arxiv.org/abs/2510.25682v3)** | 2026-02-08 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, and 10 tables</p></details> |
 | **[StreamVLA: Breaking the Reason-Act Cycle via Completion-State Gating](https://arxiv.org/abs/2602.01100v2)** | 2026-02-07 |  |
 | **[TLC-Plan: A Two-Level Codebook Based Network for End-to-End Vector Floorplan Generation](https://arxiv.org/abs/2602.07100v1)** | 2026-02-06 |  |
-| **[DiMo: Discrete Diffusion Modeling for Motion Generation and Understanding](https://arxiv.org/abs/2602.04188v2)** | 2026-02-06 |  |
-| **[SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs](https://arxiv.org/abs/2602.06040v1)** | 2026-02-05 | <details><summary>Proje...</summary><p>Project Page: https://accio-lab.github.io/SwimBird</p></details> |
 
 ## understanding and generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MoRL: Reinforced Reasoning for Unified Motion Understanding and Generation](https://arxiv.org/abs/2602.14534v1)** | 2026-02-16 |  |
+| **[How Interest-Driven Content Creation Shapes Opportunities for Informal Learning in Scratch: A Case Study on Novices' Use of Data Structures](https://arxiv.org/abs/2203.11479v2)** | 2026-02-16 | <details><summary>Ruiji...</summary><p>Ruijia Cheng, Sayamindu Dasgupta, and Benjamin Mako Hill. 2022. How Interest-Driven Content Creation Shapes Opportunities for Informal Learning in Scratch: A Case Study on Novices' Use of Data Structures. In CHI Conference on Human Factors in Computing Systems (CHI '22), April 29-May 5, 2022, New Orleans, LA, USA. ACM, New York, NY, USA, 16 pages</p></details> |
+| **[UniWeTok: An Unified Binary Tokenizer with Codebook Size $\mathit{2^{128}}$ for Unified Multimodal Large Language Model](https://arxiv.org/abs/2602.14178v1)** | 2026-02-15 | <details><summary>29 pa...</summary><p>29 pages, 9 figures, 33 tables</p></details> |
+| **[LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models](https://arxiv.org/abs/2602.14147v1)** | 2026-02-15 | 28 pages, 11 figures |
 | **[LLaMo: Scaling Pretrained Language Models for Unified Motion Understanding and Generation with Continuous Autoregressive Tokens](https://arxiv.org/abs/2602.12370v1)** | 2026-02-12 | <details><summary>Proje...</summary><p>Project page: https://kunkun0w0.github.io/project/LLaMo/</p></details> |
 | **[UniT: Unified Multimodal Chain-of-Thought Test-time Scaling](https://arxiv.org/abs/2602.12279v1)** | 2026-02-12 |  |
 | **[Best of Both Worlds: Multimodal Reasoning and Generation via Unified Discrete Flow Matching](https://arxiv.org/abs/2602.12221v1)** | 2026-02-12 |  |
@@ -119,8 +123,4 @@ labels: documentation
 | **[MieDB-100k: A Comprehensive Dataset for Medical Image Editing](https://arxiv.org/abs/2602.09587v1)** | 2026-02-10 |  |
 | **[Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions](https://arxiv.org/abs/2602.09483v1)** | 2026-02-10 |  |
 | **[Scaffolding Metacognition with GenAI: Exploring Design Opportunities to Support Task Management for University Students with ADHD](https://arxiv.org/abs/2602.09381v1)** | 2026-02-10 | <details><summary>17 pa...</summary><p>17 pages excluding reference and appendix. To appear in the Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)</p></details> |
-| **[ViT-5: Vision Transformers for The Mid-2020s](https://arxiv.org/abs/2602.08071v1)** | 2026-02-08 | <details><summary>Code ...</summary><p>Code is available at https://github.com/wangf3014/ViT-5</p></details> |
-| **[Tree Search for Language Model Agents](https://arxiv.org/abs/2407.01476v4)** | 2026-02-08 | <details><summary>13 pa...</summary><p>13 pages. Models and code available at https://jykoh.com/search-agents</p></details> |
-| **[PairUni: Pairwise Training for Unified Multimodal Language Models](https://arxiv.org/abs/2510.25682v3)** | 2026-02-08 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, and 10 tables</p></details> |
-| **[Rethinking Code Complexity Through the Lens of Large Language Models](https://arxiv.org/abs/2602.07882v1)** | 2026-02-08 |  |
 
