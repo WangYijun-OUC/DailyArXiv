@@ -31,6 +31,9 @@ labels: documentation
 ## AND:latent image generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge](https://arxiv.org/abs/2602.16664v1)** | 2026-02-18 | 36 pages |
+| **[Style-Aware Gloss Control for Generative Non-Photorealistic Rendering](https://arxiv.org/abs/2602.16611v1)** | 2026-02-18 |  |
+| **[LGQ: Learning Discretization Geometry for Scalable and Stable Image Tokenization](https://arxiv.org/abs/2602.16086v1)** | 2026-02-17 |  |
 | **[Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers](https://arxiv.org/abs/2602.06886v2)** | 2026-02-17 | 18 pages |
 | **[Latent Regularization in Generative Test Input Generation](https://arxiv.org/abs/2602.15552v1)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted for publication at the 7th International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest 2026), co-located with ICSE 2026</p></details> |
 | **[LEADER: Lightweight End-to-End Attention-Gated Dual Autoencoder for Robust Minutiae Extraction](https://arxiv.org/abs/2602.15493v1)** | 2026-02-17 |  |
@@ -48,13 +51,14 @@ labels: documentation
 | **[Critic-Guided Reinforcement Unlearning in Text-to-Image Diffusion](https://arxiv.org/abs/2601.03213v3)** | 2026-02-15 | Preprint |
 | **[BitDance: Scaling Autoregressive Generative Models with Binary Tokens](https://arxiv.org/abs/2602.14041v1)** | 2026-02-15 | <details><summary>Code ...</summary><p>Code and models: https://github.com/shallowdream204/BitDance</p></details> |
 | **[Consistent text-to-image generation via scene de-contextualization](https://arxiv.org/abs/2510.14553v2)** | 2026-02-15 | <details><summary>This ...</summary><p>This paper is accepted by ICLR 2026</p></details> |
-| **[Elastic Diffusion Transformer](https://arxiv.org/abs/2602.13993v1)** | 2026-02-15 |  |
-| **[OneLatent: Single-Token Compression for Visual Latent Reasoning](https://arxiv.org/abs/2602.13738v1)** | 2026-02-14 |  |
-| **[Generative Latent Representations of 3D Brain MRI for Multi-Task Downstream Analysis in Down Syndrome](https://arxiv.org/abs/2602.13731v1)** | 2026-02-14 |  |
 
 ## interleaving
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707v1)** | 2026-02-18 |  |
+| **[Scaling Open Discrete Audio Foundation Models with Interleaved Semantic, Acoustic, and Text Tokens](https://arxiv.org/abs/2602.16687v1)** | 2026-02-18 |  |
+| **[Cocoa: Co-Planning and Co-Execution with AI Agents](https://arxiv.org/abs/2412.10999v4)** | 2026-02-18 | CHI 2026 paper |
+| **[DocSplit: A Comprehensive Benchmark Dataset and Evaluation Approach for Document Packet Recognition and Splitting](https://arxiv.org/abs/2602.15958v1)** | 2026-02-17 |  |
 | **[Algorithmic differentiation for domain specific languages in C++ with expression templates](https://arxiv.org/abs/2602.15613v1)** | 2026-02-17 | <details><summary>14 pa...</summary><p>14 pages, 14 figures,</p></details> |
 | **[Learning State-Tracking from Code Using Linear RNNs](https://arxiv.org/abs/2602.14814v1)** | 2026-02-16 |  |
 | **[Geometric Characterization of Context-Free Intersections via the Inner Segment Dichotomy](https://arxiv.org/abs/2602.14722v1)** | 2026-02-16 | <details><summary>44 pa...</summary><p>44 pages, 4 figures, 1 table</p></details> |
@@ -71,10 +75,6 @@ labels: documentation
 | **[The Power of Shallow-depth Toffoli and Qudit Quantum Circuits](https://arxiv.org/abs/2404.18104v2)** | 2026-02-12 |  |
 | **[OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL](https://arxiv.org/abs/2602.10687v2)** | 2026-02-12 | <details><summary>38 pa...</summary><p>38 pages, DeepFake Detection</p></details> |
 | **[An Improved FPT Algorithm for Computing the Interleaving Distance between Merge Trees via Path-Preserving Maps](https://arxiv.org/abs/2602.12028v1)** | 2026-02-12 | 42 pages |
-| **[Spatial Chain-of-Thought: Bridging Understanding and Generation Models for Spatial Reasoning Generation](https://arxiv.org/abs/2602.11980v1)** | 2026-02-12 | 19 pages, 4 figures |
-| **[Echo: Towards Advanced Audio Comprehension via Audio-Interleaved Reasoning](https://arxiv.org/abs/2602.11909v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://arxiv.org/abs/2601.03054v3)** | 2026-02-12 |  |
-| **[Cachemir: Fully Homomorphic Encrypted Inference of Generative Large Language Model with KV Cache](https://arxiv.org/abs/2602.11470v1)** | 2026-02-12 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 6 tables. Under review</p></details> |
 
 ## AND:autoregressive unified
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,7 @@ labels: documentation
 ## understanding and generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DataCube: A Video Retrieval Platform via Natural Language Semantic Profiling](https://arxiv.org/abs/2602.16231v1)** | 2026-02-18 | <details><summary>This ...</summary><p>This paper is under review for the IJCAI-ECAI 2026 Demonstrations Track</p></details> |
 | **[Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models](https://arxiv.org/abs/2602.15772v1)** | 2026-02-17 | Accepted to ICLR2026 |
 | **[MoRL: Reinforced Reasoning for Unified Motion Understanding and Generation](https://arxiv.org/abs/2602.14534v1)** | 2026-02-16 |  |
 | **[How Interest-Driven Content Creation Shapes Opportunities for Informal Learning in Scratch: A Case Study on Novices' Use of Data Structures](https://arxiv.org/abs/2203.11479v2)** | 2026-02-16 | <details><summary>Ruiji...</summary><p>Ruijia Cheng, Sayamindu Dasgupta, and Benjamin Mako Hill. 2022. How Interest-Driven Content Creation Shapes Opportunities for Informal Learning in Scratch: A Case Study on Novices' Use of Data Structures. In CHI Conference on Human Factors in Computing Systems (CHI '22), April 29-May 5, 2022, New Orleans, LA, USA. ACM, New York, NY, USA, 16 pages</p></details> |
@@ -122,5 +123,4 @@ labels: documentation
 | **[MILR: Improving Multimodal Image Generation via Test-Time Latent Reasoning](https://arxiv.org/abs/2509.22761v3)** | 2026-02-10 | <details><summary>21 pa...</summary><p>21 pages,14 figures,9 tables</p></details> |
 | **[What Should Feature Distillation Transfer in LLMs? A Task-Tangent Geometry View](https://arxiv.org/abs/2507.10155v3)** | 2026-02-10 |  |
 | **[MieDB-100k: A Comprehensive Dataset for Medical Image Editing](https://arxiv.org/abs/2602.09587v1)** | 2026-02-10 |  |
-| **[Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions](https://arxiv.org/abs/2602.09483v1)** | 2026-02-10 |  |
 
