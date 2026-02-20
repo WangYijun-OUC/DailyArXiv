@@ -7,6 +7,7 @@ labels: documentation
 ## AND:reinforced learning autoregressive
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training Large Reasoning Models Efficiently via Progressive Thought Encoding](https://arxiv.org/abs/2602.16839v1)** | 2026-02-18 | ICLR 2026, 15 pages |
 | **[Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](https://arxiv.org/abs/2412.11439v5)** | 2026-02-16 | <details><summary>34 pa...</summary><p>34 pages, 14 figures, 8 tables</p></details> |
 | **[Fast Graph Generation via Autoregressive Noisy Filtration Modeling](https://arxiv.org/abs/2502.02415v2)** | 2026-02-15 |  |
 | **[QuRL: Efficient Reinforcement Learning with Quantized Rollout](https://arxiv.org/abs/2602.13953v1)** | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
@@ -26,13 +27,18 @@ labels: documentation
 | **[Skin Tokens: A Learned Compact Representation for Unified Autoregressive Rigging](https://arxiv.org/abs/2602.04805v1)** | 2026-02-04 | 14 pages, 10 figures |
 | **[ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705v1)** | 2026-02-04 |  |
 | **[Understanding Degradation with Vision Language Model](https://arxiv.org/abs/2602.04565v1)** | 2026-02-04 | 17 pages |
-| **[SymPlex: A Structure-Aware Transformer for Symbolic PDE Solving](https://arxiv.org/abs/2602.03816v1)** | 2026-02-03 | 27 pages |
 
 ## AND:latent image generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contrastive Diffusion Alignment: Learning Structured Latents for Controllable Generation](https://arxiv.org/abs/2510.14190v2)** | 2026-02-19 |  |
+| **[Art2Mus: Artwork-to-Music Generation via Visual Conditioning and Large-Scale Cross-Modal Alignment](https://arxiv.org/abs/2602.17599v1)** | 2026-02-19 |  |
+| **[A Contrastive Variational AutoEncoder for NSCLC Survival Prediction with Missing Modalities](https://arxiv.org/abs/2602.17402v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted at The 13th IEEE International Conference on Big Data (IEEE BigData 2025)</p></details> |
+| **[Physics Encoded Spatial and Temporal Generative Adversarial Network for Tropical Cyclone Image Super-resolution](https://arxiv.org/abs/2602.17277v1)** | 2026-02-19 | Under review |
+| **[Style-Aware Gloss Control for Generative Non-Photorealistic Rendering](https://arxiv.org/abs/2602.16611v2)** | 2026-02-19 |  |
+| **[VP-VAE: Rethinking Vector Quantization via Adaptive Vector Perturbation](https://arxiv.org/abs/2602.17133v1)** | 2026-02-19 |  |
+| **[PartRAG: Retrieval-Augmented Part-Level 3D Generation and Editing](https://arxiv.org/abs/2602.17033v1)** | 2026-02-19 |  |
 | **[Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge](https://arxiv.org/abs/2602.16664v1)** | 2026-02-18 | 36 pages |
-| **[Style-Aware Gloss Control for Generative Non-Photorealistic Rendering](https://arxiv.org/abs/2602.16611v1)** | 2026-02-18 |  |
 | **[LGQ: Learning Discretization Geometry for Scalable and Stable Image Tokenization](https://arxiv.org/abs/2602.16086v1)** | 2026-02-17 |  |
 | **[Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers](https://arxiv.org/abs/2602.06886v2)** | 2026-02-17 | 18 pages |
 | **[Latent Regularization in Generative Test Input Generation](https://arxiv.org/abs/2602.15552v1)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted for publication at the 7th International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest 2026), co-located with ICSE 2026</p></details> |
@@ -45,16 +51,16 @@ labels: documentation
 | **[Visual Persuasion: What Influences Decisions of Vision-Language Models?](https://arxiv.org/abs/2602.15278v1)** | 2026-02-17 | 45 pages, 17 figures |
 | **[Efficient Personalization of Generative Models via Optimal Experimental Design](https://arxiv.org/abs/2512.19057v2)** | 2026-02-16 |  |
 | **[Image Generation with a Sphere Encoder](https://arxiv.org/abs/2602.15030v1)** | 2026-02-16 | Technical report |
-| **[PAct: Part-Decomposed Single-View Articulated Object Generation](https://arxiv.org/abs/2602.14965v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report(11 figures, 14 pages), Project Page: https://PAct-project.github.io</p></details> |
-| **[CoCoDiff: Correspondence-Consistent Diffusion Model for Fine-grained Style Transfer](https://arxiv.org/abs/2602.14464v1)** | 2026-02-16 |  |
-| **[UniRef-Image-Edit: Towards Scalable and Consistent Multi-Reference Image Editing](https://arxiv.org/abs/2602.14186v1)** | 2026-02-15 |  |
-| **[Critic-Guided Reinforcement Unlearning in Text-to-Image Diffusion](https://arxiv.org/abs/2601.03213v3)** | 2026-02-15 | Preprint |
-| **[BitDance: Scaling Autoregressive Generative Models with Binary Tokens](https://arxiv.org/abs/2602.14041v1)** | 2026-02-15 | <details><summary>Code ...</summary><p>Code and models: https://github.com/shallowdream204/BitDance</p></details> |
-| **[Consistent text-to-image generation via scene de-contextualization](https://arxiv.org/abs/2510.14553v2)** | 2026-02-15 | <details><summary>This ...</summary><p>This paper is accepted by ICLR 2026</p></details> |
 
 ## interleaving
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting](https://arxiv.org/abs/2602.17634v1)** | 2026-02-19 |  |
+| **[BMC4TimeSec: Verification Of Timed Security Protocols](https://arxiv.org/abs/2602.17590v1)** | 2026-02-19 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), May 25 - 29, 2026, Paphos, Cyprus</p></details> |
+| **[Modeling Distinct Human Interaction in Web Agents](https://arxiv.org/abs/2602.17588v1)** | 2026-02-19 | Preprint |
+| **[All Leaks Count, Some Count More: Interpretable Temporal Contamination Detection in LLM Backtesting](https://arxiv.org/abs/2602.17234v1)** | 2026-02-19 | <details><summary>8 pag...</summary><p>8 pages plus appendix</p></details> |
+| **[Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning](https://arxiv.org/abs/2505.16928v3)** | 2026-02-19 |  |
+| **[Arcee Trinity Large Technical Report](https://arxiv.org/abs/2602.17004v1)** | 2026-02-19 |  |
 | **[E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707v1)** | 2026-02-18 |  |
 | **[Scaling Open Discrete Audio Foundation Models with Interleaved Semantic, Acoustic, and Text Tokens](https://arxiv.org/abs/2602.16687v1)** | 2026-02-18 |  |
 | **[Cocoa: Co-Planning and Co-Execution with AI Agents](https://arxiv.org/abs/2412.10999v4)** | 2026-02-18 | CHI 2026 paper |
@@ -69,12 +75,6 @@ labels: documentation
 | **[MRMR: A Realistic and Expert-Level Multidisciplinary Benchmark for Reasoning-Intensive Multimodal Retrieval](https://arxiv.org/abs/2510.09510v2)** | 2026-02-14 |  |
 | **[Effective Task Planning with Missing Objects using Learning-Informed Object Search](https://arxiv.org/abs/2602.11468v2)** | 2026-02-13 |  |
 | **[BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2602.12876v1)** | 2026-02-13 |  |
-| **[Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Chest X-ray Interpretation](https://arxiv.org/abs/2602.12843v1)** | 2026-02-13 |  |
-| **[Asynchronous Composition of LTL Properties over Infinite and Finite Traces](https://arxiv.org/abs/2312.14831v5)** | 2026-02-13 |  |
-| **[The very dependent recursive structure of iterated parametricity in indexed form](https://arxiv.org/abs/2602.12689v1)** | 2026-02-13 |  |
-| **[The Power of Shallow-depth Toffoli and Qudit Quantum Circuits](https://arxiv.org/abs/2404.18104v2)** | 2026-02-12 |  |
-| **[OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL](https://arxiv.org/abs/2602.10687v2)** | 2026-02-12 | <details><summary>38 pa...</summary><p>38 pages, DeepFake Detection</p></details> |
-| **[An Improved FPT Algorithm for Computing the Interleaving Distance between Merge Trees via Path-Preserving Maps](https://arxiv.org/abs/2602.12028v1)** | 2026-02-12 | 42 pages |
 
 ## AND:autoregressive unified
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,8 @@ labels: documentation
 ## understanding and generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Entropy-Based Data Selection for Language Models](https://arxiv.org/abs/2602.17465v1)** | 2026-02-19 | <details><summary>IEEE ...</summary><p>IEEE Access, 15 pages, 5 figures, 11 tables</p></details> |
+| **[TimeOmni-VL: Unified Models for Time Series Understanding and Generation](https://arxiv.org/abs/2602.17149v1)** | 2026-02-19 |  |
 | **[DataCube: A Video Retrieval Platform via Natural Language Semantic Profiling](https://arxiv.org/abs/2602.16231v1)** | 2026-02-18 | <details><summary>This ...</summary><p>This paper is under review for the IJCAI-ECAI 2026 Demonstrations Track</p></details> |
 | **[Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models](https://arxiv.org/abs/2602.15772v1)** | 2026-02-17 | Accepted to ICLR2026 |
 | **[MoRL: Reinforced Reasoning for Unified Motion Understanding and Generation](https://arxiv.org/abs/2602.14534v1)** | 2026-02-16 |  |
@@ -121,6 +123,4 @@ labels: documentation
 | **[BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation](https://arxiv.org/abs/2602.09849v2)** | 2026-02-11 |  |
 | **[CoRe3D: Collaborative Reasoning as a Foundation for 3D Intelligence](https://arxiv.org/abs/2512.12768v2)** | 2026-02-10 |  |
 | **[MILR: Improving Multimodal Image Generation via Test-Time Latent Reasoning](https://arxiv.org/abs/2509.22761v3)** | 2026-02-10 | <details><summary>21 pa...</summary><p>21 pages,14 figures,9 tables</p></details> |
-| **[What Should Feature Distillation Transfer in LLMs? A Task-Tangent Geometry View](https://arxiv.org/abs/2507.10155v3)** | 2026-02-10 |  |
-| **[MieDB-100k: A Comprehensive Dataset for Medical Image Editing](https://arxiv.org/abs/2602.09587v1)** | 2026-02-10 |  |
 
