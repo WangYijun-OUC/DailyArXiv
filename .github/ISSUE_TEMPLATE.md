@@ -31,6 +31,15 @@ labels: documentation
 ## AND:latent image generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Generative model that uses physical quantities to generate and retrieve solar magnetic active regions](https://arxiv.org/abs/2502.05351v2)** | 2026-02-20 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, accepted for publication in ApJS</p></details> |
+| **[LGQ: Learning Discretization Geometry for Scalable and Stable Image Tokenization](https://arxiv.org/abs/2602.16086v2)** | 2026-02-20 |  |
+| **[Multi-Level Conditioning by Pairing Localized Text and Sketch for Fashion Image Generation](https://arxiv.org/abs/2602.18309v1)** | 2026-02-20 | <details><summary>Proje...</summary><p>Project page: https://intelligolabs.github.io/lots/</p></details> |
+| **[Generative Model via Quantile Assignment](https://arxiv.org/abs/2602.18216v1)** | 2026-02-20 |  |
+| **[Predict to Skip: Linear Multistep Feature Forecasting for Efficient Diffusion Transformers](https://arxiv.org/abs/2602.18093v1)** | 2026-02-20 |  |
+| **[GIFT: A Framework Towards Global Interpretable Faithful Textual Explanations of Vision Classifiers](https://arxiv.org/abs/2411.15605v3)** | 2026-02-20 | <details><summary>TMLR ...</summary><p>TMLR 2026 (featured certification)</p></details> |
+| **[Generative Distribution Embeddings: Lifting autoencoders to the space of distributions for multiscale representation learning](https://arxiv.org/abs/2505.18150v2)** | 2026-02-20 | NeurIPS 2025 |
+| **[MeDUET: Disentangled Unified Pretraining for 3D Medical Image Synthesis and Analysis](https://arxiv.org/abs/2602.17901v1)** | 2026-02-19 |  |
+| **[LGD-Net: Latent-Guided Dual-Stream Network for HER2 Scoring with Task-Specific Domain Knowledge](https://arxiv.org/abs/2602.17793v1)** | 2026-02-19 |  |
 | **[Contrastive Diffusion Alignment: Learning Structured Latents for Controllable Generation](https://arxiv.org/abs/2510.14190v2)** | 2026-02-19 |  |
 | **[Art2Mus: Artwork-to-Music Generation via Visual Conditioning and Large-Scale Cross-Modal Alignment](https://arxiv.org/abs/2602.17599v1)** | 2026-02-19 |  |
 | **[A Contrastive Variational AutoEncoder for NSCLC Survival Prediction with Missing Modalities](https://arxiv.org/abs/2602.17402v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted at The 13th IEEE International Conference on Big Data (IEEE BigData 2025)</p></details> |
@@ -39,22 +48,17 @@ labels: documentation
 | **[VP-VAE: Rethinking Vector Quantization via Adaptive Vector Perturbation](https://arxiv.org/abs/2602.17133v1)** | 2026-02-19 |  |
 | **[PartRAG: Retrieval-Augmented Part-Level 3D Generation and Editing](https://arxiv.org/abs/2602.17033v1)** | 2026-02-19 |  |
 | **[Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge](https://arxiv.org/abs/2602.16664v1)** | 2026-02-18 | 36 pages |
-| **[LGQ: Learning Discretization Geometry for Scalable and Stable Image Tokenization](https://arxiv.org/abs/2602.16086v1)** | 2026-02-17 |  |
 | **[Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers](https://arxiv.org/abs/2602.06886v2)** | 2026-02-17 | 18 pages |
 | **[Latent Regularization in Generative Test Input Generation](https://arxiv.org/abs/2602.15552v1)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted for publication at the 7th International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest 2026), co-located with ICSE 2026</p></details> |
 | **[LEADER: Lightweight End-to-End Attention-Gated Dual Autoencoder for Robust Minutiae Extraction](https://arxiv.org/abs/2602.15493v1)** | 2026-02-17 |  |
-| **[On the Out-of-Distribution Generalization of Reasoning in Multimodal LLMs for Simple Visual Planning Tasks](https://arxiv.org/abs/2602.15460v1)** | 2026-02-17 |  |
-| **[Efficient Semi-Supervised Adversarial Training via Latent Clustering-Based Data Reduction](https://arxiv.org/abs/2501.10466v3)** | 2026-02-17 | <details><summary>Short...</summary><p>Shorter version of this work accepted by NextGenAISafety Workshop at ICML 2024</p></details> |
-| **[Pyramidal Patchification Flow for Visual Generation](https://arxiv.org/abs/2506.23543v2)** | 2026-02-17 | ICLR 2026 |
-| **[GMAIL: Generative Modality Alignment for generated Image Learning](https://arxiv.org/abs/2602.15368v1)** | 2026-02-17 |  |
-| **[Consistency-Preserving Diverse Video Generation](https://arxiv.org/abs/2602.15287v1)** | 2026-02-17 |  |
-| **[Visual Persuasion: What Influences Decisions of Vision-Language Models?](https://arxiv.org/abs/2602.15278v1)** | 2026-02-17 | 45 pages, 17 figures |
-| **[Efficient Personalization of Generative Models via Optimal Experimental Design](https://arxiv.org/abs/2512.19057v2)** | 2026-02-16 |  |
-| **[Image Generation with a Sphere Encoder](https://arxiv.org/abs/2602.15030v1)** | 2026-02-16 | Technical report |
 
 ## interleaving
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SARAH: Spatially Aware Real-time Agentic Humans](https://arxiv.org/abs/2602.18432v1)** | 2026-02-20 | <details><summary>Proje...</summary><p>Project page: https://evonneng.github.io/sarah/</p></details> |
+| **[G-LoG Bi-filtration for Medical Image Classification](https://arxiv.org/abs/2602.18329v1)** | 2026-02-20 |  |
+| **[Cross-Lingual Interleaving for Speech Language Models](https://arxiv.org/abs/2512.01865v2)** | 2026-02-20 |  |
+| **[Neurosymbolic Language Reasoning as Satisfiability Modulo Theory](https://arxiv.org/abs/2602.18095v1)** | 2026-02-20 |  |
 | **[Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting](https://arxiv.org/abs/2602.17634v1)** | 2026-02-19 |  |
 | **[BMC4TimeSec: Verification Of Timed Security Protocols](https://arxiv.org/abs/2602.17590v1)** | 2026-02-19 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), May 25 - 29, 2026, Paphos, Cyprus</p></details> |
 | **[Modeling Distinct Human Interaction in Web Agents](https://arxiv.org/abs/2602.17588v1)** | 2026-02-19 | Preprint |
@@ -71,10 +75,6 @@ labels: documentation
 | **[Efficient Multi-round LLM Inference over Disaggregated Serving](https://arxiv.org/abs/2602.14516v1)** | 2026-02-16 |  |
 | **[Reliable Thinking with Images](https://arxiv.org/abs/2602.12916v2)** | 2026-02-16 | 26 pages, 19 figures |
 | **[CORPGEN: Simulating Corporate Environments with Autonomous Digital Employees in Multi-Horizon Task Environments](https://arxiv.org/abs/2602.14229v1)** | 2026-02-15 |  |
-| **[Neuromem: A Granular Decomposition of the Streaming Lifecycle in External Memory for LLMs](https://arxiv.org/abs/2602.13967v1)** | 2026-02-15 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 15 tables. Preprint</p></details> |
-| **[MRMR: A Realistic and Expert-Level Multidisciplinary Benchmark for Reasoning-Intensive Multimodal Retrieval](https://arxiv.org/abs/2510.09510v2)** | 2026-02-14 |  |
-| **[Effective Task Planning with Missing Objects using Learning-Informed Object Search](https://arxiv.org/abs/2602.11468v2)** | 2026-02-13 |  |
-| **[BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2602.12876v1)** | 2026-02-13 |  |
 
 ## AND:autoregressive unified
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,7 @@ labels: documentation
 ## understanding and generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding the Generalization of Bilevel Programming in Hyperparameter Optimization: A Tale of Bias-Variance Decomposition](https://arxiv.org/abs/2602.17947v1)** | 2026-02-20 |  |
 | **[Entropy-Based Data Selection for Language Models](https://arxiv.org/abs/2602.17465v1)** | 2026-02-19 | <details><summary>IEEE ...</summary><p>IEEE Access, 15 pages, 5 figures, 11 tables</p></details> |
 | **[TimeOmni-VL: Unified Models for Time Series Understanding and Generation](https://arxiv.org/abs/2602.17149v1)** | 2026-02-19 |  |
 | **[DataCube: A Video Retrieval Platform via Natural Language Semantic Profiling](https://arxiv.org/abs/2602.16231v1)** | 2026-02-18 | <details><summary>This ...</summary><p>This paper is under review for the IJCAI-ECAI 2026 Demonstrations Track</p></details> |
@@ -122,5 +123,4 @@ labels: documentation
 | **[SELU: A Software Engineering Language Understanding Benchmark](https://arxiv.org/abs/2506.10833v2)** | 2026-02-11 |  |
 | **[BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation](https://arxiv.org/abs/2602.09849v2)** | 2026-02-11 |  |
 | **[CoRe3D: Collaborative Reasoning as a Foundation for 3D Intelligence](https://arxiv.org/abs/2512.12768v2)** | 2026-02-10 |  |
-| **[MILR: Improving Multimodal Image Generation via Test-Time Latent Reasoning](https://arxiv.org/abs/2509.22761v3)** | 2026-02-10 | <details><summary>21 pa...</summary><p>21 pages,14 figures,9 tables</p></details> |
 
