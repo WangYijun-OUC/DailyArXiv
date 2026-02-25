@@ -7,6 +7,8 @@ labels: documentation
 ## AND:reinforced learning autoregressive
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safe Reinforcement Learning for Real-World Engine Control](https://arxiv.org/abs/2501.16613v2)** | 2026-02-24 |  |
+| **[TrajGPT-R: Generating Urban Mobility Trajectory with Reinforcement Learning-Enhanced Generative Pre-trained Transformer](https://arxiv.org/abs/2602.20643v1)** | 2026-02-24 | <details><summary>TrajG...</summary><p>TrajGPT-R is a Reinforcement Learning-Enhanced Generative Pre-trained Transformer for Mobility Trajectory Generation</p></details> |
 | **[Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization](https://arxiv.org/abs/2510.08233v2)** | 2026-02-22 |  |
 | **[ALPACA: A Reinforcement Learning Environment for Medication Repurposing and Treatment Optimization in Alzheimer's Disease](https://arxiv.org/abs/2602.19298v1)** | 2026-02-22 |  |
 | **[DeepInterestGR: Mining Deep Multi-Interest Using Multi-Modal LLMs for Generative Recommendation](https://arxiv.org/abs/2602.18907v1)** | 2026-02-21 |  |
@@ -25,12 +27,19 @@ labels: documentation
 | **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/abs/2510.08554v3)** | 2026-02-11 |  |
 | **[Learning to Evict from Key-Value Cache](https://arxiv.org/abs/2602.10238v1)** | 2026-02-10 | 23 pages, 15 figures |
 | **[WorldCompass: Reinforcement Learning for Long-Horizon World Models](https://arxiv.org/abs/2602.09022v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project page: \url{https://3d-models.hunyuan.tencent.com/world/}</p></details> |
-| **[Reinforcement Learning with Backtracking Feedback](https://arxiv.org/abs/2602.08377v1)** | 2026-02-09 | NeurIPS 2025 |
-| **[When Is Compositional Reasoning Learnable from Verifiable Rewards?](https://arxiv.org/abs/2602.07992v1)** | 2026-02-08 |  |
 
 ## AND:latent image generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Human Video Generation from a Single Image with 3D Pose and View Control](https://arxiv.org/abs/2602.21188v1)** | 2026-02-24 |  |
+| **[Generating metamers of human scene understanding](https://arxiv.org/abs/2601.11675v3)** | 2026-02-24 |  |
+| **[When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance](https://arxiv.org/abs/2602.20880v1)** | 2026-02-24 | <details><summary>CVPR ...</summary><p>CVPR 2026; Code is released at https://github.com/tmllab/2026_CVPR_CASG</p></details> |
+| **[SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping](https://arxiv.org/abs/2510.27219v2)** | 2026-02-24 |  |
+| **[Coherent and Multi-modality Image Inpainting via Latent Space Optimization](https://arxiv.org/abs/2407.08019v2)** | 2026-02-24 |  |
+| **[Communication-Inspired Tokenization for Structured Image Representations](https://arxiv.org/abs/2602.20731v1)** | 2026-02-24 | <details><summary>Proje...</summary><p>Project website: https://araachie.github.io/comit/</p></details> |
+| **[UniPart: Part-Level 3D Generation with Unified 3D Geom-Seg Latents](https://arxiv.org/abs/2512.09435v2)** | 2026-02-24 | <details><summary>Proje...</summary><p>Project page: https://xfanhe.github.io/projects/unipart/</p></details> |
+| **[gQIR: Generative Quanta Image Reconstruction](https://arxiv.org/abs/2602.20417v1)** | 2026-02-23 | CVPR 2026 |
+| **[SimLBR: Learning to Detect Fake Images by Learning to Detect Real Images](https://arxiv.org/abs/2602.20412v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Make Some Noise: Unsupervised Remote Sensing Change Detection Using Latent Space Perturbations](https://arxiv.org/abs/2602.19881v1)** | 2026-02-23 |  |
 | **[DerMAE: Improving skin lesion classification through conditioned latent diffusion and MAE distillation](https://arxiv.org/abs/2602.19848v1)** | 2026-02-23 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, 1 table, isbi2026</p></details> |
 | **[Generative Neural Video Compression via Video Diffusion Prior](https://arxiv.org/abs/2512.05016v2)** | 2026-02-23 | accept by CVPR2026 |
@@ -42,19 +51,13 @@ labels: documentation
 | **[CheXmask-U: Quantifying uncertainty in landmark-based anatomical segmentation for X-ray images](https://arxiv.org/abs/2512.10715v2)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted for publication at MIDL 2026</p></details> |
 | **[A Markovian View of Iterative-Feedback Loops in Image Generative Models: Neural Resonance and Model Collapse](https://arxiv.org/abs/2602.19033v1)** | 2026-02-22 | <details><summary>A pre...</summary><p>A preprint -- Under review</p></details> |
 | **[TokenTrace: Multi-Concept Attribution through Watermarked Token Recovery](https://arxiv.org/abs/2602.19019v1)** | 2026-02-22 |  |
-| **[MEt3R: Measuring Multi-View Consistency in Generated Images](https://arxiv.org/abs/2501.06336v2)** | 2026-02-21 | <details><summary>Proje...</summary><p>Project website: https://geometric-rl.mpi-inf.mpg.de/met3r/ Updated to Camera-Ready version</p></details> |
-| **[Structure-Level Disentangled Diffusion for Few-Shot Chinese Font Generation](https://arxiv.org/abs/2602.18874v1)** | 2026-02-21 |  |
-| **[Collaborative Multi-Modal Coding for High-Quality 3D Generation](https://arxiv.org/abs/2508.15228v2)** | 2026-02-21 |  |
-| **[AlignTok: Aligning Visual Foundation Encoders to Tokenizers for Diffusion Models](https://arxiv.org/abs/2509.25162v2)** | 2026-02-21 | <details><summary>ICLR ...</summary><p>ICLR 2026, Project Page: https://aligntok.github.io/</p></details> |
-| **[Narrating For You: Prompt-guided Audio-visual Narrating Face Generation Employing Multi-entangled Latent Space](https://arxiv.org/abs/2602.18618v1)** | 2026-02-20 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026. Presented at Poster Session 1</p></details> |
-| **[Deep Generative model that uses physical quantities to generate and retrieve solar magnetic active regions](https://arxiv.org/abs/2502.05351v2)** | 2026-02-20 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, accepted for publication in ApJS</p></details> |
-| **[LGQ: Learning Discretization Geometry for Scalable and Stable Image Tokenization](https://arxiv.org/abs/2602.16086v2)** | 2026-02-20 |  |
-| **[Multi-Level Conditioning by Pairing Localized Text and Sketch for Fashion Image Generation](https://arxiv.org/abs/2602.18309v1)** | 2026-02-20 | <details><summary>Proje...</summary><p>Project page: https://intelligolabs.github.io/lots/</p></details> |
-| **[Generative Model via Quantile Assignment](https://arxiv.org/abs/2602.18216v1)** | 2026-02-20 |  |
 
 ## interleaving
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2602.12876v2)** | 2026-02-24 |  |
+| **[Improving the Convergence of Private Shuffled Gradient Methods with Public Data](https://arxiv.org/abs/2502.03652v2)** | 2026-02-24 | 72 pages, 6 figures |
+| **[Light of Normals: Unified Feature Representation for Universal Photometric Stereo](https://arxiv.org/abs/2506.18882v5)** | 2026-02-24 | <details><summary>Home:...</summary><p>Home: https://houyuanchen111.github.io/lino.github.io Github: https://github.com/houyuanchen111/LINO_UniPS HuggingFace</p></details> |
 | **[The LLMbda Calculus: AI Agents, Conversations, and Information Flow](https://arxiv.org/abs/2602.20064v1)** | 2026-02-23 |  |
 | **[Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://arxiv.org/abs/2602.10604v2)** | 2026-02-23 | <details><summary>Techn...</summary><p>Technical report for Step 3.5 Flash</p></details> |
 | **[CTC-TTS: LLM-based dual-streaming text-to-speech with CTC alignment](https://arxiv.org/abs/2602.19574v1)** | 2026-02-23 | <details><summary>Submi...</summary><p>Submitted to INTERSPEECH 2026</p></details> |
@@ -72,13 +75,11 @@ labels: documentation
 | **[All Leaks Count, Some Count More: Interpretable Temporal Contamination Detection in LLM Backtesting](https://arxiv.org/abs/2602.17234v1)** | 2026-02-19 | <details><summary>8 pag...</summary><p>8 pages plus appendix</p></details> |
 | **[Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning](https://arxiv.org/abs/2505.16928v3)** | 2026-02-19 |  |
 | **[Arcee Trinity Large Technical Report](https://arxiv.org/abs/2602.17004v1)** | 2026-02-19 |  |
-| **[E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707v1)** | 2026-02-18 |  |
-| **[Scaling Open Discrete Audio Foundation Models with Interleaved Semantic, Acoustic, and Text Tokens](https://arxiv.org/abs/2602.16687v1)** | 2026-02-18 |  |
-| **[Cocoa: Co-Planning and Co-Execution with AI Agents](https://arxiv.org/abs/2412.10999v4)** | 2026-02-18 | CHI 2026 paper |
 
 ## AND:autoregressive unified
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAYNOVA: 3D-Geometry-Free Auto-Regressive Driving World Modeling with Unified Spatio-Temporal Representation](https://arxiv.org/abs/2602.20685v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project website: http://yichen928.github.io/raynova</p></details> |
 | **[Pay Attention to CTC: Fast and Robust Pseudo-Labelling for Unified Speech Recognition](https://arxiv.org/abs/2602.19316v1)** | 2026-02-22 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code: https://github.com/ahaliassos/usr2</p></details> |
 | **[PEFT-Factory: Unified Parameter-Efficient Fine-Tuning of Autoregressive Large Language Models](https://arxiv.org/abs/2512.02764v2)** | 2026-02-22 |  |
 | **[PEFT-Bench: A Parameter-Efficient Fine-Tuning Methods Benchmark](https://arxiv.org/abs/2511.21285v2)** | 2026-02-22 |  |
@@ -98,12 +99,12 @@ labels: documentation
 | **[Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation](https://arxiv.org/abs/2602.10699v2)** | 2026-02-12 |  |
 | **[MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models](https://arxiv.org/abs/2602.10934v2)** | 2026-02-12 | 27 pages, 8 figures |
 | **[UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization](https://arxiv.org/abs/2602.04683v3)** | 2026-02-11 |  |
-| **[SoulX-FlashHead: Oracle-guided Generation of Infinite Real-time Streaming Talking Heads](https://arxiv.org/abs/2602.07449v3)** | 2026-02-11 | 11 pages, 3 figures |
 
 ## understanding and generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device](https://arxiv.org/abs/2602.20161v1)** | 2026-02-23 | <details><summary>Proje...</summary><p>Project page: https://amshaker.github.io/Mobile-O/</p></details> |
+| **[On the Generalization Behavior of Deep Residual Networks From a Dynamical System Perspective](https://arxiv.org/abs/2602.20921v1)** | 2026-02-24 |  |
+| **[Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device](https://arxiv.org/abs/2602.20161v2)** | 2026-02-24 | <details><summary>Proje...</summary><p>Project page: https://amshaker.github.io/Mobile-O/</p></details> |
 | **[PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](https://arxiv.org/abs/2601.16210v2)** | 2026-02-23 |  |
 | **[SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis](https://arxiv.org/abs/2602.20079v1)** | 2026-02-23 |  |
 | **[MICON-Bench: Benchmarking and Enhancing Multi-Image Context Image Generation in Unified Multimodal Models](https://arxiv.org/abs/2602.19497v1)** | 2026-02-23 | CVPR2026 |
@@ -122,5 +123,4 @@ labels: documentation
 | **[LLaMo: Scaling Pretrained Language Models for Unified Motion Understanding and Generation with Continuous Autoregressive Tokens](https://arxiv.org/abs/2602.12370v1)** | 2026-02-12 | <details><summary>Proje...</summary><p>Project page: https://kunkun0w0.github.io/project/LLaMo/</p></details> |
 | **[UniT: Unified Multimodal Chain-of-Thought Test-time Scaling](https://arxiv.org/abs/2602.12279v1)** | 2026-02-12 |  |
 | **[Best of Both Worlds: Multimodal Reasoning and Generation via Unified Discrete Flow Matching](https://arxiv.org/abs/2602.12221v1)** | 2026-02-12 |  |
-| **[Kelix Technical Report](https://arxiv.org/abs/2602.09843v3)** | 2026-02-12 | Work in progress |
 
