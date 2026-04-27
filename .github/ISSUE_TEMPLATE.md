@@ -31,6 +31,9 @@ labels: documentation
 ## AND:latent image generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Segment Any-Quality Images with Generative Latent Space Enhancement](https://arxiv.org/abs/2503.12507v3)** | 2026-04-24 | Accepted by CVPR2025 |
+| **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v4)** | 2026-04-24 |  |
+| **[Anatomy-Aware Unsupervised Detection and Localization of Retinal Abnormalities in Optical Coherence Tomography](https://arxiv.org/abs/2604.22139v1)** | 2026-04-24 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, accepted in CVPR-CV4Clinical</p></details> |
 | **[BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation](https://arxiv.org/abs/2510.20792v5)** | 2026-04-23 |  |
 | **[ATATA: One Algorithm to Align Them All](https://arxiv.org/abs/2601.11194v2)** | 2026-04-23 |  |
 | **[FunduSegmenter: Leveraging the RETFound Foundation Model for Joint Optic Disc and Optic Cup Segmentation in Retinal Fundus Images](https://arxiv.org/abs/2508.11354v3)** | 2026-04-23 |  |
@@ -48,13 +51,12 @@ labels: documentation
 | **[AnchorSeg: Language Grounded Query Banks for Reasoning Segmentation](https://arxiv.org/abs/2604.18562v3)** | 2026-04-22 | <details><summary>This ...</summary><p>This work has been accepted to ACL 2026, please refer to https://github.com/rui-qian/AnchorSeg</p></details> |
 | **[Camera Control for Text-to-Image Generation via Learning Viewpoint Tokens](https://arxiv.org/abs/2604.19954v1)** | 2026-04-21 |  |
 | **[LatentGandr: Visual Exploration of Generative AI Latent Space via Local Embeddings](https://arxiv.org/abs/2604.19953v1)** | 2026-04-21 |  |
-| **[MMCORE: MultiModal COnnection with Representation Aligned Latent Embeddings](https://arxiv.org/abs/2604.19902v1)** | 2026-04-21 |  |
-| **[Frequency-Forcing: From Scaling-as-Time to Soft Frequency Guidance](https://arxiv.org/abs/2604.20902v1)** | 2026-04-21 | ongoing project |
-| **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v3)** | 2026-04-21 |  |
 
 ## interleaving
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[State Space Estimation for DPOR-based Model Checkers(Extended Version)](https://arxiv.org/abs/2512.23996v3)** | 2026-04-24 | <details><summary>Exten...</summary><p>Extended Version of the paper accepted to appear in PLDI 2026</p></details> |
+| **[Where Should LoRA Go? Component-Type Placement in Hybrid Language Models](https://arxiv.org/abs/2604.22127v1)** | 2026-04-24 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 7 tables. Code and data: https://github.com/hecboar/lora-placement-hybrid</p></details> |
 | **[Learning State-Tracking from Code Using Linear RNNs](https://arxiv.org/abs/2602.14814v2)** | 2026-04-23 |  |
 | **[AgentGL: Towards Agentic Graph Learning with LLMs via Reinforcement Learning](https://arxiv.org/abs/2604.05846v2)** | 2026-04-23 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
 | **[DRBENCHER: Can Your Agent Identify the Entity, Retrieve Its Properties and Do the Math?](https://arxiv.org/abs/2604.09251v2)** | 2026-04-23 |  |
@@ -73,12 +75,13 @@ labels: documentation
 | **[Unveiling Fine-Grained Visual Traces: Evaluating Multimodal Interleaved Reasoning Chains in Multimodal STEM Tasks](https://arxiv.org/abs/2604.19697v1)** | 2026-04-21 |  |
 | **[Towards Streaming Target Speaker Extraction via Chunk-wise Interleaved Splicing of Autoregressive Language Model](https://arxiv.org/abs/2604.19635v1)** | 2026-04-21 |  |
 | **[FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization](https://arxiv.org/abs/2604.19541v1)** | 2026-04-21 |  |
-| **[Interleaving Distance as a Galois-Edit Distance](https://arxiv.org/abs/2509.24233v2)** | 2026-04-21 | <details><summary>v2. I...</summary><p>v2. Improved the exposition throughout and clarified the relationship between this work and earlier results. 35 pages</p></details> |
-| **[Involuntary In-Context Learning: Exploiting Few-Shot Pattern Completion to Bypass Safety Alignment in GPT-5.4](https://arxiv.org/abs/2604.19461v1)** | 2026-04-21 |  |
 
 ## AND:autoregressive unified
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Words to Amino Acids: Does the Curse of Depth Persist?](https://arxiv.org/abs/2602.21750v2)** | 2026-04-24 |  |
+| **[ResRank: Unifying Retrieval and Listwise Reranking via End-to-End Joint Training with Residual Passage Compression](https://arxiv.org/abs/2604.22180v1)** | 2026-04-24 |  |
+| **[Are Video Models Emerging as Zero-Shot Learners and Reasoners in Medical Imaging?](https://arxiv.org/abs/2510.10254v2)** | 2026-04-23 |  |
 | **[Learning Physics from Pretrained Video Models: A Multimodal Continuous and Sequential World Interaction Models for Robotic Manipulation](https://arxiv.org/abs/2603.00110v2)** | 2026-04-23 | <details><summary>11 pa...</summary><p>11 pages, 6 figures. arXiv admin note: text overlap with arXiv:2508.09822</p></details> |
 | **[LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning](https://arxiv.org/abs/2510.04573v6)** | 2026-04-23 |  |
 | **[Foveated Reasoning: Stateful, Action-based Visual Focusing for Vision-Language Models](https://arxiv.org/abs/2604.21079v1)** | 2026-04-22 |  |
@@ -96,9 +99,6 @@ labels: documentation
 | **[Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning](https://arxiv.org/abs/2604.11407v2)** | 2026-04-19 | <details><summary>Githu...</summary><p>Github: https://github.com/WisdomShell/GRIP HuggingFace:https://huggingface.co/collections/WisdomShell/grip</p></details> |
 | **[DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2601.03559v2)** | 2026-04-19 | <details><summary>DiffC...</summary><p>DiffCoT improves multi-step LLM reasoning by applying diffusion-based iterative denoising to correct intermediate Chain-of-Thought steps</p></details> |
 | **[FlowRefiner: Flow Matching-Based Iterative Refinement for 3D Turbulent Flow Simulation](https://arxiv.org/abs/2604.17149v1)** | 2026-04-18 |  |
-| **[Marrying Text-to-Motion Generation with Skeleton-Based Action Recognition](https://arxiv.org/abs/2604.17090v1)** | 2026-04-18 |  |
-| **[CRoCoDiL: Continuous and Robust Conditioned Diffusion for Language](https://arxiv.org/abs/2603.20210v3)** | 2026-04-17 |  |
-| **[TableSeq: Unified Generation of Structure, Content, and Layout](https://arxiv.org/abs/2604.16070v1)** | 2026-04-17 |  |
 
 ## understanding and generation
 | **Title** | **Date** | **Comment** |
