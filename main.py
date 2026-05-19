@@ -23,11 +23,11 @@ with open("README.md", "r") as f:
         # sys.exit("Already updated today!")
 
 keywords = [
-    "AND:reinforced learning autoregressive",
-    "AND:latent image generation", 
-    "interleaving",
-    "AND:autoregressive unified",
-    "understanding and generation"
+    "AND:shop persona user simulator",
+    "AND:sentient agent", 
+    # "interleaving",
+    # "AND:autoregressive unified",
+    # "understanding and generation"
 ]
     # "AND:multimodal LLM",
     # "rendered image"                # 精确短语匹配
