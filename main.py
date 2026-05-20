@@ -24,11 +24,12 @@ with open("README.md", "r") as f:
 
 keywords = [
     "AND:shop persona user simulator",
-    "AND:sentient agent", 
+    "AND:sentient agent"
+    "AND:reinforcement simulator"
+]
     # "interleaving",
     # "AND:autoregressive unified",
     # "understanding and generation"
-]
     # "AND:multimodal LLM",
     # "rendered image"                # 精确短语匹配
     # "AND:medical diffusion classification",    # 多词匹配，逻辑与
